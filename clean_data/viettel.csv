@@ -1,0 +1,118 @@
+ten,gia_moi,cpu,ram,bo_nho_trong,pin,sim,kich_thuoc_man_hinh,cong_nghe_man_hinh
+Samsung Galaxy S22 Ultra 12/256GB,31990000,Chip Snapdragon® 8 Gen 1 (4nm),12,256.0,Pin 5000 mAh | Sạc siêu nhanh 45W (Củ sạc 45W được bán riêng); Sạc không dây 15W | Chia sẻ pin không dây,2 nano sim hoặc 1 nano sim và 1 esim,6.8,Dynamic AMOLED 2X
+Samsung Galaxy S22 8/128GB,19990000,Chip Snapdragon® 8 Gen 1 (4nm),8,128.0,Pin 3700 mAh | Sạc siêu nhanh 25W (Củ sạc 25W được bán riêng); Sạc không dây 15W | Chia sẻ pin không dây,2 nano sim hoặc 1 nano sim và 1 esim,6.1,Dynamic AMOLED 2X
+Samsung Galaxy S22 Plus 8/128GB,23990000,Chip Snapdragon® 8 Gen 1 (4nm),8,128.0,Pin 4500 mAh | Sạc siêu nhanh 45W (Củ sạc 45W được bán riêng); Sạc không dây 15W | Chia sẻ pin không dây,2 nano sim hoặc 1 nano sim và 1 esim,6.6,Dynamic AMOLED 2X
+iPhone 13 Pro Max 128GB,29490000,Apple A15 Bionic 6 nhân; Tốc độ CPU 3.22 GHz; Apple GPU 5 nhân,6,128.0,"4352 mAh; Li-Ion; Hỗ trợ sạc tối đa 20 W; Sạc pin nhanh, Tiết kiệm pin, Sạc không dây, Sạc ngược không dây",1 Nano SIM & 1 eSIM,6.7,OLED
+iPhone 13 Pro Max 256GB,31990000,Apple A15 Bionic 6 nhân; Tốc độ CPU 3.22 GHz; Apple GPU 5 nhân,6,256.0,"4352 mAh; Li-Ion; Hỗ trợ sạc tối đa 20 W; Sạc pin nhanh, Tiết kiệm pin, Sạc không dây, Sạc ngược không dây",1 Nano SIM & 1 eSIM,6.7,OLED
+Samsung Galaxy Z Flip3 5G 128GB,17990000,Qualcomm SM8350 Snapdragon 888 (5 nm); Octa-core,8,128.0,Li-Po 3300 mAh; Fast charging 15W Fast wireless charging 10W,1 physical SIM + eSIM,6.7,Dynamix AMOLED 2X
+Samsung Galaxy A33 5G (8/128GB),7990000,Exynos 1280; 8 nhân 2 nhân 2.4GHz & 6 nhân 28GHz; Mali-G68,8,128.0,5000 mAh; Li-Po; Sạc siêu nhanh; Hỗ trợ sạc tối đa 25W,1 nano SIM + 1 SIM dùng chung khe thẻ nhớ,6.4,Super AMOLED
+Samsung Galaxy A53 5G,8790000,Exynos 1280 8 nhân 2 nhân 2.4GHz & 6 nhân 28GHz,8,128.0,5000 mAh,1 nano SIM + 1 SIM dùng chung khe thẻ nhớ,6.5,Super AMOLED
+Samsung Galaxy Z Fold3 5G 512GB,34990000,Qualcomm SM8350 Snapdragon 888 (5 nm); Octa-core,12,512.0,Li-Po 4400 mAh; Fast charging 25W Fast wireless charging 10W,2 physical SIM + eSIM Spen (Main Screen only),13.8,Dynamix AMOLED 2X Dynamix AMOLED 2X
+Samsung Galaxy A73 5G (8/128GB),10990000,Snapdragon 778G 5G; 4 nha6n 2.4GHz & 4 nha6n 1.8GHz; Adreno 642L,8,128.0,"5000 mAh; Li-Po, Sạc siêu nhanh, Hỗ trợ sạc tối đa 25W",1 nano SIM + 1 SIM dùng chung khe thẻ nhớ,6.7,Super AMOLED Plus
+iPhone 13 Pro Max 1TB,41790000,Apple A15 Bionic 6 nhân; Tốc độ CPU 3.22 GHz; Apple GPU 5 nhân,6,1024.0,"4352 mAh; Li-Ion; Hỗ trợ sạc tối đa 20 W; Sạc pin nhanh, Tiết kiệm pin, Sạc không dây, Sạc ngược không dây",1 Nano SIM & 1 eSIM,6.7,OLED
+Samsung Galaxy A23 (4/128GB),5290000,Snapdragon 680 8 nhân,4,128.0,5000 mAh25 W,2 Nano SIMHỗ trợ 4G,6.6,IPS LCD
+Samsung Galaxy A33 5G (6/128GB),7490000,Exynos 1280; 8 nhân 2 nhân 2.4GHz & 6 nhân 28GHz; Mali-G68,6,128.0,5000 mAh; Li-Po; Sạc siêu nhanh; Hỗ trợ sạc tối đa 25W,1 nano SIM + 1 SIM dùng chung khe thẻ nhớ,6.4,Super AMOLED
+Samsung Galaxy A13 (4/128GB),4190000,Exynos 850 4 nhân 2.0GHz + 4 nhân 2.0GHz,4,128.0,5000 mAh15 W,"2 Nano SIM, Hỗ trợ 4G",6.6,IPS LCD
+Samsung Galaxy A03s,3490000,MediaTek MT6765; 4 nhân 2.3 GHz & 4 nhân 1.8 GHz; IMG PowerVR GE8320,4,64.0,5000 mAh; Li-po; Tiết kiệm pin; Hỗ trợ sạc tối đa 7.75 W,2 nano SIM + 1 thẻ nhớ riêng,6.5,PLS TFT LCD
+Samsung Galaxy A03,2890000,UNISOC T606; 8 nhân (2 nhân ARM A75 1.6GHz & 6 nhân ARM A55 1.6GHz); ARM Mali G57,3,32.0,5000 mAh; Li-po; Hỗ trợ sạc tối đa 7.75 W,2 nano SIM + 1 thẻ nhớ riêng,6.5,PLS LCD
+iPhone 13 Pro 128GB,27490000,Apple A15 Bionic 6 nhân; Tốc độ CPU: 3.22 GHz; Apple GPU 5 nhân,6,128.0,"3095 mAh; Li-Ion; Hỗ trợ sạc tối đa 20 W; Sạc pin nhanh, Tiết kiệm pin, Sạc không dây, Sạc ngược không dây",1 Nano SIM & 1 eSIM,6.1,OLED
+iPhone 13 Pro 256GB,29690000,Apple A15 Bionic 6 nhân; Tốc độ CPU: 3.22 GHz; Apple GPU 5 nhân,6,256.0,"3095 mAh; Li-Ion; Hỗ trợ sạc tối đa 20 W; Sạc pin nhanh, Tiết kiệm pin, Sạc không dây, Sạc ngược không dây",1 Nano SIM & 1 eSIM,6.1,OLED
+Samsung Galaxy S22 Ultra 8/128GB,28990000,Chip Snapdragon® 8 Gen 1 (4nm),8,128.0,Pin 5000 mAh | Sạc siêu nhanh 45W (Củ sạc 45W được bán riêng); Sạc không dây 15W | Chia sẻ pin không dây,2 nano sim hoặc 1 nano sim và 1 esim,6.8,Dynamic AMOLED 2x
+iPhone 11 64GB,12290000,Apple A13 Bionic 6 nhân,4,64.0,3110 mAh,"Nano SIM & eSIM, Hỗ trợ 4G",6.1,IPS LCD
+OPPO Reno6 5G,10490000,"MTK Dimensity 900 5G, tối đa 2.4GHz; Mali-G68 MC4",8,128.0,4300mAh; (Typ) Sạc siêu nhanh superVOOC 2.0 65W,Dual nano-SIM,6.43,AMOLED
+iPhone 13 mini 128GB,18990000,Apple A15 Bionic 6 nhân; Tốc độ CPU: 3.22 GHz; Apple GPU 4 nhân,4,128.0,2438 mAh; Li-Ion; Hỗ trợ sạc tối đa 20 W; Sạc không dây; Sạc không dây MagSafe; Tiết kiệm pin; Sạc pin nhanh,1 Nano SIM & 1 eSIM,5.4,OLED
+iPhone 13 128GB,20990000,Apple A15 Bionic 6 nhân; Tốc độ CPU: 3.22 GHz; Apple GPU 4 nhân,4,128.0,"3240 mAh; Li-Ion; Hỗ trợ sạc tối đa 20 W; Sạc pin nhanh, Tiết kiệm pin, Sạc không dây, Sạc ngược không dây",1 Nano SIM & 1 eSIM,6.1,OLED
+iPhone 11 128GB,13790000,Apple A13 Bionic,4,128.0,3110 mAh- Pin chuẩn Li-Ion,"Nano SIM & eSIM, có hỗ trợ 4G",6.1,IPS LCD
+Xiaomi Redmi Note 11 Pro 5G,7990000,Snapdragon 695; 2.2ghz; Mali G75,8,128.0,5000mah; Li-ion; Super charge 67W,Nano 2 sim,6.67,OLED
+Samsung Galaxy S22 Ultra 12/512GB,34990000,Chip Snapdragon® 8 Gen 1 (4nm),12,512.0,Pin 5000 mAh | Sạc siêu nhanh 45W (Củ sạc 45W được bán riêng); Sạc không dây 15W | Chia sẻ pin không dây,2 nano sim hoặc 1 nano sim và 1 esim,6.8,Dynamic AMOLED 2X
+Xiaomi Redmi Note 11 Pro,6790000,Mediatek G96; 2.05ghz; Mali G75,8,128.0,5000mah; Li-ion; Super charge 67W,Nano 2 sim,6.67,OLED
+Nokia C21 Plus 3GB-64GB,2890000,SC9863A Octa-core với xung nhịp lên đến 1.6Ghz,3,64.0,5050 mAh4 | Pin liền; Sạc 5V/2A,Nano SIM + Nano SIM + Micro SD,6.5,
+Realme C25Y,4190000,"Unisoc T618; 8 nhân, xung nhịp lên đến 2.0GHz; ARM Mali-G52",4,128.0,5000mAh; Li-po; Sạc nhanh 18W,Dual-SIM (Nano SIM),6.5,LCD
+Xiaomi Redmi 10 5G 4/64GB,4790000,MediaTek Dimensity 700; 2.2Ghz; ARM Mali-G57 MC2,4,64.0,5000mah; Li-ion; hỗ trợ sạc nhanh 18W,Dual SIM + MicroSD,6.58,
+OPPO Reno7 Z 5G,9990000,"Qualcomm Snapdragon 695 5G, tối đa 2.2GHz",8,128.0,"4500mAh (Typ), Siêu sạc nhanh superVOOC 33W",Dual nano-SIM hoặc 1 nano-SIM+1 thẻ nhớ,6.43,AMOLED
+Vivo Y15s,3090000,MediaTek Helio P35;,3,32.0,5000mAh (TYP);,Hai SIM hai sóng (DSDS),6.51,LCD (IPS)
+Vivo Y33s,5340000,MediaTek Helio G80,8,128.0,"5000mAh (TYP); Polymer cao cấp, Sạc Siêu Tốc 18W",Hai SIM hai sóng (DSDS),6.58,LCD
+OPPO Reno7,8490000,"Qualcomm Snapdragon 680, tối đa 2.4GHz",8,128.0,4500mAh (Typ) Siêu sạc nhanh superVOOC 33W,Dual nano-SIM + 1 thẻ nhớ,6.4,AMOLED
+Nokia C20,1990000,SC9863A 8 nhân | 1.6GHz,0,32.0,"2950 mAh | pin rời, 5V1A",2 sim Nano + MicroSD,6.5,
+Nokia C20 2GB-16GB,1990000,SC9863A 8 nhân | 1.6GHz,0,16.0,"2950 mAh | pin rời, 5V1A",2 sim Nano + MicroSD,6.5,
+Samsung Galaxy Z Fold3 5G 256GB,31990000,Qualcomm SM8350 Snapdragon 888 (5 nm); Octa-core,12,256.0,Li-Po 4400 mAh; Fast charging 25W Fast wireless charging 10W,2 physical SIM + eSIM Spen (Main Screen only),13.8,Dynamic AMOLED 2X Dynamix AMOLED 2X
+Samsung Galaxy Z Flip3 5G 256GB,19990000,Qualcomm SM8350 Snapdragon 888 (5 nm); Octa-core,8,256.0,Li-Po 3300 mAh; Fast charging 15W Fast wireless charging 10W,1 physical SIM + eSIM,8.6,Dynamix AMOLED 2X Super AMOLED
+Samsung Galaxy S22 8/256GB,21490000,Chip Snapdragon® 8 Gen 1 (4nm),8,256.0,Pin 3700 mAh | Sạc siêu nhanh 25W (Củ sạc 25W được bán riêng); Sạc không dây 15W | Chia sẻ pin không dây,2 nano sim hoặc 1 nano sim và 1 esim,6.1,Dynamic AMOLED 2X
+Samsung Galaxy S22 Plus 8/256GB,25490000,Chip Snapdragon® 8 Gen 1 (4nm),8,256.0,Pin 4500 mAh | Sạc siêu nhanh 45W (Củ sạc 45W được bán riêng); Sạc không dây 15W | Chia sẻ pin không dây,2 nano sim hoặc 1 nano sim và 1 esim,6.6,Dynamic AMOLED 2X
+Xiaomi Redmi 10 5G 6/128GB,5590000,MediaTek Dimensity 700; 2.2Ghz; ARM Mali-G57 MC2,6,128.0,5000mah; Li-ion; hỗ trợ sạc nhanh 18W,Dual SIM + MicroSD,6.58,
+Xiaomi Redmi 10C 4/128GB,3690000,Snapdragon 680; 2.4ghz,4,128.0,5000mah; hỗ trợ sạc nhanh 18W,Nano 2 sim,6.71,
+iPhone 12 64GB,17490000,Apple A14 Bionic 6 nhân,4,64.0,"2815 mAh, Li-Ion; Sạc không dây MagSafe, Tiết kiệm pin, Sạc không dây, Sạc pin nhanh",1 Nano SIM & 1 eSIM,6.1,OLED
+Vivo Y21s 4GB/128GB,4690000,Mediatek Helio G80,4,128.0,5000mAh (TYP); Sạc Siêu Tốc 18W,Hai SIM hai sóng (DSDS),6.51,LCD
+Vivo Y21s 6GB/128GB,5190000,Mediatek Helio G80,6,128.0,5000mAh (TYP); Sạc Siêu Tốc 18W,Hai SIM hai sóng (DSDS),6.51,LCD
+OPPO A76,5990000,"Qualcomm Snapdragon 680, tối đa 2.4GHz, Adreno 610",6,128.0,5000mAh (Typ); Sạc siêu nhanh SuperVOOC 33W,Dual nano-SIM + 1 thẻ nhớ,6.56,LCD
+OPPO A95,6490000,"Qualcomm Snapdragon 662, tối đa 2.0GHz; Adreno 610",8,128.0,5000mAh (Typ); Sạc 33W,Dual nano-SIM + 1 thẻ nhớ,6.43,AMOLED
+Xiaomi 11T 5G 8/128GB,9290000,Meida Tek Dimensity 1200-Ultra; Tốc độ tối đa 3.0 GHz; TBC,8,128.0,5000 mAh; Li-po; Sạc siêu nhanh 67W,2 nano SIM,0.0,AMOLED
+Xiaomi 11T Pro 5G 12/256GB,12490000,"Qualcomm® Snapdragon™ 888; CPU Kryo 680 có xung nhịp lên đến 2,84 GHz, được trang bị nhân siêu to ARM Cortex-X1; Qualcomm® Adreno™ 660",12,256.0,5000 mAh; Li-po; Sạc nhanh Xiaomi HyperCharge 120 W,2 Nano Sim,0.0,AMOLED
+Xiaomi 11 Lite 5G NE 8/128GB,7690000,"Snapdragon 778G 5G 8 nhân, 1 nhân 2.4 GHz, 3 nhân 2.2 GHz & 4 nhân 1.9 GHz, Adreno 642L",8,128.0,"4250 mAh, Li-Po, Hỗ trợ sạc tối đa 33 W, Sạc pin nhanh",2 Nano SIM (SIM 2 chung khe thẻ nhớ),6.55,AMOLED
+Xiaomi Redmi Note 11 4/128GB,4490000,Snapdragon 680; 2.4Ghz; Adreno 610,4,128.0,5000mah; Li-ion; Super charge 33W,Nano 2 sim,6.43,Amoled
+Xiaomi Redmi Note 11 4/64GB,4190000,Snapdragon 680; 2.4Ghz; Adreno 610,4,64.0,5000mah; Li-ion; Super charge 33W,Nano 2 sim,6.43,IPS LCD
+Nokia G21,3940000,Unisoc T606 (2xA75 and 6xA55 1.6G),4,128.0,"5050 mah, Pin liền",SIM Nano SIM + Nano SIM hoặc Nano SIM + MicroSD,6.5,
+Samsung Galaxy A22,4790000,MediaTek MT6769V; 4 nhân 2.0 GHz & 4 nhân 1.8 GHz; Mali G52,6,128.0,5000 mAh; Li-po; Sạc nhanh 15 W,2 nano SIM + 1 thẻ nhớ riêng,6.4,Super AMOLED
+Realme C21Y (4-64GB),3790000,"8 nhân, xung nhịp lên đến 1.8 GHz 64bits; Arm Mali-G52",4,64.0,Li-po; 5000mAh,Dual-SIM (Nano SIM),6.5,LCD
+Xiaomi Redmi Note 11 4/128GB XFF,4790000,Snapdragon 680; 2.4Ghz; Adreno 610,4,128.0,5000mah; Li-ion; Super charge 33W,Nano 2 sim,6.43,Amoled
+Xiaomi Redmi Note 11S,5990000,Mediatek G96; 2.05ghz; Mali G75,8,128.0,"5000 mAh, sạc nhanh 33W","2 NanoSIM, Hỗ trợ 4G",6.43,OLED
+OPPO A55,4490000,"Helio G35, tối đa 2.3GHz; IMG GE8320@680MHz",4,64.0,5000mAh (Typ); 18W,Dual nano-SIM + 1 thẻ nhớ,6.51,LCD
+Samsung Galaxy A52 8/128GB,6790000,"Snapdragon 720G 8 nhân, 2 nhân 2.3 Ghz & 6 nhân 1.8 Ghz",8,128.0,"4500 mAh, Li-Ion, Sạc pin nhanh, Hỗ trợ sạc tối đa 25 W, Sạc kèm theo máy 15 W",2 Nano SIM,6.5,Super AMOLED
+Samsung Galaxy A32 4G,5690000,MediaTek Helio G80 8 nhân; 2 nhân 2.0 GHz & 6 nhân 1.8 GHz; Mali-G52 MC2,6,128.0,5000 mAh; Li-Ion; Sạc pin nhanh,2 Nano SIM (SIM 2 chung khe thẻ nhớ),6.4,Super AMOLED
+Samsung Galaxy S20 FE 256GB,10990000,"Snapdragon 865 8 nhân; 1 nhân 2.84 GHz, 3 nhân 2.42 GHz & 4 nhân 1.8 GHz; Adreno 650",8,256.0,4500 mAh; Li-Ion; Sạc ngược không dây; Sạc pin nhanh; Sạc không dây; Hỗ trợ sạc tối đa 25 W,2 Nano SIM (SIM 2 chung khe thẻ nhớ),6.5,Super AMOLED
+Samsung Galaxy S21 Ultra 5G 12/128GB,19990000,Exynos 2100 8 nhân,12,128.0,"5000 mAh; Li-Ion; Sạc pin nhanh, Tiết kiệm pin, Siêu tiết kiệm pin, Sạc không dây, Sạc ngược không dây",2 Nano SIM hoặc 1 Nano SIM + 1 eSIM,6.8,Dynamic AMOLED 2X
+OPPO A16,3790000,"Helio G35, tối đa 2.3GHz; IMG GE8320@680MHz",3,32.0,5000mAh (Typ),Dual nano-SIM hoặc 1 nano-SIM + 1 thẻ nhớ,6.52,LCD
+OPPO A94,7690000,"Helio P95, tối đa 2.2GHz; IMG 9XM-HP8 970MHz",8,128.0,4310mAh (Typ) Sạc nhanh VOOC 4.0 - 30W,Dual nano-SIM + 1 thẻ nhớ,6.43,AMOLED
+OPPO A16K,3290000,"Helio G35 8 nhân, tối đa 2.3GHz; IMG GE8320",3,32.0,4230mAh (Typ),Dual nano-SIM + 1 khe thẻ nhớ,6.52,LCD
+Masstel Fami 12 4G,649000,T107,0,0.25,1400mAh,2 nano SIM,0.0,
+Itel 9210 4G,680000,,0,0.125,1900 mAh,2 Micro SIM,2.4,LCD
+Samsung Galaxy S21 FE 5G 8/128GB,12990000,"Exynos 2100; 1 nhân 2.9 GHz, 3 nhân 2.8 GHz & 4 nhân 2.2 GHz; Mali-G78 MP14",8,128.0,4500 mAh; Hỗ trợ sạc tối đa 25 W; Siêu tiết kiệm pin; Sạc không dây; Sạc ngược không dây; Sạc pin nhanh; Tiết kiệm pin,2 Nano SIM,6.4,Dynamic AMOLED 2X
+Nokia 215 4G,900000,Unisoc UMS9117,0,0.125,"1150mAh, có thể tháo rời","Nano SIM + Nano SIM, LTE + LTE",2.4,
+Xiaomi Redmi 9C 3/64GB,2990000,"MediaTek Helio G35 8 nhân, 4 nhân 2.3 GHz & 4 nhân 1.8 GHz, PowerVR GE8320",3,64.0,"Pin chuẩn Li-Ion,5000 mAh",SIM 2 Nano SIM,6.53,IPS LCD
+Samsung Galaxy A52s 5G,7690000,Qualcomm SDM778G (6 nm); Octa Core 2.4GHz; 2 nhân 2.4 GHz & 6 nhân 1.8 GHz; Adreno 642L,8,128.0,"4,500 mAh; Li-po; Tiết kiệm pin; Hỗ trợ sạc nhanh tối đa 25W",2 nano SIM,6.5,Super AMOLED
+Samsung Galaxy S21 FE 5G 8/256GB,13990000,"Exynos 2100; 1 nhân 2.9 GHz, 3 nhân 2.8 GHz & 4 nhân 2.2 GHz; Mali-G78 MP14",8,256.0,4500 mAh; Hỗ trợ sạc tối đa 25 W; Siêu tiết kiệm pin; Sạc không dây; Sạc ngược không dây; Sạc pin nhanh; Tiết kiệm pin,2 Nano SIM,6.4,Dynamic AMOLED 2X
+Masstel Izi 10 4G,499000,UMS9117,0,0.125,1000mAh; Li-ion; Pin có thể tháo rời; Thời gian chờ: 5 ngày; Thời gian đàm thoại: 3-4 giờ; Thời gian sạc đầy: 2.5 giờ;,2 nano SIM,1.77,
+Masstel Izi 55 4G,699000,UIS8910,0,0.0234375,1800 mAh; Lithium-ion; Pin có thể tháo rời,02 Nano SIM,2.4,
+Masstel Fami 60 4G,749000,UIS8910,0,0.0234375,2000mAh; Li-ion; Pin có thể tháo rời; Thời gian chờ: 17 ngày; Thời gian đàm thoại: 6-8 giờ; Thời gian sạc đầy: 3-4 giờ;,2 nano SIM,2.0,
+Xiaomi Redmi 9C 4/128GB,3190000,"MediaTek Helio G35 8 nhân, 4 nhân 2.3 GHz & 4 nhân 1.8 GHz, PowerVR GE8320",4,128.0,"Pin chuẩn Li-Ion,5000 mAh",SIM 2 Nano SIM,6.53,IPS LCD
+Xiaomi Redmi 9A 2/32GB,2390000,"8 nhân A53 tốc độ lên tới 2.0Ghz, MediaTek Helio G25",2,32.0,"Li-Ion, 5000 mAh","Nano SIM, 2 khe sim + 1 khe thẻ nhớ",6.53,IPS LCD
+Xiaomi Redmi Note 10 Pro 8/128GB,6490000,"Vi xử lý Qualcomm® Snapdragon™ 732G, tiến trình 8nm",8,128.0,"Dung lượng pin 5020mAh (typ), sạc nhanh 33W","Hai SIM, dual 4G.",6.67,AMOLED
+Vivo Y21,3790000,Mediatek Helio P35,4,64.0,5000mAh (TYP); Sạc Siêu Tốc 18W; Polymer cao cấp,2 nano SIMs,6.51,LCD
+Xiaomi Redmi Note 10S 8/128GB,5690000,"MediaTek Helio G95 ; 8 nhân CPU, xung nhịp tới 2.05GHz; Đồ họa Arm Mail-G76 MC4 GPU; LPDDR4X RAM; UFS 2.2 bộ nhớ tốc độ cao",8,128.0,"Dung lượng pin lớn 5,000mAh (typ); 33W sac nhanh; 33W Củ sạc tặng kèm",Dual SIM,6.43,AMOLED
+Xiaomi Redmi 10 4/64GB,3490000,MediaTek Helio G88 8 nhân; Mali-G52 MC2,4,64.0,5000 mAh; Hỗ trợ sạc tối đa 18 W; Sạc pin nhanh,2 Nano SIM,6.5,IPS LCD
+Realme C11 2021 (2GB - 32GB),2590000,"SC9863A; 8 nhân, xung nhịp lên đến 1.6GHz; IMG 8322",2,32.0,5000mAh; Li-po; Sạc thường 10W,"Dual-SIM (Nano SIM), 2 sim và thêm 1 khe thẻ nhớ",6.5,LCD
+Realme C11 2021 (4GB - 64GB),3490000,"SC9863A; 8 nhân, xung nhịp lên đến 1.6GHz; IMG 8322",4,64.0,5000mAh; Li-po; Sạc thường 10W,"Dual-SIM (Nano SIM), 2 sim và thêm 1 khe thẻ nhớ",6.5,LCD
+Realme 8 5G,7490000,"MTK Dimensity 700 5G; CPU lõi tám nhân, xung nhịp lên đến 2.2GHz; ARM Mali-G57",0,128.0,Li-po; 5000mAh; Sạc nhanh 18W,Dual-SIM (Nano SIM); 2 sim và thêm 1 khe thẻ nhớ,6.5,LCD
+Itel A48,2090000,,2,32.0,"3000mAh, Li-po, Hỗ trợ sạc tối đa 5V 1A, Pin rời",Sim thường,6.1,
+Nokia 105 SS (2019),480000,,0,0.00390625,800mAh,Mini SIM,1.77,
+Itel Vision 1 Pro (3GB/32GB),2390000,Spreadtrum SC9832E 4 nhân; Tốc độ CPU: 1.4 GHz; Mali-T820 MP1,3,32.0,4000 mAh; Li-Ion; Hỗ trợ sạc tối đa: 5 W,2 Nano SIM,6.5,IPS LCD
+Masstel Izi 20 4G,549000,UMS9117,0,0.125,1700mAh; Li-ion; Pin có thể tháo rời; Thời gian chờ: 15 ngày; Thời gian đàm thoại: 6-8 giờ; Thời gian sạc đầy: 4 giờ,2 nano SIM,1.77,
+Nokia G10,3190000,Mediatek G25 8x A53 2.0GHz,4,64.0,5050 mAh | Pin liền,Nano SIM + Nano SIM + Micro SD,6.5,
+Masstel Izi 12 4G,499000,,0,0.125,1000mAh,Có,0.0,
+Nokia C21 Plus 3GB-32GB,2690000,SC9863A Octa-core với xung nhịp lên đến 1.6Ghz,3,32.0,5050 mAh4 | Pin liền; Sạc 5V/2A,Nano SIM + Nano SIM + Micro SD,6.5,
+Realme C35 (4/64GB),4290000,"Unisoc T616 Octa-Core; CPU lõi tám nhân, xung nhịp lên đến 2.0GHz, tiến trình12nm; G57",4,64.0,5000mAh; Li-po; Sạc nhanh QC 2.0 18W,Dual-SIM (Nano SIM) 2 sim và thêm 1 khe thẻ nhớ,6.58,LCD
+OPPO Reno7 5G,12490000,"Dimensity 900 5G, tối đa 2.4GHz; Mali-G78 MC4",8,256.0,4500mAh (Typ) Siêu sạc nhanh superVOOC 2.0 65W,Dual nano-SIM + 1 khe thẻ nhớ,6.43,AMOLED
+iPhone 13 Pro 1TB,39490000,Apple A15 Bionic 6 nhân; Tốc độ CPU: 3.22 GHz; Apple GPU 5 nhân,6,1024.0,"3095 mAh; Li-Ion; Hỗ trợ sạc tối đa 20 W; Sạc pin nhanh, Tiết kiệm pin, Sạc không dây, Sạc ngược không dây",1 Nano SIM & 1 eSIM,6.1,OLED
+iPhone 13 Pro 512GB,33990000,Apple A15 Bionic 6 nhân; Tốc độ CPU: 3.22 GHz; Apple GPU 5 nhân,6,512.0,"3095 mAh; Li-Ion; Hỗ trợ sạc tối đa 20 W; Sạc pin nhanh, Tiết kiệm pin, Sạc không dây, Sạc ngược không dây",1 Nano SIM & 1 eSIM,6.1,OLED
+iPhone 13 mini 256GB,21490000,Apple A15 Bionic 6 nhân; Tốc độ CPU: 3.22 GHz; Apple GPU 4 nhân,4,256.0,2438 mAh; Li-Ion; Hỗ trợ sạc tối đa 20 W; Sạc không dây; Sạc không dây MagSafe; Tiết kiệm pin; Sạc pin nhanh,1 Nano SIM & 1 eSIM,5.4,OLED
+iPhone 13 256GB,24490000,Apple A15 Bionic 6 nhân; Tốc độ CPU: 3.22 GHz; Apple GPU 4 nhân,4,256.0,"3240 mAh; Li-Ion; Hỗ trợ sạc tối đa 20 W; Sạc pin nhanh, Tiết kiệm pin, Sạc không dây, Sạc ngược không dây",1 Nano SIM & 1 eSIM,6.1,OLED
+iPhone SE (2022) 128GB,13490000,"Apple A15 Bionic, 6 nhân",3,128.0,"2018 mAh, 20 W, Li-Ion",1 Nano SIM & 1 eSIM,4.7,IPS LCD
+iPhone SE (2022) 64GB,12490000,"Apple A15 Bionic, 6 nhân",3,64.0,"2018 mAh, 20 W, Li-Ion",1 Nano SIM & 1 eSIM,4.7,IPS LCD
+iPhone 12 128GB,19190000,Apple A14 Bionic 6 nhân,4,128.0,"2815 mAh, Li-Ion; Sạc không dây MagSafe, Tiết kiệm pin, Sạc không dây, Sạc pin nhanh",1 Nano SIM & 1 eSIM,6.1,OLED
+Vivo V23e,6990000,MediaTek Helio G96,8,128.0,4050mAh (TYP); Sạc Siêu Tốc 44W (11V/4A),1 Nano SIM + 1 Nano SIM / 2 SIM 2 sóng chờ (DSDS),6.44,AMOLED
+Nokia C30,2950000,"""SC9863A 8 nhân | 1.6GHz """,3,32.0,"6000 mAh | Pin liền, nắp lưng có thể tháo rời",2 sim Nano + MicroSD,6.82,LCD
+Realme 9i,6190000,"Qualcomm Snapdragon 680 Octa-Core; CPU lõi tám nhân, xung nhịp lên đến 2.4GHz, tiến trình 6nm; Adreno 610",0,128.0,Li-po; 5000mAh; Sạc nhanh 33W,Dual-SIM (Nano SIM),6.6,
+Xiaomi 12 5G,19990000,Snapdragon® 8 Gen 1 trên tiến trình 4nm,8,256.0,4500mAh,Hai SIM 5G,6.28,AMOLED
+Realme C21Y (3-32G),3190000,"8 nhân, xung nhịp lên đến 1.8 GHz 64bits; Arm Mali-G52",0,32.0,Li-po; 5000mAh,Dual-SIM (Nano SIM),6.5,LCD
+Xiaomi 12 Pro,21990000,Snapdragon® 8 Gen 1 trên tiến trình 4nm,12,256.0,"4,600mAh",Hai SIM 5G,6.73,AMOLED
+Vivo V23 5G,12490000,MediaTek Dimensity 920,8,128.0,4200mAh (TYP); Sạc Siêu Tốc 44W (11V/4A);,2 SIM 2 sóng chờ (DSDS),6.44,AMOLED
+Samsung Galaxy S21 FE 5G 6/128GB,15990000,,6,128.0,4500 mAh; Hỗ trợ sạc tối đa 25 W; Siêu tiết kiệm pin; Sạc không dây; Sạc ngược không dây; Sạc pin nhanh; Tiết kiệm pin,2 Nano SIM,6.4,Dynamic AMOLED 2X
+Realme 8,6790000,"Helio G95T; CPU lõi tám nhân, xung nhịp lên đến 2.05GHz; ARM Mali-G76",8,128.0,5000 mAh; Li-Po; Sạc nhanh 30W,Dual-SIM (Nano SIM); 2 sim và thêm 1 khe thẻ nhớ,6.4,Super AMOLED
+Dien thoai di dong Philips Xenium E506 4G,730000,,0,0.015625,1700 mAh lithium ion battery 3.7V,Dual nano SIM card,2.4,TFT-LCD
+Dien thoai di dong Philips Xenium E527 4G,880000,,0,0.0234375,1700mAh 3.7V,Dual Sim,2.4,TFT-LCD
+Samsung Galaxy Z Fold 2 5G Phien ban mua he,50000000,Snapdragon 865+ 8 nhân,12,256.0,"Pin chuẩn Li-Po; 4500 mAh, Tiết kiệm pin, Siêu tiết kiệm pin, Sạc pin nhanh, Sạc pin không dây, Sạc ngược không dây",,13.82,Dynamic AMOLED Super AMOLED
+Samsung Galaxy Z Fold 2,50000000,Snapdragon 865+ 8 nhân,12,256.0,"Pin chuẩn Li-Po; 4500 mAh, Tiết kiệm pin, Siêu tiết kiệm pin, Sạc pin nhanh, Sạc pin không dây, Sạc ngược không dây","1 Nano SIM, Hỗ trợ 5G",13.82,Dynamic AMOLED Super AMOLED
+Nokia 110 4G,850000,1.8” QQVGA,0,0.046875,1020 mAh| Pin rời | BL-5C,Hai sim | Nano Sim + Nano Sim; chế độ chờ LTE + LTE,1.8,
+Nokia 105 4G,750000,Unisoc T107,0,0.046875,1020 mAh| Pin rời | BL-5C,Hai sim | Nano Sim + Nano Sim; chế độ chờ LTE + LTE,1.8,
+ZTE Blade A51 (3/64GB),2690000,Unisoc SC9863A (28nm); Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55); IMG8322,3,64.0,"Li-Ion 3200 mAh, không rời",Dual SIM (Nano-SIM. dual stand-by),6.52,IPS LCD
+ZTE Blade A31 Plus (2/32GB),1990000,Unisoc SC9863A (28nm); Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55); IMG8322,2,32.0,"Li-Ion 3000 mAh, không rời","Dual SIM (Nano-SIM, dual stand-by)",6.0,IPS LCD
