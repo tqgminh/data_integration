@@ -85,8 +85,8 @@
                 <th>Pin</th>
                 <th>Sim</th>
             </tr>
-            <tr id="data">
-                <p id="listData"></p>
+            <tr id="listData">
+                <!-- <td id="listData"></td> -->
             </tr>
         </table>
     </div>
@@ -96,8 +96,8 @@
 
 
         const a = [{
-                hang: 'iPhone',
                 ten: "iPhone 11 64GB",
+                hang: 'iPhone',
                 gia_moi: 11690000,
                 kich_thuoc_man_hinh: 6.1,
                 cong_nghe_man_hinh: "IPS LCD",
@@ -108,8 +108,8 @@
                 sim: "Nano-SIM + eSIM"
             },
             {
-                hang: 'iPhone',
                 ten: "iPhone 13 Pro Max 128GB",
+                hang: 'iPhone',
                 gia_moi: 29690000,
                 kich_thuoc_man_hinh: 6.7,
                 cong_nghe_man_hinh: "OLED",
@@ -120,8 +120,8 @@
                 sim: "2 SIM (nano\u2011SIM v\u00e0 eSIM)"
             },
             {
-                hang: 'iPhone',
                 ten: "iPhone 11 Pro Max",
+                hang: 'iPhone',
                 gia_moi: 26000000,
                 kich_thuoc_man_hinh: 6.5,
                 cong_nghe_man_hinh: "OLED",
@@ -133,10 +133,10 @@
             }
         ]
 
-        
+
 
         function displayToggle(params) {
-            
+
             let x = document.getElementById(params);
             let y = document.getElementById('data')
             if (x.style.display === "none") {
@@ -170,6 +170,7 @@
 
             spaceNode.innerHTML = listRam4gHtml;
         }
+
         function ramUnder(ram) {
             const data = a.filter(a => a.ram < ram)
             populateDataAndRender(data)
