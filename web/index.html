@@ -10,8 +10,8 @@
 
 <body>
     <form action="/tim-kiem" class="header__search" id="form-search">
-        <input id="input-search" type="text" class="input-search"  placeholder="Bạn tìm gì..."
-            name="key" autocomplete="off" maxlength="100">
+        <input id="input-search" type="text" class="input-search" placeholder="Bạn tìm gì..." name="key"
+            autocomplete="off" maxlength="100">
         <button type="submit">
             Tìm kiếm
         </button>
@@ -43,11 +43,11 @@
     </div>
 
     <div id="getRam" style="display: none">
-        <button onclick="ram(2)">Duới 2G</button>
-        <button onclick="ram(4)">2G - 4G</button>
-        <button onclick="ram(6)">4G - 6G</button>
-        <button onclick="ram(8)">6G - 8G</button>
-        <button onclick="ram(16)">Trên 16G</button>
+        <button onclick="ramUnder(2)">Duới 2G</button>
+        <button onclick="ramAbout(2, 4)">2G - 4G</button>
+        <button onclick="ramAbout(4, 6)">4G - 6G</button>
+        <button onclick="ramAbout(6, 8)">6G - 8G</button>
+        <button onclick="ramOver(16)">Trên 16G</button>
     </div>
 
     <div id="getPrice" style="display: none">
@@ -60,80 +60,83 @@
     </div>
 
     <div id="getRom" style="display: none">
-        <button onclick="priceUnder2(2000000)">Dưới 32G</button>
-        <button onclick="priceAbout(2000000, 4000000)">Từ 32G - 64G</button>
-        <button onclick="priceAbout(4000000, 7000000)">Từ 64G - 128G</button>
-        <button onclick="priceAbout(7000000, 13000000)">Trên 128G</button>
+        <button onclick="roomUnder(32)">Dưới 32G</button>
+        <button onclick="roomAbout(32, 64)">Từ 32G - 64G</button>
+        <button onclick="roomAbout(64, 128)">Từ 64G - 128G</button>
+        <button onclick="roomOver(128)">Trên 128G</button>
     </div>
 
     <div id="getScreen" style="display: none">
-        <button onclick="priceUnder2(2000000)">Dưới 5 Inch</button>
-        <button onclick="priceAbout(2000000, 4000000)">Từ 5 Inch trở lên</button>
+        <button onclick="screenUnder(5)">Dưới 5 Inch</button>
+        <button onclick="screenOver(5)">Từ 5 Inch trở lên</button>
     </div>
 
     <div>
         <table>
             <tr>
-
+                <th>Tên</th>
+                <th>Hãng</th>
+                <th>Giá</th>
+                <th>Kích thước màn hình</th>
+                <th>Công nghệ màn hình</th>
+                <th>Cpu</th>
+                <th>Ram</th>
+                <th>Bộ nhớ trong</th>
+                <th>Pin</th>
+                <th>Sim</th>
+            </tr>
+            <tr id="data">
+                <p id="listData"></p>
             </tr>
         </table>
     </div>
-    <div id="data">
-        <ul></ul>
-        <p id="listData"></p>
-    </div>
-
-    <p id="demo"></p>
 
     <script>
-        let filter = [];
+        var filter = [];
+
+
+        const a = [{
+                hang: 'iPhone',
+                ten: "iPhone 11 64GB",
+                gia_moi: 11690000,
+                kich_thuoc_man_hinh: 6.1,
+                cong_nghe_man_hinh: "IPS LCD",
+                cpu: "A13 Bionic",
+                ram: 4,
+                bo_nho_trong: 64.0,
+                pin: "3110 mAh",
+                sim: "Nano-SIM + eSIM"
+            },
+            {
+                hang: 'iPhone',
+                ten: "iPhone 13 Pro Max 128GB",
+                gia_moi: 29690000,
+                kich_thuoc_man_hinh: 6.7,
+                cong_nghe_man_hinh: "OLED",
+                cpu: "Apple A15",
+                ram: 6,
+                bo_nho_trong: 128.0,
+                pin: "4,325mAh",
+                sim: "2 SIM (nano\u2011SIM v\u00e0 eSIM)"
+            },
+            {
+                hang: 'iPhone',
+                ten: "iPhone 11 Pro Max",
+                gia_moi: 26000000,
+                kich_thuoc_man_hinh: 6.5,
+                cong_nghe_man_hinh: "OLED",
+                cpu: "A13 Bionic",
+                ram: 4,
+                bo_nho_trong: 64.0,
+                pin: "3969 mAh",
+                sim: "Nano-SIM + eSIM"
+            }
+        ]
 
         
-        const a = [{
-            ten: "iPhone 11 64GB",
-            gia_moi: 11690000,
-            kich_thuoc_man_hinh: 6.1,
-            cong_nghe_man_hinh: "IPS LCD",
-            cpu: "A13 Bionic",
-            ram: 4,
-            bo_nho_trong: 64.0,
-            pin: "3110 mAh",
-            sim: "Nano-SIM + eSIM"
-        },
-        {
-            ten: "iPhone 13 Pro Max 128GB",
-            gia_moi: 29690000,
-            kich_thuoc_man_hinh: 6.7,
-            cong_nghe_man_hinh: "OLED",
-            cpu: "Apple A15",
-            ram: 6,
-            bo_nho_trong: 128.0,
-            pin: "4,325mAh",
-            sim: "2 SIM (nano\u2011SIM v\u00e0 eSIM)"
-        },
-        {
-            ten: "iPhone 11 Pro Max",
-            gia_moi: 26000000,
-            kich_thuoc_man_hinh: 6.5,
-            cong_nghe_man_hinh: "OLED",
-            cpu: "A13 Bionic",
-            ram: 4,
-            bo_nho_trong: 64.0,
-            pin: "3969 mAh",
-            sim: "Nano-SIM + eSIM"
-        }]
-        
-        (function init(){
-            const search = document.getElementById('input-search')
-            document.querySelector('#form-search').addEventListener('submit',e=>{
-                e.preventDefault();
-                console.log('search:', search.value);
-                filter = a;
-            })
-        })();
 
         function displayToggle(params) {
-            console.log('params:', params);
+            
             let x = document.getElementById(params);
             let y = document.getElementById('data')
             if (x.style.display === "none") {
@@ -151,12 +154,13 @@
         function populateDataAndRender(data) {
             const listRam4g = data.map(item => {
                 const listDataLi = [];
-                for (let a in item) {
-                    const dataLi = `<li>
-                    ${a}: ${item[a]}
-                </li>`;
+                for (let i in item) {
+                    const dataLi = `<td>
+                    ${item[i]}
+                    </td>`;
                     listDataLi.push(dataLi);
                 }
+                console.log('listDataLi:', listDataLi);
                 return listDataLi?.join('');
             })
 
@@ -166,9 +170,18 @@
 
             spaceNode.innerHTML = listRam4gHtml;
         }
+        function ramUnder(ram) {
+            const data = a.filter(a => a.ram < ram)
+            populateDataAndRender(data)
+        }
 
-        function ram(ram) {
-            const data = a.filter(a => a.ram === ram)
+        function ramAbout(ram1, ram2) {
+            const data = a.filter(a => (a.ram >= ram1 && a.ram < ram2))
+            populateDataAndRender(data)
+        }
+
+        function ramOver(ram) {
+            const data = a.filter(a => a.ram >= ram)
             populateDataAndRender(data)
         }
 
@@ -178,7 +191,7 @@
         }
 
         function priceAbout(priceUnder, priceOver) {
-            const data = a.filter(a => a.gia_moi >= priceUnder && a.gia_moi < priceOver )
+            const data = a.filter(a => a.gia_moi >= priceUnder && a.gia_moi < priceOver)
             populateDataAndRender(data)
         }
 
@@ -187,7 +200,14 @@
             populateDataAndRender(data)
         }
 
-        
+        (function init() {
+            const search = document.getElementById('input-search')
+            document.querySelector('#form-search').addEventListener('submit', e => {
+                e.preventDefault();
+                console.log('search:', search.value);
+                filter = a;
+            })
+        })();
     </script>
 </body>
 
