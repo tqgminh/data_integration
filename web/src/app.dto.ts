@@ -4,8 +4,8 @@ export class AppDto {
   screenSize?: number;
   screenTechnology?: string;
   cpu?: string;
-  ram?: string;
-  internalMemory?: string;
+  ram?: number;
+  internalMemory?: number;
   battery?: string;
   sim?: string;
 }

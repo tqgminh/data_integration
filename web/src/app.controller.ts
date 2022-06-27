@@ -17,32 +17,32 @@ export class AppController {
     return this.appService.findOne(appDto);
   }
 
-  @Get(':id')
+  @Get(':name')
   async findByName(@Param() appDto: AppDto): Promise<App> {
     return this.appService.findByName(appDto);
   }
-  @Get(':id')
+  @Get(':price')
   async findByPrice(@Param() appDto: AppDto): Promise<App> {
     return this.appService.findByPrice(appDto);
   }
-  @Get(':id')
+  @Get(':screen')
   async findByScreen(@Param() appDto: AppDto): Promise<App> {
     return this.appService.findByScreen(appDto);
   }
-  @Get(':id')
+  @Get(':cpu')
   async findByCpu(@Param() appDto: AppDto): Promise<App> {
     return this.appService.findByCpu(appDto);
   }
-  @Get(':id')
+  @Get(':ram')
   async findByRam(@Param() appDto: AppDto): Promise<App> {
     return this.appService.findByRam(appDto);
   }
-  @Get(':id')
+  @Get(':battery')
   async findByBattery(@Param() appDto: AppDto): Promise<App> {
     return this.appService.findByBattery(appDto);
   }
 
-  @Get(':id')
+  @Get(':sim')
   async findBySim(@Param() appDto: AppDto): Promise<App> {
     return this.appService.findBySim(appDto);
   }

@@ -1,17 +1,157 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-</head>
-<body>
-  <div>
 
-  </div>
-  <div>
-    
-  </div>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <form action="/tim-kiem" class="header__search" id="form-search">
+        <input id="input-search" type="text" class="input-search"  placeholder="Bạn tìm gì..."
+            name="key" autocomplete="off" maxlength="100">
+        <button type="submit">
+            Tìm kiếm
+        </button>
+        <div id="search-result" style="display: none;">
+            <ul class="suggest_search">
+            </ul>
+
+
+        </div>
+    </form>
+
+    <div>
+        <button onclick="displayToggle('getRam')">Ram</button>
+        <button onclick="displayToggle('getPrice')">Giá</button>
+        <button onclick="displayRom()">Bộ nhớ trong</button>
+        <button onclick="displayScreen()">Kích thước màn hình</button>
+    </div>
+    <div id="getRam" style="display: none">
+        <button onclick="ram(2)">2G</button>
+        <button onclick="ram(4)">4G</button>
+        <button onclick="ram(6)">6G</button>
+        <button onclick="ram(8)">8G</button>
+        <button onclick="ram(16)">16G</button>
+    </div>
+
+    <div id="getPrice" style="display: none">
+        <button onclick="priceUnder2(2000000)">Dưới 2 triệu</button>
+        <button onclick="priceAbout(2000000, 4000000)">Từ 2 - 4 triệu</button>
+        <button onclick="priceAbout(4000000, 7000000)">Từ 4 - 7 triệu</button>
+        <button onclick="priceAbout(7000000, 13000000)">Từ 7 - 13 triệu</button>
+        <button onclick="priceAbout(13000000, 20000000)">Từ 13 - 20 triệu</button>
+        <button onclick="priceOver20(20000000)">Trên 20 triệu</button>
+    </div>
+
+    <div id="data">
+        <ul></ul>
+        <p id="listData"></p>
+    </div>
+
+    <p id="demo"></p>
+
+    <script>
+        const filter = {};
+        const a = [{
+            ten: "iPhone 11 64GB",
+            gia_moi: 11690000,
+            kich_thuoc_man_hinh: 6.1,
+            cong_nghe_man_hinh: "IPS LCD",
+            cpu: "A13 Bionic", ram: 4,
+            bo_nho_trong: 64.0,
+            pin: "3110 mAh",
+            sim: "Nano-SIM + eSIM"
+        },
+        {
+            ten: "iPhone 13 Pro Max 128GB",
+            gia_moi: 29690000,
+            kich_thuoc_man_hinh: 6.7,
+            cong_nghe_man_hinh: "OLED",
+            cpu: "Apple A15",
+            ram: 6,
+            bo_nho_trong: 128.0,
+            pin: "4,325mAh",
+            sim: "2 SIM (nano\u2011SIM v\u00e0 eSIM)"
+        },
+        {
+            ten: "iPhone 11 Pro Max",
+            gia_moi: 26000000,
+            kich_thuoc_man_hinh: 6.5,
+            cong_nghe_man_hinh: "OLED",
+            cpu: "A13 Bionic",
+            ram: 4,
+            bo_nho_trong: 64.0,
+            pin: "3969 mAh",
+            sim: "Nano-SIM + eSIM"
+        }]
+
+        function displayToggle(params) {
+            console.log('params:', params);
+            let x = document.getElementById(params);
+            let y = document.getElementById('data')
+            if (x.style.display === "none") {
+                x.style.display = "block";
+            } else {
+                x.style.display = "none";
+            }
+            if (y.style.display === "block") {
+                y.style.display = "none";
+            } else {
+                y.style.display = "block";
+            }
+        }
+
+        function populateDataAndRender(data) {
+            const listRam4g = data.map(item => {
+                const listDataLi = [];
+                for (let a in item) {
+                    const dataLi = `<li>
+                    ${a}: ${item[a]}
+                </li>`;
+                    listDataLi.push(dataLi);
+                }
+                return listDataLi?.join('');
+            })
+
+            const listRam4gHtml = listRam4g.join('<br/><br/> ');
+
+            const spaceNode = document.getElementById('listData');
+
+            spaceNode.innerHTML = listRam4gHtml;
+        }
+
+        function ram(ram) {
+            const data = a.filter(a => a.ram === ram)
+            populateDataAndRender(data)
+        }
+
+        function priceUnder2(price) {
+            const data = a.filter(a => a.gia_moi < price)
+            populateDataAndRender(data)
+        }
+
+        function priceAbout(priceUnder, priceOver) {
+            const data = a.filter(a => a.gia_moi >= priceUnder && a.gia_moi < priceOver )
+            populateDataAndRender(data)
+        }
+
+        function priceOver20(price) {
+            const data = a.filter(a => a.gia_moi >= price)
+            populateDataAndRender(data)
+        }
+
+        (function init(){
+            const search = document.getElementById('input-search')
+            document.querySelector('#form-search').addEventListener('submit',e=>{
+                e.preventDefault();
+                console.log('search:', search.value);
+                let messages = ''
+            })
+        })();
+    </script>
 </body>
+
 </html>

@@ -12,7 +12,7 @@ export class App {
   price: number;
 
   @Prop()
-  screenSize: string;
+  screenSize: number;
 
   @Prop()
   screenTechnology: string;
@@ -21,10 +21,10 @@ export class App {
   cpu: string;
 
   @Prop()
-  ram: string;
+  ram: number;
 
   @Prop()
-  internalMemory: string;
+  internalMemory: number;
 
   @Prop()
   sim: string;
