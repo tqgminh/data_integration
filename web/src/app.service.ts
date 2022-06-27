@@ -15,23 +15,23 @@ export class AppService {
   }
 
   async findOne(appDto: AppDto): Promise<App> {
-    const { name } = appDto;
-    return this.AppModel.findOne({ name }).exec();
+    const { ten } = appDto;
+    return this.AppModel.findOne({ ten }).exec();
   }
 
   async findByName(appDto: AppDto): Promise<App> {
-    const { price } = appDto;
-    return this.AppModel.findOne({ price }).exec();
+    const { gia_moi } = appDto;
+    return this.AppModel.findOne({ gia_moi }).exec();
   }
 
   async findByPrice(appDto: AppDto): Promise<App> {
-    const { screenSize } = appDto;
-    return this.AppModel.findOne({ screenSize }).exec();
+    const { kich_thuoc_man_hinh } = appDto;
+    return this.AppModel.findOne({ kich_thuoc_man_hinh }).exec();
   }
 
   async findByScreen(appDto: AppDto): Promise<App> {
-    const { screenTechnology } = appDto;
-    return this.AppModel.findOne({ screenTechnology }).exec();
+    const { cong_nghe_man_hinh } = appDto;
+    return this.AppModel.findOne({ cong_nghe_man_hinh }).exec();
   }
 
   async findByCpu(appDto: AppDto): Promise<App> {
@@ -45,8 +45,8 @@ export class AppService {
   }
 
   async findByBattery(appDto: AppDto): Promise<App> {
-    const { battery } = appDto;
-    return this.AppModel.findOne({ battery }).exec();
+    const { pin } = appDto;
+    return this.AppModel.findOne({ pin }).exec();
   }
 
   async findBySim(appDto: AppDto): Promise<App> {

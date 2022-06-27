@@ -24,17 +24,30 @@
     </form>
 
     <div>
-        <button onclick="displayToggle('getRam')">Ram</button>
+        <button onclick="displayToggle('getBrand')">Thể loại</button>
         <button onclick="displayToggle('getPrice')">Giá</button>
-        <button onclick="displayRom()">Bộ nhớ trong</button>
-        <button onclick="displayScreen()">Kích thước màn hình</button>
+        <button onclick="displayToggle('getRam')">Ram</button>
+        <button onclick="displayToggle('getRom')">Bộ nhớ trong</button>
+        <button onclick="displayToggle('getScreen')">Kích thước màn hình</button>
     </div>
+
+    <div id="getBrand" style="display: none">
+        <button onclick="brand('iphone')">IPhone</button>
+        <button onclick="brand('samsung')">Samsung</button>
+        <button onclick="brand('realme')">Realme</button>
+        <button onclick="brand('oppo')">Oppo</button>
+        <button onclick="brand('vivo')">Vivo</button>
+        <button onclick="brand('nokia')">Nokia</button>
+        <button onclick="brand('redme')">Redme</button>
+        <button onclick="brand('xiaome')">Xiaome</button>
+    </div>
+
     <div id="getRam" style="display: none">
-        <button onclick="ram(2)">2G</button>
-        <button onclick="ram(4)">4G</button>
-        <button onclick="ram(6)">6G</button>
-        <button onclick="ram(8)">8G</button>
-        <button onclick="ram(16)">16G</button>
+        <button onclick="ram(2)">Duới 2G</button>
+        <button onclick="ram(4)">2G - 4G</button>
+        <button onclick="ram(6)">4G - 6G</button>
+        <button onclick="ram(8)">6G - 8G</button>
+        <button onclick="ram(16)">Trên 16G</button>
     </div>
 
     <div id="getPrice" style="display: none">
@@ -46,6 +59,25 @@
         <button onclick="priceOver20(20000000)">Trên 20 triệu</button>
     </div>
 
+    <div id="getRom" style="display: none">
+        <button onclick="priceUnder2(2000000)">Dưới 32G</button>
+        <button onclick="priceAbout(2000000, 4000000)">Từ 32G - 64G</button>
+        <button onclick="priceAbout(4000000, 7000000)">Từ 64G - 128G</button>
+        <button onclick="priceAbout(7000000, 13000000)">Trên 128G</button>
+    </div>
+
+    <div id="getScreen" style="display: none">
+        <button onclick="priceUnder2(2000000)">Dưới 5 Inch</button>
+        <button onclick="priceAbout(2000000, 4000000)">Từ 5 Inch trở lên</button>
+    </div>
+
+    <div>
+        <table>
+            <tr>
+
+            </tr>
+        </table>
+    </div>
     <div id="data">
         <ul></ul>
         <p id="listData"></p>
@@ -54,13 +86,16 @@
     <p id="demo"></p>
 
     <script>
-        const filter = {};
+        let filter = [];
+
+        
         const a = [{
             ten: "iPhone 11 64GB",
             gia_moi: 11690000,
             kich_thuoc_man_hinh: 6.1,
             cong_nghe_man_hinh: "IPS LCD",
-            cpu: "A13 Bionic", ram: 4,
+            cpu: "A13 Bionic",
+            ram: 4,
             bo_nho_trong: 64.0,
             pin: "3110 mAh",
             sim: "Nano-SIM + eSIM"
@@ -87,6 +122,15 @@
             pin: "3969 mAh",
             sim: "Nano-SIM + eSIM"
         }]
+        
+        (function init(){
+            const search = document.getElementById('input-search')
+            document.querySelector('#form-search').addEventListener('submit',e=>{
+                e.preventDefault();
+                console.log('search:', search.value);
+                filter = a;
+            })
+        })();
 
         function displayToggle(params) {
             console.log('params:', params);
@@ -143,14 +187,7 @@
             populateDataAndRender(data)
         }
 
-        (function init(){
-            const search = document.getElementById('input-search')
-            document.querySelector('#form-search').addEventListener('submit',e=>{
-                e.preventDefault();
-                console.log('search:', search.value);
-                let messages = ''
-            })
-        })();
+        
     </script>
 </body>
 

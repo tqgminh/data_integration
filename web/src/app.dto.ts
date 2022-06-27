@@ -1,11 +1,11 @@
 export class AppDto {
-  name?: string;
-  price?: number;
-  screenSize?: number;
-  screenTechnology?: string;
+  ten?: string;
+  gia_moi?: number;
+  kich_thuoc_man_hinh?: number;
+  cong_nghe_man_hinh?: string;
   cpu?: string;
   ram?: number;
-  internalMemory?: number;
-  battery?: string;
+  bo_nho_trong?: number;
+  pin?: string;
   sim?: string;
 }

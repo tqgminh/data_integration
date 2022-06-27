@@ -6,16 +6,16 @@ export type AppDocument = App & Document;
 @Schema()
 export class App {
   @Prop()
-  name: string;
+  ten: string;
 
   @Prop()
-  price: number;
+  gia_moi: number;
 
   @Prop()
-  screenSize: number;
+  kich_thuoc_man_hinh: number;
 
   @Prop()
-  screenTechnology: string;
+  cong_nghe_man_hinh: string;
 
   @Prop()
   cpu: string;
@@ -24,7 +24,10 @@ export class App {
   ram: number;
 
   @Prop()
-  internalMemory: number;
+  bo_nho_trong: number;
+
+  @Prop()
+  pin: number;
 
   @Prop()
   sim: string;
