@@ -1,37 +1,35 @@
-ten,gia,cpu,kich_thuoc_man_hinh,pin,sim,ram,bo_nho_trong
-Samsung Galaxy S22 Ultra 5G 128GB,27990000,Snapdragon 8 Gen 1 8 nhân,6.8,5000 mAh,2 Nano SIM hoặc 1 Nano SIM + 1 eSIM,8.0,128.0
-iPhone 11 64GB,13790000,Apple A13 Bionic 6 nhân,6.1,3110 mAh,1 Nano SIM & 1 eSIM,4.0,64.0
-OPPO Reno7,8490000,Snapdragon 680 8 nhân,6.43,4500 mAh,2 Nano SIM,8.0,128.0
-Realme C35 64GB,4290000,Unisoc T616 8 nhân,6.6,5000 mAh,2 Nano SIM,4.0,64.0
-Xiaomi 11T 5G 128GB,10990000,MediaTek Dimensity 1200 8 nhân,6.67,5000 mAh,2 Nano SIM,8.0,128.0
-Samsung Galaxy A03 3GB,2990000,,0.0,,,0.0,0.0
-Xiaomi Redmi Note 11 Pro,7490000,,0.0,,,0.0,0.0
-Xiaomi Redmi Note 11S 5G,6490000,MediaTek Dimensity 810 5G 8 nhân,6.6,5000 mAh,2 Nano SIM (SIM 2 chung khe thẻ nhớ),6.0,128.0
-Vivo Y15s,3090000,MediaTek Helio P35 8 nhân,6.51,5000 mAh,2 Nano SIM,3.0,32.0
-Samsung Galaxy Z Fold3 5G 256GB,32990000,Snapdragon 888 8 nhân,13.8,4400 mAh,2 Nano SIM + 1 eSIM,12.0,256.0
-Samsung Galaxy S22+ 5G 128GB,22990000,Snapdragon 8 Gen 1 8 nhân,6.6,4500 mAh,2 Nano SIM hoặc 1 Nano SIM + 1 eSIM,8.0,128.0
-Samsung Galaxy S22 5G 128GB,18990000,Snapdragon 8 Gen 1 8 nhân,6.1,3700 mAh,2 Nano SIM hoặc 1 Nano SIM + 1 eSIM,8.0,128.0
-Xiaomi 12,18990000,Snapdragon 8 Gen 1 8 nhân,6.28,4500 mAh,2 Nano SIM,8.0,256.0
-Vivo X80,19990000,MediaTek Dimensity 9000 8 nhân,6.78,4500 mAh,2 Nano SIM,12.0,256.0
-iPhone 12 mini 64GB,18390000,Apple A14 Bionic 6 nhân,5.4,2227 mAh,1 Nano SIM & 1 eSIM,4.0,64.0
-Samsung Galaxy A03 3GB,2990000,Unisoc T606 8 nhân,6.5,5000 mAh,2 Nano SIM,3.0,32.0
-Xiaomi Redmi Note 11 Pro,7490000,MediaTek Helio G96 8 nhân,6.67,5000 mAh,2 Nano SIM (SIM 2 chung khe thẻ nhớ),8.0,128.0
-Samsung Galaxy Z Flip3 5G 128GB,17990000,Snapdragon 888 8 nhân,8.6,3300 mAh,1 Nano SIM & 1 eSIM,8.0,128.0
-iPhone SE 64GB (2022),12790000,Apple A15 Bionic 6 nhân,4.7,2018 mAh,1 Nano SIM & 1 eSIM,4.0,64.0
-iPhone SE 64GB (2020),9490000,Apple A13 Bionic 6 nhân,4.7,1821 mAh,1 Nano SIM & 1 eSIM,3.0,64.0
-Samsung Galaxy S21 FE 5G (6GB/128GB),10990000,Exynos 2100 8 nhân,6.4,4500 mAh,2 Nano SIM,6.0,128.0
-Realme 9 Pro 5G,7990000,Snapdragon 695 5G 8 nhân,6.6,5000 mAh,2 Nano SIM (SIM 2 chung khe thẻ nhớ),8.0,128.0
-Vivo V23e,7990000,MediaTek Helio G96 8 nhân,6.44,4050 mAh,2 Nano SIM (SIM 2 chung khe thẻ nhớ),8.0,128.0
-Realme 8,6990000,MediaTek Helio G95 8 nhân,6.4,5000 mAh,2 Nano SIM,8.0,128.0
-Xiaomi Redmi Note 10S 6GB,5990000,MediaTek Helio G95 8 nhân,6.43,5000 mAh,2 Nano SIM,6.0,128.0
-Samsung Galaxy A23 4GB,5690000,Snapdragon 680 8 nhân,6.6,5000 mAh,2 Nano SIM,4.0,128.0
-Vivo Y21s 4GB,4790000,MediaTek Helio G80 8 nhân,6.51,5000 mAh,2 Nano SIM,4.0,128.0
-Xiaomi Redmi Note 11 (4GB/64GB),4690000,Snapdragon 680 8 nhân,6.43,5000 mAh,2 Nano SIM,4.0,64.0
-Samsung Galaxy A13 4GB,4690000,Exynos 850 8 nhân,6.6,5000 mAh,2 Nano SIM,4.0,128.0
-Xiaomi Redmi 10 (2022),4290000,MediaTek Helio G88 8 nhân,6.5,5000 mAh,2 Nano SIM (SIM 2 chung khe thẻ nhớ),4.0,128.0
-Realme C25Y 64GB,3690000,Unisoc T618 8 nhân,6.5,5000 mAh,2 Nano SIM,4.0,64.0
-Realme C21-Y 3GB,3490000,Spreadtrum T610 8 nhân,6.5,5000 mAh,2 Nano SIM,3.0,32.0
-Xiaomi Redmi 10C 64GB,3490000,Snapdragon 680 8 nhân,6.71,5000 mAh,2 Nano SIM,4.0,64.0
-Xiaomi Redmi 9C (3GB/64GB),2990000,MediaTek Helio G35 8 nhân,6.53,5000 mAh,2 Nano SIM,3.0,64.0
-Nokia C21 Plus 32GB,2690000,Spreadtrum SC9863A 8 nhân,6.5,5050 mAh,2 Nano SIM,3.0,32.0
-Realme C11 (2021),2690000,Spreadtrum SC9863A 8 nhân,6.5,5000 mAh,2 Nano SIM,2.0,32.0
+ten,gia,cpu,kich_thuoc_man_hinh,cong_nghe_man_hinh,pin,sim,ram,bo_nho_trong,id
+Samsung Galaxy S22 Ultra 5G 128GB,27990000,Snapdragon 8 Gen 1 8 nhân,6.8,Dynamic AMOLED 2X,5000 mAh,2 Nano SIM hoặc 1 Nano SIM + 1 eSIM,8.0,128.0,0
+OPPO Reno7,8490000,Snapdragon 680 8 nhân,6.43,AMOLED,4500 mAh,2 Nano SIM,8.0,128.0,1
+Realme C35 64GB,4290000,Unisoc T616 8 nhân,6.6,IPS LCD,5000 mAh,2 Nano SIM,4.0,64.0,2
+Xiaomi 11T 5G 128GB,10990000,MediaTek Dimensity 1200 8 nhân,6.67,AMOLED,5000 mAh,2 Nano SIM,8.0,128.0,3
+Samsung Galaxy A03 3GB,2890000,Unisoc T606 8 nhân,6.5,PLS LCD,5000 mAh,2 Nano SIM,3.0,32.0,4
+Xiaomi Redmi Note 11 Pro,7490000,MediaTek Helio G96 8 nhân,6.67,AMOLED,5000 mAh,2 Nano SIM (SIM 2 chung khe thẻ nhớ),8.0,128.0,5
+Xiaomi Redmi Note 11S 5G,6490000,MediaTek Dimensity 810 5G 8 nhân,6.6,IPS LCD,5000 mAh,2 Nano SIM (SIM 2 chung khe thẻ nhớ),6.0,128.0,6
+Vivo Y15s,3090000,MediaTek Helio P35 8 nhân,6.51,IPS LCD,5000 mAh,2 Nano SIM,3.0,32.0,7
+Samsung Galaxy Z Fold3 5G 256GB,32990000,Snapdragon 888 8 nhân,13.8,Dynamic AMOLED 2X,4400 mAh,2 Nano SIM + 1 eSIM,12.0,256.0,8
+Samsung Galaxy S22+ 5G 128GB,22990000,Snapdragon 8 Gen 1 8 nhân,6.6,Dynamic AMOLED 2X,4500 mAh,2 Nano SIM hoặc 1 Nano SIM + 1 eSIM,8.0,128.0,9
+Samsung Galaxy S22 5G 128GB,18990000,Snapdragon 8 Gen 1 8 nhân,6.1,Dynamic AMOLED 2X,3700 mAh,2 Nano SIM hoặc 1 Nano SIM + 1 eSIM,8.0,128.0,10
+Vivo X80,19990000,MediaTek Dimensity 9000 8 nhân,6.78,AMOLED,4500 mAh,2 Nano SIM,12.0,256.0,11
+Xiaomi 12,18990000,Snapdragon 8 Gen 1 8 nhân,6.28,AMOLED,4500 mAh,2 Nano SIM,8.0,256.0,12
+iPhone 12 64GB,18290000,Apple A14 Bionic 6 nhân,6.1,OLED,2815 mAh,1 Nano SIM & 1 eSIM,4.0,64.0,13
+Samsung Galaxy Z Flip3 5G 128GB,17990000,Snapdragon 888 8 nhân,8.6,Dynamic AMOLED 2X,3300 mAh,1 Nano SIM & 1 eSIM,8.0,128.0,14
+iPhone 12 mini 64GB,16390000,Apple A14 Bionic 6 nhân,5.4,OLED,2227 mAh,1 Nano SIM & 1 eSIM,4.0,64.0,15
+iPhone SE 64GB (2022),11790000,Apple A15 Bionic 6 nhân,4.7,IPS LCD,2018 mAh,1 Nano SIM & 1 eSIM,4.0,64.0,16
+Samsung Galaxy S21 FE 5G (6GB/128GB),10990000,Exynos 2100 8 nhân,6.4,Dynamic AMOLED 2X,4500 mAh,2 Nano SIM,6.0,128.0,17
+iPhone SE 64GB (2020) (Hop moi),8990000,Apple A13 Bionic 6 nhân,4.7,IPS LCD,1821 mAh,1 Nano SIM & 1 eSIM,3.0,64.0,18
+Realme 9 Pro 5G,7990000,Snapdragon 695 5G 8 nhân,6.6,IPS LCD,5000 mAh,2 Nano SIM (SIM 2 chung khe thẻ nhớ),8.0,128.0,19
+Vivo V23e,7990000,MediaTek Helio G96 8 nhân,6.44,AMOLED,4050 mAh,2 Nano SIM (SIM 2 chung khe thẻ nhớ),8.0,128.0,20
+Realme 8,6990000,MediaTek Helio G95 8 nhân,6.4,Super AMOLED,5000 mAh,2 Nano SIM,8.0,128.0,21
+Xiaomi Redmi Note 10S 6GB,5990000,MediaTek Helio G95 8 nhân,6.43,AMOLED,5000 mAh,2 Nano SIM,6.0,128.0,22
+Samsung Galaxy A23 4GB,5290000,Snapdragon 680 8 nhân,6.6,PLS TFT LCD,5000 mAh,2 Nano SIM,4.0,128.0,23
+Vivo Y21s 4GB,4790000,MediaTek Helio G80 8 nhân,6.51,IPS LCD,5000 mAh,2 Nano SIM,4.0,128.0,24
+Xiaomi Redmi Note 11 (4GB/64GB),4690000,Snapdragon 680 8 nhân,6.43,AMOLED,5000 mAh,2 Nano SIM,4.0,64.0,25
+Xiaomi Redmi 10 (2022),4290000,MediaTek Helio G88 8 nhân,6.5,IPS LCD,5000 mAh,2 Nano SIM (SIM 2 chung khe thẻ nhớ),4.0,128.0,26
+Samsung Galaxy A13 4GB,4190000,Exynos 850 8 nhân,6.6,PLS TFT LCD,5000 mAh,2 Nano SIM,4.0,128.0,27
+Realme C25Y 64GB,3690000,Unisoc T618 8 nhân,6.5,IPS LCD,5000 mAh,2 Nano SIM,4.0,64.0,28
+Realme C21-Y 3GB,3490000,Spreadtrum T610 8 nhân,6.5,IPS LCD,5000 mAh,2 Nano SIM,3.0,32.0,29
+Xiaomi Redmi 10C 64GB,3490000,Snapdragon 680 8 nhân,6.71,IPS LCD,5000 mAh,2 Nano SIM,4.0,64.0,30
+Xiaomi Redmi 9C (3GB/64GB),2990000,MediaTek Helio G35 8 nhân,6.53,IPS LCD,5000 mAh,2 Nano SIM,3.0,64.0,31
+Realme C11 (2021),2690000,Spreadtrum SC9863A 8 nhân,6.5,IPS LCD,5000 mAh,2 Nano SIM,2.0,32.0,32
+Nokia C21 Plus 32GB,2690000,Spreadtrum SC9863A 8 nhân,6.5,TFT LCD,5050 mAh,2 Nano SIM,3.0,32.0,33
