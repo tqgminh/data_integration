@@ -69,13 +69,14 @@ for link in product_links:
         kich_thuoc_man_hinh=''
 
         name_CN = 'heading-title'
-        price_CN = '/html/body/div[2]/main/div[2]/div[1]/div/div/div[2]/div[1]/div/div[1]/div[4]/form/div[3]/div[1]/div/div[1]/span/span/span[2]/span'
+
         try:
             name = driver.find_element(By.CLASS_NAME, name_CN).text
         except:
             print('NO NAME')
         try:
-            price = driver.find_element(By.CLASS_NAME, price_CN).text
+            price = driver.find_element(By.CLASS_NAME, 'price-wrapper ').text
+            print(price)
         except:
             print('NO PRICE')
         # print( name,'--', price)

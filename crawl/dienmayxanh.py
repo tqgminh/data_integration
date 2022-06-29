@@ -29,6 +29,7 @@ def get_product_link(driver):
     return product_links
 
 driver.get(LOGIN_URL)
+time.sleep(5)
 product_links = get_product_link(driver)
 
 
@@ -92,7 +93,7 @@ for link in product_links:
                 #     toc_do_cpu=datas[i]
                 if heads[i]=='Màn hình rộng:':
                     kich_thuoc=datas[i]
-                if heads[i]== 'Công nghệ màn hình':
+                if heads[i]== 'Công nghệ màn hình:':
                     cong_nghe_man_hinh=datas[i]
                 # if heads[i]=='Jack tai nghe':
                 #     jack_tai_nghe=datas[i]
@@ -112,7 +113,7 @@ for link in product_links:
                 #     kich_thuoc_man_hinh=datas[i]
             except:
                 print('cant get tr')
-        with open('M:\\pycharm\\crawling_new\\dien_may_xanh.csv', 'a',newline='',encoding='utf-8') as f:
+        with open('C:\\Users\\GS75\\PycharmProjects\\Tich_hop_du_lieu\\data_integration\\data\\dienmayxanh.csv', 'a',newline='',encoding='utf-8') as f:
             writer = csv.writer(f)
             writer.writerow([name,price,bluetooth,thuong_hieu,xuat_xu,ho_tro_the_nho_ngoai,chip_set,toc_do_cpu,kich_thuoc,cong_nghe_man_hinh,jack_tai_nghe,loai_pin,loai_sim,trong_luong,ram,do_phan_giai,rom,kich_thuoc_man_hinh
                              ])
