@@ -1,17 +1,215 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-</head>
-<body>
-  <div>
 
-  </div>
-  <div>
-    
-  </div>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <form action="/tim-kiem" class="header__search" id="form-search">
+        <input id="input-search" type="text" class="input-search" placeholder="Bạn tìm gì..." name="key"
+            autocomplete="off" maxlength="100">
+        <button type="submit">
+            Tìm kiếm
+        </button>
+        <div id="search-result" style="display: none;">
+            <ul class="suggest_search">
+            </ul>
+
+
+        </div>
+    </form>
+
+    <div>
+        <button onclick="displayToggle('getBrand')">Thể loại</button>
+        <button onclick="displayToggle('getPrice')">Giá</button>
+        <button onclick="displayToggle('getRam')">Ram</button>
+        <button onclick="displayToggle('getRom')">Bộ nhớ trong</button>
+        <button onclick="displayToggle('getScreen')">Kích thước màn hình</button>
+    </div>
+
+    <div id="getBrand" style="display: none">
+        <button onclick="brand('iphone')">IPhone</button>
+        <button onclick="brand('samsung')">Samsung</button>
+        <button onclick="brand('realme')">Realme</button>
+        <button onclick="brand('oppo')">Oppo</button>
+        <button onclick="brand('vivo')">Vivo</button>
+        <button onclick="brand('nokia')">Nokia</button>
+        <button onclick="brand('redme')">Redme</button>
+        <button onclick="brand('xiaome')">Xiaome</button>
+    </div>
+
+    <div id="getRam" style="display: none">
+        <button onclick="ramUnder(2)">Duới 2G</button>
+        <button onclick="ramAbout(2, 4)">2G - 4G</button>
+        <button onclick="ramAbout(4, 6)">4G - 6G</button>
+        <button onclick="ramAbout(6, 8)">6G - 8G</button>
+        <button onclick="ramOver(16)">Trên 16G</button>
+    </div>
+
+    <div id="getPrice" style="display: none">
+        <button onclick="priceUnder2(2000000)">Dưới 2 triệu</button>
+        <button onclick="priceAbout(2000000, 4000000)">Từ 2 - 4 triệu</button>
+        <button onclick="priceAbout(4000000, 7000000)">Từ 4 - 7 triệu</button>
+        <button onclick="priceAbout(7000000, 13000000)">Từ 7 - 13 triệu</button>
+        <button onclick="priceAbout(13000000, 20000000)">Từ 13 - 20 triệu</button>
+        <button onclick="priceOver20(20000000)">Trên 20 triệu</button>
+    </div>
+
+    <div id="getRom" style="display: none">
+        <button onclick="roomUnder(32)">Dưới 32G</button>
+        <button onclick="roomAbout(32, 64)">Từ 32G - 64G</button>
+        <button onclick="roomAbout(64, 128)">Từ 64G - 128G</button>
+        <button onclick="roomOver(128)">Trên 128G</button>
+    </div>
+
+    <div id="getScreen" style="display: none">
+        <button onclick="screenUnder(5)">Dưới 5 Inch</button>
+        <button onclick="screenOver(5)">Từ 5 Inch trở lên</button>
+    </div>
+
+    <div>
+        <table>
+            <tr>
+                <th>Tên</th>
+                <th>Hãng</th>
+                <th>Giá</th>
+                <th>Kích thước màn hình</th>
+                <th>Công nghệ màn hình</th>
+                <th>Cpu</th>
+                <th>Ram</th>
+                <th>Bộ nhớ trong</th>
+                <th>Pin</th>
+                <th>Sim</th>
+            </tr>
+            <tr id="listData">
+                <!-- <td id="listData"></td> -->
+            </tr>
+        </table>
+    </div>
+
+    <script>
+        var filter = [];
+
+
+        const a = [{
+                ten: "iPhone 11 64GB",
+                hang: 'iPhone',
+                gia_moi: 11690000,
+                kich_thuoc_man_hinh: 6.1,
+                cong_nghe_man_hinh: "IPS LCD",
+                cpu: "A13 Bionic",
+                ram: 4,
+                bo_nho_trong: 64.0,
+                pin: "3110 mAh",
+                sim: "Nano-SIM + eSIM"
+            },
+            {
+                ten: "iPhone 13 Pro Max 128GB",
+                hang: 'iPhone',
+                gia_moi: 29690000,
+                kich_thuoc_man_hinh: 6.7,
+                cong_nghe_man_hinh: "OLED",
+                cpu: "Apple A15",
+                ram: 6,
+                bo_nho_trong: 128.0,
+                pin: "4,325mAh",
+                sim: "2 SIM (nano\u2011SIM v\u00e0 eSIM)"
+            },
+            {
+                ten: "iPhone 11 Pro Max",
+                hang: 'iPhone',
+                gia_moi: 26000000,
+                kich_thuoc_man_hinh: 6.5,
+                cong_nghe_man_hinh: "OLED",
+                cpu: "A13 Bionic",
+                ram: 4,
+                bo_nho_trong: 64.0,
+                pin: "3969 mAh",
+                sim: "Nano-SIM + eSIM"
+            }
+        ]
+
+
+
+        function displayToggle(params) {
+
+            let x = document.getElementById(params);
+            let y = document.getElementById('data')
+            if (x.style.display === "none") {
+                x.style.display = "block";
+            } else {
+                x.style.display = "none";
+            }
+            if (y.style.display === "block") {
+                y.style.display = "none";
+            } else {
+                y.style.display = "block";
+            }
+        }
+
+        function populateDataAndRender(data) {
+            const listRam4g = data.map(item => {
+                const listDataLi = [];
+                for (let i in item) {
+                    const dataLi = `<td>
+                    ${item[i]}
+                    </td>`;
+                    listDataLi.push(dataLi);
+                }
+                console.log('listDataLi:', listDataLi);
+                return listDataLi?.join('');
+            })
+
+            const listRam4gHtml = listRam4g.join('<br/><br/> ');
+
+            const spaceNode = document.getElementById('listData');
+
+            spaceNode.innerHTML = listRam4gHtml;
+        }
+
+        function ramUnder(ram) {
+            const data = a.filter(a => a.ram < ram)
+            populateDataAndRender(data)
+        }
+
+        function ramAbout(ram1, ram2) {
+            const data = a.filter(a => (a.ram >= ram1 && a.ram < ram2))
+            populateDataAndRender(data)
+        }
+
+        function ramOver(ram) {
+            const data = a.filter(a => a.ram >= ram)
+            populateDataAndRender(data)
+        }
+
+        function priceUnder2(price) {
+            const data = a.filter(a => a.gia_moi < price)
+            populateDataAndRender(data)
+        }
+
+        function priceAbout(priceUnder, priceOver) {
+            const data = a.filter(a => a.gia_moi >= priceUnder && a.gia_moi < priceOver)
+            populateDataAndRender(data)
+        }
+
+        function priceOver20(price) {
+            const data = a.filter(a => a.gia_moi >= price)
+            populateDataAndRender(data)
+        }
+
+        (function init() {
+            const search = document.getElementById('input-search')
+            document.querySelector('#form-search').addEventListener('submit', e => {
+                e.preventDefault();
+                console.log('search:', search.value);
+                filter = a;
+            })
+        })();
+    </script>
 </body>
+
 </html>
