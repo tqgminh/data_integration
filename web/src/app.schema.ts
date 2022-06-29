@@ -9,6 +9,9 @@ export class App {
   ten: string;
 
   @Prop()
+  hang: string;
+
+  @Prop()
   gia_moi: number;
 
   @Prop()
@@ -27,10 +30,10 @@ export class App {
   bo_nho_trong: number;
 
   @Prop()
-  pin: number;
+  pin: string;
 
   @Prop()
   sim: string;
 }
 
-export const CatSchema = SchemaFactory.createForClass(App);
+export const AppSchema = SchemaFactory.createForClass(App);

@@ -10,8 +10,14 @@ export class AppService {
     @InjectModel(App.name) private readonly AppModel: Model<AppDocument>,
   ) {}
 
-  async findAll(): Promise<App[]> {
-    return this.AppModel.find().exec();
+  async findAll(appDto: AppDto) {
+    const { ten } = appDto;
+    const rs = await this.AppModel.find(
+      { ten: { $regex: ten } },
+      { _id: false },
+    ).exec();
+
+    return rs;
   }
 
   async findOne(appDto: AppDto): Promise<App> {

@@ -1,5 +1,6 @@
 export class AppDto {
   ten?: string;
+  hang?: string;
   gia_moi?: number;
   kich_thuoc_man_hinh?: number;
   cong_nghe_man_hinh?: string;
