@@ -1,15 +1,16 @@
-import { Controller, Get, Param } from '@nestjs/common';
+import { Controller, Get, Param, Query, Res } from '@nestjs/common';
 import { AppService } from './app.service';
 import { App } from './app.schema';
 import { AppDto } from './app.dto';
 
-@Controller('App')
+@Controller('app')
 export class AppController {
   constructor(private readonly appService: AppService) {}
 
   @Get()
-  async findAll(): Promise<App[]> {
-    return this.appService.findAll();
+  async findAll(@Query() appDto: AppDto, @Res() res) {
+    const data = await this.appService.findAll(appDto);
+    res.json({ data });
   }
 
   @Get(':id')
