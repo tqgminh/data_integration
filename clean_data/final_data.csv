@@ -1,542 +1,604 @@
-ten,gia,cong_nghe_man_hinh,cpu,ram,bo_nho_trong,sim,pin,kich_thuoc_man_hinh,id,src,thuong_hieu
-iPhone 12 Pro 256GB,26290000,OLED,Apple A14 Bionic 6 nhân,6.0,256.0,1 Nano SIM & 1 eSIM,2815 mAh,6.1,0,Thế giới di động,apple
-iPhone 12 64GB,19990000,OLED,Apple A14 Bionic 6 nhân,4.0,64.0,1 Nano SIM & 1 eSIM,2815 mAh,6.1,1,Thế giới di động,apple
-iPhone 12 mini 64GB,18990000,OLED,Apple A14 Bionic 6 nhân,4.0,64.0,1 Nano SIM & 1 eSIM,2227 mAh,5.4,2,Thế giới di động,apple
-iPhone SE 64GB (2020) (Hộp mới),9490000,IPS LCD,Apple A13 Bionic 6 nhân,3.0,64.0,1 Nano SIM & 1 eSIM,1821 mAh,4.7,3,Thế giới di động,apple
-iPhone 11 64GB,11690000,IPS LCD,A13 Bionic,4.0,64.0,Nano-SIM + eSIM,3110 mAh,6.1,4,CellphoneS,apple
-iPhone 13 Pro Max 128GB,29690000,OLED,Apple A15,6.0,128.0,2 SIM (nano‑SIM và eSIM),"4,325mAh",6.7,5,CellphoneS,apple
-iPhone 11 Pro Max,26000000,OLED,A13 Bionic,4.0,64.0,Nano-SIM + eSIM,3969 mAh,6.5,6,CellphoneS,apple
-iPhone 12 Pro Max 128GB,27000000,OLED,Apple A14 Bionic (5 nm),6.0,128.0,2 SIM (nano‑SIM và eSIM),"Li-Ion, sạc nhanh 20W, sạc không dây 15W, USB Power Delivery 2.0",6.7,7,CellphoneS,apple
-iPhone 13 128GB,21200000,OLED,Apple A15,4.0,128.0,,Khoảng 3.200mAh,6.1,8,CellphoneS,apple
-iPhone 11 128GB,13400000,IPS LCD,A13 Bionic,4.0,128.0,Nano-SIM + eSIM,3110 mAh,6.1,9,CellphoneS,apple
-iPhone SE 2022,10790000,Liquid Retina,Chip A15 Bionic 6 nhân,4.0,64.0,2 SIM (nano‑SIM và eSIM),1.820mAh,4.7,10,CellphoneS,apple
-iPhone 13 Pro 128GB,27190000,OLED,Apple A15,6.0,128.0,2 SIM (nano‑SIM và eSIM),"3,095mAh",6.1,11,CellphoneS,apple
-iPhone 13 128GB - Xanh la,22000000,OLED,Apple A15,0.0,128.0,,"3,095mAh",6.1,12,CellphoneS,apple
-iPhone 12 128GB,17990000,OLED,Apple A14 Bionic (5 nm),4.0,128.0,2 SIM (nano‑SIM và eSIM),"Li-Ion, sạc nhanh 20W, sạc không dây 15W, USB Power Delivery 2.0",6.1,13,CellphoneS,apple
-iPhone 13 Pro Max 256GB,32190000,OLED,Apple A15,6.0,256.0,2 SIM (nano‑SIM và eSIM),"4,325mAh",6.7,14,CellphoneS,apple
-iPhone XR 64GB,12500000,IPS LCD,Apple A12 Bionic,3.0,64.0,Nano-SIM,2942mAh,6.1,15,CellphoneS,apple
-iPhone 12 Pro 128GB,25500000,OLED,Apple A14 Bionic (5 nm),6.0,128.0,2 SIM (nano‑SIM và eSIM),"Li-Ion, sạc nhanh 20W, sạc không dây 15W, USB Power Delivery 2.0",6.1,16,CellphoneS,apple
-iPhone 13 mini 128GB,18990000,OLED,Apple A15,4.0,128.0,2 SIM (nano‑SIM và eSIM),"2,406mAh",5.4,17,CellphoneS,apple
-iPhone 13 256GB,23500000,OLED,Apple A15,4.0,256.0,,"Khoảng 3,200mAh",6.1,18,CellphoneS,apple
-iPhone 12 Pro Max 256GB,29000000,OLED,Apple A14 Bionic (5 nm),6.0,256.0,2 SIM (nano‑SIM và eSIM),"Li-Ion, sạc nhanh 18W, sạc không dây 15W, USB Power Delivery 2.0",6.7,19,CellphoneS,apple
-iPhone 13 256GB - Xanh la,23950000,OLED,Apple A15,0.0,256.0,,"3,095mAh",6.1,20,CellphoneS,apple
-iPhone 13 Pro 256GB,29950000,OLED,Apple A15,6.0,256.0,2 SIM (nano‑SIM và eSIM),"3,095mAh",6.1,21,CellphoneS,apple
-Apple iPhone 8 Plus 128GB,13920000,IPS LCD,Apple A11 Bionic APL1W72,3.0,128.0,Nano-SIM,Li-ion 2691 mAh,5.5,22,CellphoneS,apple
-iPhone 13 Pro Max 512GB,37500000,OLED,Apple A15,6.0,256.0,2 SIM (nano‑SIM và eSIM),"4,325mAh",6.7,23,CellphoneS,apple
-iPhone 13 Pro Max 1TB,44000000,OLED,Apple A15,6.0,1024.0,2 SIM (nano‑SIM và eSIM),"4,325mAh",6.7,24,CellphoneS,apple
-iPhone SE 2022 128GB,12990000,Liquid Retina,Chip A15 Bionic,4.0,128.0,2 SIM (nano‑SIM và eSIM),1.820mAh,4.7,25,CellphoneS,apple
-iPhone 11 256GB,19000000,OLED,A13 Bionic,4.0,256.0,Nano-SIM + eSIM,3110 mAh,6.1,26,CellphoneS,apple
-iPhone 12 mini 128GB,16000000,OLED,Apple A14 Bionic (5 nm),4.0,128.0,2 SIM (nano‑SIM và eSIM),"Li-Ion, sạc nhanh 20W, sạc không dây 15W, USB Power Delivery 2.0",5.4,27,CellphoneS,apple
-iPhone XR 128GB,13000000,IPS LCD,Apple A12 Bionic,3.0,128.0,Nano-SIM,2942mAh,6.1,28,CellphoneS,apple
-iPhone 13 512GB,25500000,OLED,Apple A15,4.0,512.0,2 SIM (nano‑SIM và eSIM),"Khoảng 3,200mAh",6.1,29,CellphoneS,apple
-iPhone 12 256GB,21990000,OLED,Apple A14 Bionic (5 nm),4.0,256.0,2 SIM (nano‑SIM và eSIM),"Li-Ion, sạc nhanh 20W, sạc không dây 15W, USB Power Delivery 2.0",6.1,30,CellphoneS,apple
-iPhone 12 Pro Max 512GB,31000000,OLED,Apple A14 Bionic (5 nm),6.0,512.0,2 SIM (nano‑SIM và eSIM),"Li-Ion, sạc nhanh 20W, sạc không dây 15W, USB Power Delivery 2.0",6.7,31,CellphoneS,apple
-iPhone 11 Pro 512GB,27000000,,A13 Bionic,4.0,512.0,Nano-SIM + eSIM,3046 mAh,5.8,32,CellphoneS,apple
-iPhone 13 Pro 512GB,32500000,OLED,Apple A15,6.0,256.0,2 SIM (nano‑SIM và eSIM),"3,095mAh",6.1,33,CellphoneS,apple
-iPhone 13 mini 256GB,19990000,OLED,Apple A15 Bionic 6 nhân,4.0,256.0,2 SIM (nano‑SIM và eSIM),"2,406mAh",5.4,34,CellphoneS,apple
-iPhone SE 2022 256GB,15990000,Liquid Retina,Chip A15 Bionic,4.0,256.0,2 SIM (nano‑SIM và eSIM),1.820mAh,4.7,35,CellphoneS,apple
-iPhone 12 Pro 512GB,27500000,OLED,Apple A14 Bionic (5 nm),6.0,512.0,2 SIM (nano‑SIM và eSIM),"Li-Ion, sạc nhanh 20W, sạc không dây 15W, USB Power Delivery 2.0",6.1,36,CellphoneS,apple
-iPhone 13 mini 512GB,23000000,OLED,Apple A15 Bionic 6 nhân,4.0,512.0,2 SIM (nano‑SIM và eSIM),"2,406mAh",5.4,37,CellphoneS,apple
+ten,gia,cong_nghe_man_hinh,cpu,ram,bo_nho_trong,sim,pin,kich_thuoc_man_hinh,id,thuong_hieu
+iPhone 12 Pro 256GB,26290000,OLED,Apple A14 Bionic 6 nhân,6.0,256.0,1 Nano SIM & 1 eSIM,2815 mAh,6.1,0,apple
+iPhone 12 64GB,19990000,OLED,Apple A14 Bionic 6 nhân,4.0,64.0,1 Nano SIM & 1 eSIM,2815 mAh,6.1,1,apple
+iPhone 12 mini 64GB,18990000,OLED,Apple A14 Bionic 6 nhân,4.0,64.0,1 Nano SIM & 1 eSIM,2227 mAh,5.4,2,apple
+iPhone SE 64GB (2020) (Hộp mới),9490000,IPS LCD,Apple A13 Bionic 6 nhân,3.0,64.0,1 Nano SIM & 1 eSIM,1821 mAh,4.7,3,apple
+iPhone 11 64GB,11690000,IPS LCD,A13 Bionic,4.0,64.0,Nano-SIM + eSIM,3110 mAh,6.1,4,apple
+iPhone 13 Pro Max 128GB,29690000,OLED,Apple A15,6.0,128.0,2 SIM (nano‑SIM và eSIM),"4,325mAh",6.7,5,apple
+iPhone 11 Pro Max,26000000,OLED,A13 Bionic,4.0,64.0,Nano-SIM + eSIM,3969 mAh,6.5,6,apple
+iPhone 12 Pro Max 128GB,27000000,OLED,Apple A14 Bionic (5 nm),6.0,128.0,2 SIM (nano‑SIM và eSIM),"Li-Ion, sạc nhanh 20W, sạc không dây 15W, USB Power Delivery 2.0",6.7,7,apple
+iPhone 13 128GB,21200000,OLED,Apple A15,4.0,128.0,,Khoảng 3.200mAh,6.1,8,apple
+iPhone 11 128GB,13400000,IPS LCD,A13 Bionic,4.0,128.0,Nano-SIM + eSIM,3110 mAh,6.1,9,apple
+iPhone SE 2022,10790000,Liquid Retina,Chip A15 Bionic 6 nhân,4.0,64.0,2 SIM (nano‑SIM và eSIM),1.820mAh,4.7,10,apple
+iPhone 13 Pro 128GB,27190000,OLED,Apple A15,6.0,128.0,2 SIM (nano‑SIM và eSIM),"3,095mAh",6.1,11,apple
+iPhone 13 128GB - Xanh la,22000000,OLED,Apple A15,0.0,128.0,,"3,095mAh",6.1,12,apple
+iPhone 12 128GB,17990000,OLED,Apple A14 Bionic (5 nm),4.0,128.0,2 SIM (nano‑SIM và eSIM),"Li-Ion, sạc nhanh 20W, sạc không dây 15W, USB Power Delivery 2.0",6.1,13,apple
+iPhone 13 Pro Max 256GB,32190000,OLED,Apple A15,6.0,256.0,2 SIM (nano‑SIM và eSIM),"4,325mAh",6.7,14,apple
+iPhone XR 64GB,12500000,IPS LCD,Apple A12 Bionic,3.0,64.0,Nano-SIM,2942mAh,6.1,15,apple
+iPhone 12 Pro 128GB,25500000,OLED,Apple A14 Bionic (5 nm),6.0,128.0,2 SIM (nano‑SIM và eSIM),"Li-Ion, sạc nhanh 20W, sạc không dây 15W, USB Power Delivery 2.0",6.1,16,apple
+iPhone 13 mini 128GB,18990000,OLED,Apple A15,4.0,128.0,2 SIM (nano‑SIM và eSIM),"2,406mAh",5.4,17,apple
+iPhone 13 256GB,23500000,OLED,Apple A15,4.0,256.0,,"Khoảng 3,200mAh",6.1,18,apple
+iPhone 12 Pro Max 256GB,29000000,OLED,Apple A14 Bionic (5 nm),6.0,256.0,2 SIM (nano‑SIM và eSIM),"Li-Ion, sạc nhanh 18W, sạc không dây 15W, USB Power Delivery 2.0",6.7,19,apple
+iPhone 13 256GB - Xanh la,23950000,OLED,Apple A15,0.0,256.0,,"3,095mAh",6.1,20,apple
+iPhone 13 Pro 256GB,29950000,OLED,Apple A15,6.0,256.0,2 SIM (nano‑SIM và eSIM),"3,095mAh",6.1,21,apple
+Apple iPhone 8 Plus 128GB,13920000,IPS LCD,Apple A11 Bionic APL1W72,3.0,128.0,Nano-SIM,Li-ion 2691 mAh,5.5,22,apple
+iPhone 13 Pro Max 512GB,37500000,OLED,Apple A15,6.0,256.0,2 SIM (nano‑SIM và eSIM),"4,325mAh",6.7,23,apple
+iPhone 13 Pro Max 1TB,44000000,OLED,Apple A15,6.0,1024.0,2 SIM (nano‑SIM và eSIM),"4,325mAh",6.7,24,apple
+iPhone SE 2022 128GB,12990000,Liquid Retina,Chip A15 Bionic,4.0,128.0,2 SIM (nano‑SIM và eSIM),1.820mAh,4.7,25,apple
+iPhone 11 256GB,19000000,OLED,A13 Bionic,4.0,256.0,Nano-SIM + eSIM,3110 mAh,6.1,26,apple
+iPhone 12 mini 128GB,16000000,OLED,Apple A14 Bionic (5 nm),4.0,128.0,2 SIM (nano‑SIM và eSIM),"Li-Ion, sạc nhanh 20W, sạc không dây 15W, USB Power Delivery 2.0",5.4,27,apple
+iPhone XR 128GB,13000000,IPS LCD,Apple A12 Bionic,3.0,128.0,Nano-SIM,2942mAh,6.1,28,apple
+iPhone 13 512GB,25500000,OLED,Apple A15,4.0,512.0,2 SIM (nano‑SIM và eSIM),"Khoảng 3,200mAh",6.1,29,apple
+iPhone 12 256GB,21990000,OLED,Apple A14 Bionic (5 nm),4.0,256.0,2 SIM (nano‑SIM và eSIM),"Li-Ion, sạc nhanh 20W, sạc không dây 15W, USB Power Delivery 2.0",6.1,30,apple
+iPhone 12 Pro Max 512GB,31000000,OLED,Apple A14 Bionic (5 nm),6.0,512.0,2 SIM (nano‑SIM và eSIM),"Li-Ion, sạc nhanh 20W, sạc không dây 15W, USB Power Delivery 2.0",6.7,31,apple
+iPhone 11 Pro 512GB,27000000,,A13 Bionic,4.0,512.0,Nano-SIM + eSIM,3046 mAh,5.8,32,apple
+iPhone 13 Pro 512GB,32500000,OLED,Apple A15,6.0,256.0,2 SIM (nano‑SIM và eSIM),"3,095mAh",6.1,33,apple
+iPhone 13 mini 256GB,19990000,OLED,Apple A15 Bionic 6 nhân,4.0,256.0,2 SIM (nano‑SIM và eSIM),"2,406mAh",5.4,34,apple
+iPhone SE 2022 256GB,15990000,Liquid Retina,Chip A15 Bionic,4.0,256.0,2 SIM (nano‑SIM và eSIM),1.820mAh,4.7,35,apple
+iPhone 12 Pro 512GB,27500000,OLED,Apple A14 Bionic (5 nm),6.0,512.0,2 SIM (nano‑SIM và eSIM),"Li-Ion, sạc nhanh 20W, sạc không dây 15W, USB Power Delivery 2.0",6.1,36,apple
+iPhone 13 mini 512GB,23000000,OLED,Apple A15 Bionic 6 nhân,4.0,512.0,2 SIM (nano‑SIM và eSIM),"2,406mAh",5.4,37,apple
 "Apple iPhone 8 64GB 
-ma",10020000,,Apple A11 Bionic APL1W72,0.0,64.0,Nano-SIM,Li-ion 1821 mAh,4.7,38,CellphoneS,apple
-iPhone 13 Pro 1TB,40000000,OLED,Apple A15,6.0,1024.0,2 SIM (nano‑SIM và eSIM),"3,095mAh",6.1,39,CellphoneS,apple
-iPhone 7 Plus 128GB,10020000,IPS LCD,Apple A10 Fusion APL1W24,3.0,128.0,Nano-SIM,Li-ion 2900 mAh,5.5,40,CellphoneS,apple
-iPhone SE 2020 256GB,16490000,IPS LCD,Apple A13 Bionic 6 nhân,3.0,256.0,Nano-SIM + eSIM,"1750 mAh - Tiết kiệm pin, Sạc pin nhanh, Sạc pin không dây",4.7,41,CellphoneS,apple
-iPhone SE (2022) 128GB,13490000,IPS LCD,"Apple A15 Bionic, 6 nhân",3.0,128.0,1 Nano SIM & 1 eSIM,"2018 mAh, 20 W, Li-Ion",4.7,49,Viettel,apple
-iPhone SE (2022) 64GB,12490000,IPS LCD,"Apple A15 Bionic, 6 nhân",3.0,64.0,1 Nano SIM & 1 eSIM,"2018 mAh, 20 W, Li-Ion",4.7,50,Viettel,apple
-iPhone 13 Pro Max 512GB Xanh la,35990000,"OLED , 120Hz, Super Retina XDR với ProMotion 6.1‑inch, 458 pp, HDR display, True Tone, Wide color (P3), Haptic Touch",A15 Bionic,0.0,512.0,,"4,325mAh",6.7,53,Di động Việt,apple
-iPhone SE 3 64GB,9990000,IPS LCD,Apple A15 Bionic,4.0,64.0,2 SIM (1 nano SIM + 1 eSIM),,4.7,54,Di động Việt,apple
-Samsung Galaxy Z Fold3 5G 256GB,35990000,Dynamic AMOLED 2X,Snapdragon 888 8 nhân,12.0,256.0,2 Nano SIM + 1 eSIM,4400 mAh,13.8,0,Thế giới di động,samsung
-Samsung Galaxy S22 Ultra 5G 128GB,30990000,Dynamic AMOLED 2X,Snapdragon 8 Gen 1 8 nhân,8.0,128.0,2 Nano SIM hoặc 1 Nano SIM + 1 eSIM,5000 mAh,6.8,1,Thế giới di động,samsung
-Samsung Galaxy S22+ 5G 128GB,25990000,Dynamic AMOLED 2X,Snapdragon 8 Gen 1 8 nhân,8.0,128.0,2 Nano SIM hoặc 1 Nano SIM + 1 eSIM,4500 mAh,6.6,2,Thế giới di động,samsung
-Samsung Galaxy S22 5G 128GB,21990000,Dynamic AMOLED 2X,Snapdragon 8 Gen 1 8 nhân,8.0,128.0,2 Nano SIM hoặc 1 Nano SIM + 1 eSIM,3700 mAh,6.1,3,Thế giới di động,samsung
-Samsung Galaxy Z Flip3 5G 128GB,21990000,Dynamic AMOLED 2X,Snapdragon 888 8 nhân,8.0,128.0,1 Nano SIM & 1 eSIM,3300 mAh,8.6,4,Thế giới di động,samsung
-Samsung Galaxy S21 FE 5G (6GB/128GB),15990000,Dynamic AMOLED 2X,Exynos 2100 8 nhân,6.0,128.0,2 Nano SIM,4500 mAh,6.4,5,Thế giới di động,samsung
-Samsung Galaxy A23 4GB,5690000,PLS TFT LCD,Snapdragon 680 8 nhân,4.0,128.0,2 Nano SIM,5000 mAh,6.6,6,Thế giới di động,samsung
-Samsung Galaxy A13 4GB,4690000,PLS TFT LCD,Exynos 850 8 nhân,4.0,128.0,2 Nano SIM,5000 mAh,6.6,7,Thế giới di động,samsung
-Samsung Galaxy A12 4GB (2021),3490000,PLS TFT LCD,Exynos 850 8 nhân,4.0,128.0,2 Nano SIM,5000 mAh,6.5,8,Thế giới di động,samsung
-Samsung Galaxy A03 3GB,2990000,PLS LCD,Unisoc T606 8 nhân,3.0,32.0,2 Nano SIM,5000 mAh,6.5,9,Thế giới di động,samsung
-Samsung Galaxy A52s 5G,7850000,Super AMOLED,Snapdragon 778G 5G 8 nhân,8.0,128.0,2 SIM (Nano-SIM),4500 mAh,6.5,10,CellphoneS,samsung
-Samsung Galaxy A72,10100000,Super AMOLED,Snapdragon 720G (8 nm),8.0,256.0,2 SIM (Nano-SIM),Li-Ion 5000 mAh,6.7,11,CellphoneS,samsung
+ma",10020000,,Apple A11 Bionic APL1W72,0.0,64.0,Nano-SIM,Li-ion 1821 mAh,4.7,38,apple
+iPhone 13 Pro 1TB,40000000,OLED,Apple A15,6.0,1024.0,2 SIM (nano‑SIM và eSIM),"3,095mAh",6.1,39,apple
+iPhone 7 Plus 128GB,10020000,IPS LCD,Apple A10 Fusion APL1W24,3.0,128.0,Nano-SIM,Li-ion 2900 mAh,5.5,40,apple
+iPhone SE 2020 256GB,16490000,IPS LCD,Apple A13 Bionic 6 nhân,3.0,256.0,Nano-SIM + eSIM,"1750 mAh - Tiết kiệm pin, Sạc pin nhanh, Sạc pin không dây",4.7,41,apple
+iPhone 13 Pro 128GB,27490000,OLED,Apple A15 Bionic 6 nhân; Tốc độ CPU: 3.22 GHz; Apple GPU 5 nhân,6.0,128.0,1 Nano SIM & 1 eSIM,"3095 mAh; Li-Ion; Hỗ trợ sạc tối đa 20 W; Sạc pin nhanh, Tiết kiệm pin, Sạc không dây, Sạc ngược không dây",6.1,42,apple
+iPhone 11 64GB,12290000,IPS LCD,Apple A13 Bionic 6 nhân,4.0,64.0,"Nano SIM & eSIM, Hỗ trợ 4G",3110 mAh,6.1,43,apple
+iPhone 13 128GB,20990000,OLED,Apple A15 Bionic 6 nhân; Tốc độ CPU: 3.22 GHz; Apple GPU 4 nhân,4.0,128.0,1 Nano SIM & 1 eSIM,"3240 mAh; Li-Ion; Hỗ trợ sạc tối đa 20 W; Sạc pin nhanh, Tiết kiệm pin, Sạc không dây, Sạc ngược không dây",6.1,44,apple
+iPhone 11 128GB,13790000,IPS LCD,Apple A13 Bionic,4.0,128.0,"Nano SIM & eSIM, có hỗ trợ 4G",3110 mAh- Pin chuẩn Li-Ion,6.1,45,apple
+iPhone 12 64GB,17490000,OLED,Apple A14 Bionic 6 nhân,4.0,64.0,1 Nano SIM & 1 eSIM,"2815 mAh, Li-Ion; Sạc không dây MagSafe, Tiết kiệm pin, Sạc không dây, Sạc pin nhanh",6.1,46,apple
+iPhone 13 Pro 512GB,33990000,OLED,Apple A15 Bionic 6 nhân; Tốc độ CPU: 3.22 GHz; Apple GPU 5 nhân,6.0,512.0,1 Nano SIM & 1 eSIM,"3095 mAh; Li-Ion; Hỗ trợ sạc tối đa 20 W; Sạc pin nhanh, Tiết kiệm pin, Sạc không dây, Sạc ngược không dây",6.1,47,apple
+iPhone 13 256GB,24490000,OLED,Apple A15 Bionic 6 nhân; Tốc độ CPU: 3.22 GHz; Apple GPU 4 nhân,4.0,256.0,1 Nano SIM & 1 eSIM,"3240 mAh; Li-Ion; Hỗ trợ sạc tối đa 20 W; Sạc pin nhanh, Tiết kiệm pin, Sạc không dây, Sạc ngược không dây",6.1,48,apple
+iPhone SE (2022) 128GB,13490000,IPS LCD,"Apple A15 Bionic, 6 nhân",3.0,128.0,1 Nano SIM & 1 eSIM,"2018 mAh, 20 W, Li-Ion",4.7,49,apple
+iPhone SE (2022) 64GB,12490000,IPS LCD,"Apple A15 Bionic, 6 nhân",3.0,64.0,1 Nano SIM & 1 eSIM,"2018 mAh, 20 W, Li-Ion",4.7,50,apple
+iPhone 12 128GB,19190000,OLED,Apple A14 Bionic 6 nhân,4.0,128.0,1 Nano SIM & 1 eSIM,"2815 mAh, Li-Ion; Sạc không dây MagSafe, Tiết kiệm pin, Sạc không dây, Sạc pin nhanh",6.1,51,apple
+iPhone 12 128GB,17790000,Super Retina XDR OLED,Apple A14 Bionic (5 nm),0.0,128.0,,,6.1,52,apple
+iPhone 13 Pro Max 512GB Xanh la,35990000,"OLED , 120Hz, Super Retina XDR với ProMotion 6.1‑inch, 458 pp, HDR display, True Tone, Wide color (P3), Haptic Touch",A15 Bionic,0.0,512.0,,"4,325mAh",6.7,53,apple
+iPhone SE 3 64GB,9990000,IPS LCD,Apple A15 Bionic,4.0,64.0,2 SIM (1 nano SIM + 1 eSIM),,4.7,54,apple
+iPhone 13 128GB,18990000,OLED,Apple A15 Bionic,4.0,128.0,1 Nano SIM & 1 eSIM,,6.1,55,apple
+Samsung Galaxy Z Fold3 5G 256GB,35990000,Dynamic AMOLED 2X,Snapdragon 888 8 nhân,12.0,256.0,2 Nano SIM + 1 eSIM,4400 mAh,13.8,56,samsung
+Samsung Galaxy S22 Ultra 5G 128GB,30990000,Dynamic AMOLED 2X,Snapdragon 8 Gen 1 8 nhân,8.0,128.0,2 Nano SIM hoặc 1 Nano SIM + 1 eSIM,5000 mAh,6.8,57,samsung
+Samsung Galaxy S22+ 5G 128GB,25990000,Dynamic AMOLED 2X,Snapdragon 8 Gen 1 8 nhân,8.0,128.0,2 Nano SIM hoặc 1 Nano SIM + 1 eSIM,4500 mAh,6.6,58,samsung
+Samsung Galaxy S22 5G 128GB,21990000,Dynamic AMOLED 2X,Snapdragon 8 Gen 1 8 nhân,8.0,128.0,2 Nano SIM hoặc 1 Nano SIM + 1 eSIM,3700 mAh,6.1,59,samsung
+Samsung Galaxy Z Flip3 5G 128GB,21990000,Dynamic AMOLED 2X,Snapdragon 888 8 nhân,8.0,128.0,1 Nano SIM & 1 eSIM,3300 mAh,8.6,60,samsung
+Samsung Galaxy S21 FE 5G (6GB/128GB),15990000,Dynamic AMOLED 2X,Exynos 2100 8 nhân,6.0,128.0,2 Nano SIM,4500 mAh,6.4,61,samsung
+Samsung Galaxy A23 4GB,5690000,PLS TFT LCD,Snapdragon 680 8 nhân,4.0,128.0,2 Nano SIM,5000 mAh,6.6,62,samsung
+Samsung Galaxy A13 4GB,4690000,PLS TFT LCD,Exynos 850 8 nhân,4.0,128.0,2 Nano SIM,5000 mAh,6.6,63,samsung
+Samsung Galaxy A12 4GB (2021),3490000,PLS TFT LCD,Exynos 850 8 nhân,4.0,128.0,2 Nano SIM,5000 mAh,6.5,64,samsung
+Samsung Galaxy A03 3GB,2990000,PLS LCD,Unisoc T606 8 nhân,3.0,32.0,2 Nano SIM,5000 mAh,6.5,65,samsung
+Samsung Galaxy A52s 5G,7850000,Super AMOLED,Snapdragon 778G 5G 8 nhân,8.0,128.0,2 SIM (Nano-SIM),4500 mAh,6.5,66,samsung
+Samsung Galaxy A72,10100000,Super AMOLED,Snapdragon 720G (8 nm),8.0,256.0,2 SIM (Nano-SIM),Li-Ion 5000 mAh,6.7,67,samsung
 Samsung Galaxy S21 Ultra 5G,20390000,Dynamic AMOLED,Exynos 2100 8 nhân,12.0,128.0,2 SIM (Nano-SIM),"Dung lượng pin 5,000mAh
 Sạc nhanh có dây 25W
 Sạc nhanh không dây 15W
-Sạc ngược không dây 4.5W",6.8,12,CellphoneS,samsung
-Samsung Galaxy S20 FE 256GB (Fan Edition),11990000,Super AMOLED,Snapdragon 865,8.0,256.0,2 SIM (Nano-SIM),"Li-Po 4500 mAh, sạc nhanh 25W, sạc không dây cho các thiết bị ngoại vi 5.4W",6.5,13,CellphoneS,samsung
-Samsung Galaxy A12,3750000,TFT LCD,Helio G35,4.0,128.0,2 SIM (Nano-SIM),"Li-Po 5000 mAh, sạc nhanh 15W",6.5,14,CellphoneS,samsung
-Samsung Galaxy S20 Ultra,16000000,Dynamic AMOLED,Exynos 990 (7 nm+),12.0,128.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.9,15,CellphoneS,samsung
-Samsung Galaxy A71,7700000,Super AMOLED,Qualcomm Snapdragon 730,8.0,128.0,2 SIM (Nano-SIM),4500 mAh,6.7,16,CellphoneS,samsung
+Sạc ngược không dây 4.5W",6.8,68,samsung
+Samsung Galaxy S20 FE 256GB (Fan Edition),11990000,Super AMOLED,Snapdragon 865,8.0,256.0,2 SIM (Nano-SIM),"Li-Po 4500 mAh, sạc nhanh 25W, sạc không dây cho các thiết bị ngoại vi 5.4W",6.5,69,samsung
+Samsung Galaxy A12,3750000,TFT LCD,Helio G35,4.0,128.0,2 SIM (Nano-SIM),"Li-Po 5000 mAh, sạc nhanh 15W",6.5,70,samsung
+Samsung Galaxy S20 Ultra,16000000,Dynamic AMOLED,Exynos 990 (7 nm+),12.0,128.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.9,71,samsung
+Samsung Galaxy A71,7700000,Super AMOLED,Qualcomm Snapdragon 730,8.0,128.0,2 SIM (Nano-SIM),4500 mAh,6.7,72,samsung
 Samsung Galaxy Note 20,15000000,,Exynos 990 (7 nm+),8.0,256.0,2 SIM (Nano-SIM),"Non-removable Li-Ion 4300 mAh battery
 Fast charging 25W
 USB Power Delivery 3.0
 Fast Qi/PMA wireless charging
-Reverse wireless charging 9W",6.7,17,CellphoneS,samsung
-Samsung Galaxy A51,6500000,Super AMOLED,Exynos 9611,6.0,128.0,2 SIM (Nano-SIM),4000mAh,6.5,18,CellphoneS,samsung
-Samsung Galaxy S21 FE 8GB 128GB,13750000,Super AMOLED,Exynos 2100 (5nm),8.0,128.0,2 SIM (Nano-SIM),4500mAh,6.4,19,CellphoneS,samsung
-Samsung Galaxy A31,5150000,Super AMOLED,MediaTek MT6768 8 nhân (Helio P65),6.0,128.0,2 SIM (Nano-SIM),"5.000 mAh - Tiết kiệm pin, Sạc pin nhanh 15W",6.4,20,CellphoneS,samsung
-Samsung Galaxy A22 4G,4700000,Super AMOLED,MediaTek Helio G80,6.0,128.0,2 SIM (Nano-SIM),5000mAh,6.4,21,CellphoneS,samsung
+Reverse wireless charging 9W",6.7,73,samsung
+Samsung Galaxy A51,6500000,Super AMOLED,Exynos 9611,6.0,128.0,2 SIM (Nano-SIM),4000mAh,6.5,74,samsung
+Samsung Galaxy S21 FE 8GB 128GB,13750000,Super AMOLED,Exynos 2100 (5nm),8.0,128.0,2 SIM (Nano-SIM),4500mAh,6.4,75,samsung
+Samsung Galaxy A31,5150000,Super AMOLED,MediaTek MT6768 8 nhân (Helio P65),6.0,128.0,2 SIM (Nano-SIM),"5.000 mAh - Tiết kiệm pin, Sạc pin nhanh 15W",6.4,76,samsung
+Samsung Galaxy A22 4G,4700000,Super AMOLED,MediaTek Helio G80,6.0,128.0,2 SIM (Nano-SIM),5000mAh,6.4,77,samsung
 Samsung Galaxy S21 Plus 5G,16990000,Dynamic AMOLED,Exynos 2100 8 nhân,8.0,128.0,2 SIM (Nano-SIM),"- Li-Po 4,800 mAh
 - Sạc nhanh có dây 25W, tương thích chuẩn PD 3.0
 - Sạc nhanh không dây 15W
-- Sạc ngược không dây 4.5W",6.7,22,CellphoneS,samsung
+- Sạc ngược không dây 4.5W",6.7,78,samsung
 Samsung Galaxy Note 20 Ultra,19200000,Dynamic AMOLED,Exynos 990 (7 nm+),8.0,256.0,2 SIM (Nano-SIM),"- Li-Ion 4,500 mAh
 -Sạc nhanh có dây 25W, hỗ trợ chuẩn PD 3.0
 - Sạc nhanh không dây
-- Sạc ngược không dây 9W",6.9,23,CellphoneS,samsung
-Samsung Galaxy Note 10 Lite,10500000,,Exynos 9810 8 nhân,8.0,128.0,2 SIM (Nano-SIM),4500 mAh,6.7,24,CellphoneS,samsung
-Samsung Galaxy S20+ (Plus),15500000,Dynamic AMOLED,Exynos 990 (7 nm+),8.0,128.0,2 SIM (Nano-SIM),"Li-Po 4500 mAh, Sạc nhanh 25W, Sạc không dây 15W",6.7,25,CellphoneS,samsung
-Samsung Galaxy A73 128GB,11290000,Super AMOLED,Snapdragon 778G 5G 8 nhân,8.0,128.0,2 SIM (Nano-SIM),5000 mAh,6.7,26,CellphoneS,samsung
+- Sạc ngược không dây 9W",6.9,79,samsung
+Samsung Galaxy Note 10 Lite,10500000,,Exynos 9810 8 nhân,8.0,128.0,2 SIM (Nano-SIM),4500 mAh,6.7,80,samsung
+Samsung Galaxy S20+ (Plus),15500000,Dynamic AMOLED,Exynos 990 (7 nm+),8.0,128.0,2 SIM (Nano-SIM),"Li-Po 4500 mAh, Sạc nhanh 25W, Sạc không dây 15W",6.7,81,samsung
+Samsung Galaxy A73 128GB,11290000,Super AMOLED,Snapdragon 778G 5G 8 nhân,8.0,128.0,2 SIM (Nano-SIM),5000 mAh,6.7,82,samsung
 Samsung Galaxy Z Fold2 5G,23000000,,Qualcomm SM8250 Snapdragon 865+ (7 nm+),12.0,256.0,Nano-SIM,"Li-Po 4500 mAh
 Sạc nhanh 25W
 Sạc nhanh không dây 11W
-Sạc ngược 5.4W",13.83,27,CellphoneS,samsung
-Samsung Galaxy S21 FE 5G (8GB - 256GB),15900000,Super AMOLED,Exynos 2100 (5nm),8.0,256.0,,4500mAh,6.4,28,CellphoneS,samsung
-Samsung Galaxy Z Flip3 5G 256GB,22590000,Super AMOLED,Snapdragon 888 8 (5nm),8.0,256.0,2 SIM (nano‑SIM và eSIM),3300 mAh,6.7,29,CellphoneS,samsung
-Samsung Galaxy S10+ (Plus),12400000,,Exynos 9820 8 nhân 64 bit,0.0,128.0,2 SIM (Nano-SIM),Pin chuẩn Li-Ion 4100 mAh,6.4,30,CellphoneS,samsung
-Samsung Galaxy A11,2650000,PLS TFT LCD,Snapdragon 450 8 nhân,3.0,32.0,2 SIM (Nano-SIM),"4.000 mAh - Tiết kiệm pin, Sạc pin nhanh",6.4,31,CellphoneS,samsung
-Samsung Galaxy A21s,4250000,,Exynos 850,3.0,32.0,2 SIM (Nano-SIM),"Li-Po 5000 mAh battery, Fast charging 15W",6.5,32,CellphoneS,samsung
-Samsung Galaxy S20+ BTS Edition,16500000,,Exynos 990 (7 nm+),8.0,128.0,2 SIM (Nano-SIM),"Li-Po 4500 mAh battery, Fast charging 25W, USB Power Delivery 3.0, Fast Qi/PMA wireless charging 15W, Reverse wireless charging 9W",6.7,33,CellphoneS,samsung
-Samsung Galaxy A02s,3350000,,Qualcomm SDM450 Snapdragon 450 (14 nm),4.0,64.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.5,34,CellphoneS,samsung
-Samsung Galaxy Z Flip,20990000,,Qualcomm Snapdragon 855 Plus,8.0,256.0,Nano-SIM + eSIM,"- 3300mAh , 900 mAh",6.7,35,CellphoneS,samsung
+Sạc ngược 5.4W",13.83,83,samsung
+Samsung Galaxy S21 FE 5G (8GB - 256GB),15900000,Super AMOLED,Exynos 2100 (5nm),8.0,256.0,,4500mAh,6.4,84,samsung
+Samsung Galaxy Z Flip3 5G 256GB,22590000,Super AMOLED,Snapdragon 888 8 (5nm),8.0,256.0,2 SIM (nano‑SIM và eSIM),3300 mAh,6.7,85,samsung
+Samsung Galaxy S10+ (Plus),12400000,,Exynos 9820 8 nhân 64 bit,0.0,128.0,2 SIM (Nano-SIM),Pin chuẩn Li-Ion 4100 mAh,6.4,86,samsung
+Samsung Galaxy A11,2650000,PLS TFT LCD,Snapdragon 450 8 nhân,3.0,32.0,2 SIM (Nano-SIM),"4.000 mAh - Tiết kiệm pin, Sạc pin nhanh",6.4,87,samsung
+Samsung Galaxy A21s,4250000,,Exynos 850,3.0,32.0,2 SIM (Nano-SIM),"Li-Po 5000 mAh battery, Fast charging 15W",6.5,88,samsung
+Samsung Galaxy S20+ BTS Edition,16500000,,Exynos 990 (7 nm+),8.0,128.0,2 SIM (Nano-SIM),"Li-Po 4500 mAh battery, Fast charging 25W, USB Power Delivery 3.0, Fast Qi/PMA wireless charging 15W, Reverse wireless charging 9W",6.7,89,samsung
+Samsung Galaxy A02s,3350000,,Qualcomm SDM450 Snapdragon 450 (14 nm),4.0,64.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.5,90,samsung
+Samsung Galaxy Z Flip,20990000,,Qualcomm Snapdragon 855 Plus,8.0,256.0,Nano-SIM + eSIM,"- 3300mAh , 900 mAh",6.7,91,samsung
 Samsung Galaxy S21 Ultra 5G 256GB,29800000,Dynamic AMOLED,Exynos 2100 8 nhân,12.0,256.0,2 SIM (Nano-SIM),"- Dung lượng pin 5,000mAh
 - Sạc nhanh có dây 25W
 - Sạc nhanh không dây 15W
-- Sạc ngược không dây 4.5W",6.8,36,CellphoneS,samsung
-Samsung Galaxy A30s,4150000,,Exynos 7904 8 nhân 64-bit,4.0,64.0,2 SIM (Nano-SIM),Pin chuẩn Li-Po 4000 mAh,6.4,37,CellphoneS,samsung
+- Sạc ngược không dây 4.5W",6.8,92,samsung
+Samsung Galaxy A30s,4150000,,Exynos 7904 8 nhân 64-bit,4.0,64.0,2 SIM (Nano-SIM),Pin chuẩn Li-Po 4000 mAh,6.4,93,samsung
 Samsung Galaxy S21 Plus 5G 256GB,23000000,Dynamic AMOLED,Exynos 2100 8 nhân,8.0,256.0,2 SIM (Nano-SIM),"- Li-Po 4,800 mAh
 - Sạc nhanh có dây 25W, tương thích chuẩn PD 3.0
 - Sạc nhanh không dây 15W
-- Sạc ngược không dây 4.5W",6.7,38,CellphoneS,samsung
-Samsung Galaxy A01 Core,1850000,,Mediatek MT6739WW (28 nm),1.0,16.0,2 SIM (Nano-SIM),Li-Ion 3000 mAh battery,5.3,39,CellphoneS,samsung
-Samsung Galaxy S9+ (Plus) 128GB,15890000,,Samsung Exynos 9 9810,0.0,128.0,2 SIM (Nano-SIM),Li-ion 3500 mAh,6.2,40,CellphoneS,samsung
-Samsung Galaxy J7 Prime,3790000,,Samsung Exynos 7 Octa 7870,0.0,32.0,2 SIM (Nano-SIM),Li-ion 3300 mAh,5.5,41,CellphoneS,samsung
+- Sạc ngược không dây 4.5W",6.7,94,samsung
+Samsung Galaxy A01 Core,1850000,,Mediatek MT6739WW (28 nm),1.0,16.0,2 SIM (Nano-SIM),Li-Ion 3000 mAh battery,5.3,95,samsung
+Samsung Galaxy S9+ (Plus) 128GB,15890000,,Samsung Exynos 9 9810,0.0,128.0,2 SIM (Nano-SIM),Li-ion 3500 mAh,6.2,96,samsung
+Samsung Galaxy J7 Prime,3790000,,Samsung Exynos 7 Octa 7870,0.0,32.0,2 SIM (Nano-SIM),Li-ion 3300 mAh,5.5,97,samsung
 Samsung Galaxy Z Fold2 5G (Phien ban mua xuan),23000000,,Qualcomm SM8250 Snapdragon 865+ (7 nm+),12.0,256.0,Nano-SIM,"Li-Po 4500 mAh
 Sạc nhanh 25W
 Sạc nhanh không dây 11W
-Sạc ngược 5.4W",13.83,42,CellphoneS,samsung
+Sạc ngược 5.4W",13.83,98,samsung
 Samsung Galaxy Z Fold2 5G (Phien ban mua he),23000000,,Qualcomm SM8250 Snapdragon 865+ (7 nm+),12.0,256.0,Nano-SIM,"Li-Po 4500 mAh
 Sạc nhanh 25W
 Sạc nhanh không dây 11W
-Sạc ngược 5.4W",13.83,43,CellphoneS,samsung
-Samsung Galaxy S9+ (Plus) 64GB,13090000,,Samsung Exynos 9 9810,0.0,64.0,2 SIM (Nano-SIM),Li-ion 3500 mAh,6.2,44,CellphoneS,samsung
-Samsung Galaxy A20s,3550000,,Qualcomm Snapdragon 450,3.0,32.0,2 SIM (Nano-SIM),"4000 mAh, công nghệ sạc nhanh siêu tốc 15W",6.5,45,CellphoneS,samsung
-Samsung Galaxy A8 (2018),8090000,,Samsung Exynos 7 Octa 7885,0.0,32.0,2 SIM (Nano-SIM),Li-ion 3000 mAh,5.6,46,CellphoneS,samsung
-Samsung Galaxy S22 8/128GB,19990000,Dynamic AMOLED 2X,Chip Snapdragon® 8 Gen 1 (4nm),8.0,128.0,2 nano sim hoặc 1 nano sim và 1 esim,Pin 3700 mAh | Sạc siêu nhanh 25W (Củ sạc 25W được bán riêng); Sạc không dây 15W | Chia sẻ pin không dây,6.1,47,Viettel,samsung
-Samsung Galaxy S22 Plus 8/128GB,23990000,Dynamic AMOLED 2X,Chip Snapdragon® 8 Gen 1 (4nm),8.0,128.0,2 nano sim hoặc 1 nano sim và 1 esim,Pin 4500 mAh | Sạc siêu nhanh 45W (Củ sạc 45W được bán riêng); Sạc không dây 15W | Chia sẻ pin không dây,6.6,48,Viettel,samsung
-Samsung Galaxy A33 5G (8/128GB),7990000,Super AMOLED,Exynos 1280; 8 nhân 2 nhân 2.4GHz & 6 nhân 28GHz; Mali-G68,8.0,128.0,1 nano SIM + 1 SIM dùng chung khe thẻ nhớ,5000 mAh; Li-Po; Sạc siêu nhanh; Hỗ trợ sạc tối đa 25W,6.4,49,Viettel,samsung
-Samsung Galaxy A53 5G,8790000,Super AMOLED,Exynos 1280 8 nhân 2 nhân 2.4GHz & 6 nhân 28GHz,8.0,128.0,1 nano SIM + 1 SIM dùng chung khe thẻ nhớ,5000 mAh,6.5,50,Viettel,samsung
-Samsung Galaxy Z Fold3 5G 512GB,34990000,Dynamix AMOLED 2X Dynamix AMOLED 2X,Qualcomm SM8350 Snapdragon 888 (5 nm); Octa-core,12.0,512.0,2 physical SIM + eSIM Spen (Main Screen only),Li-Po 4400 mAh; Fast charging 25W Fast wireless charging 10W,13.8,51,Viettel,samsung
-Samsung Galaxy A23 (4/128GB),5290000,IPS LCD,Snapdragon 680 8 nhân,4.0,128.0,2 Nano SIMHỗ trợ 4G,5000 mAh25 W,6.6,52,Viettel,samsung
-Samsung Galaxy A33 5G (6/128GB),7490000,Super AMOLED,Exynos 1280; 8 nhân 2 nhân 2.4GHz & 6 nhân 28GHz; Mali-G68,6.0,128.0,1 nano SIM + 1 SIM dùng chung khe thẻ nhớ,5000 mAh; Li-Po; Sạc siêu nhanh; Hỗ trợ sạc tối đa 25W,6.4,53,Viettel,samsung
-Samsung Galaxy A13 (4/128GB),4190000,IPS LCD,Exynos 850 4 nhân 2.0GHz + 4 nhân 2.0GHz,4.0,128.0,"2 Nano SIM, Hỗ trợ 4G",5000 mAh15 W,6.6,54,Viettel,samsung
-Samsung Galaxy S22 Ultra 8/128GB,28990000,Dynamic AMOLED 2x,Chip Snapdragon® 8 Gen 1 (4nm),8.0,128.0,2 nano sim hoặc 1 nano sim và 1 esim,Pin 5000 mAh | Sạc siêu nhanh 45W (Củ sạc 45W được bán riêng); Sạc không dây 15W | Chia sẻ pin không dây,6.8,55,Viettel,samsung
-Samsung Galaxy S22 Ultra 12/512GB,34990000,Dynamic AMOLED 2X,Chip Snapdragon® 8 Gen 1 (4nm),12.0,512.0,2 nano sim hoặc 1 nano sim và 1 esim,Pin 5000 mAh | Sạc siêu nhanh 45W (Củ sạc 45W được bán riêng); Sạc không dây 15W | Chia sẻ pin không dây,6.8,56,Viettel,samsung
-Samsung Galaxy S22 8/256GB,21490000,Dynamic AMOLED 2X,Chip Snapdragon® 8 Gen 1 (4nm),8.0,256.0,2 nano sim hoặc 1 nano sim và 1 esim,Pin 3700 mAh | Sạc siêu nhanh 25W (Củ sạc 25W được bán riêng); Sạc không dây 15W | Chia sẻ pin không dây,6.1,57,Viettel,samsung
-Samsung Galaxy S22 Plus 8/256GB,25490000,Dynamic AMOLED 2X,Chip Snapdragon® 8 Gen 1 (4nm),8.0,256.0,2 nano sim hoặc 1 nano sim và 1 esim,Pin 4500 mAh | Sạc siêu nhanh 45W (Củ sạc 45W được bán riêng); Sạc không dây 15W | Chia sẻ pin không dây,6.6,58,Viettel,samsung
-Samsung Galaxy A22,4790000,Super AMOLED,MediaTek MT6769V; 4 nhân 2.0 GHz & 4 nhân 1.8 GHz; Mali G52,6.0,128.0,2 nano SIM + 1 thẻ nhớ riêng,5000 mAh; Li-po; Sạc nhanh 15 W,6.4,59,Viettel,samsung
-Samsung Galaxy A52 8/128GB,6790000,Super AMOLED,"Snapdragon 720G 8 nhân, 2 nhân 2.3 Ghz & 6 nhân 1.8 Ghz",8.0,128.0,2 Nano SIM,"4500 mAh, Li-Ion, Sạc pin nhanh, Hỗ trợ sạc tối đa 25 W, Sạc kèm theo máy 15 W",6.5,60,Viettel,samsung
-Samsung Galaxy Z Fold 2,50000000,Dynamic AMOLED Super AMOLED,Snapdragon 865+ 8 nhân,12.0,256.0,"1 Nano SIM, Hỗ trợ 5G","Pin chuẩn Li-Po; 4500 mAh, Tiết kiệm pin, Siêu tiết kiệm pin, Sạc pin nhanh, Sạc pin không dây, Sạc ngược không dây",13.82,61,Viettel,samsung
-Samsung Galaxy A32 (6GB/128GB),5030000,Super AMOLED,MediaTek Helio G80,6.0,128.0,Nano SIM,Li-Ion,6.4,62,Tiki,samsung
-Samsung Galaxy A03 (3GB/32GB),2590000,,Unisoc T606,3.0,32.0,Nano SIM,,6.5,63,Tiki,samsung
-Samsung Galaxy A52s 5G (8GB/128GB),8480000,,Snapdragon 778G 5G 8 nhân,8.0,128.0,,,6.5,64,Tiki,samsung
-Samsung Galaxy S20 FE,10690000,Super AMOLED,Snapdragon 865,8.0,256.0,Nano Sim,Li-Ion,6.5,65,Tiki,samsung
-Samsung Galaxy M12 (3GB/32GB),2899000,,Exynos 850,3.0,32.0,Nano,Li-Po,6.5,66,Tiki,samsung
-Samsung A03 3GB/32GB,2619000,PLS LCD,Unisoc T606 8 nhân,2.0,32.0,Nano SIM,Li-Po,6.5,67,Tiki,samsung
-Samsung Galaxy A12 6GB (2021),3890000,PLS TFT LCD,Exynos 850 8 nhân,6.0,128.0,Nano,Li-ion,6.5,68,Tiki,samsung
-Samsung Galaxy A22 (6GB/128GB),4650000,Super AMOLED,MediaTek MT6769V 8 nhân,6.0,128.0,Nano,Li-Po,6.4,69,Tiki,samsung
-Samsung Galaxy M51 (8GB/128GB),5490000,Super AMOLED Plus,Snapdragon 730,8.0,128.0,Nano SIM,Li-Ion,6.7,70,Tiki,samsung
-Samsung Galaxy A53 5G (8GB/128GB),8040000,Super AMOLED,Exynos 1280 8 nhân,8.0,128.0,Nano,Li-Ion,6.5,72,Tiki,samsung
-Samsung Galaxy A03s (4GB/64GB),3159000,PLS LCD,MediaTek MT6765 8 nhân,4.0,64.0,Nano,Li-Po,6.5,73,Tiki,samsung
-Samsung Galaxy M22 (4GB/128GB),3920000,Super AMOLED,MediaTek Helio G80 8 nhân,4.0,128.0,Nano,Li-Po,6.4,75,Tiki,samsung
-Samsung A52S 5G 8GB/128GB,7999000,Super AMOLED,Snapdragon 778G 5G 8 nhân,8.0,128.0,Nano SIM,Li-Po,6.5,77,Tiki,samsung
-Samsung Galaxy Note 20 Ultra 5G (12GB/256GB),20650000,Dynamic AMOLED 2X,Exynos 990 8 nhân,12.0,256.0,Nano SIM + eSIM,Li-Ion,6.9,78,Tiki,samsung
-Samsung Galaxy A32 (8GB/128GB),5790000,Super AMOLED,MediaTek Helio G80,8.0,128.0,Nano SIM,Li-Ion,6.4,79,Tiki,samsung
-"May Tinh Bang Samsung Galaxy Tab A8 8"" T295",2799000,WUXGA TFT,Qualcomm Snapdragon 429 processor,2.0,32.0,Nano,Lithium - Ion,8.0,81,Tiki,samsung
-Samsung A53 5G 8GB/128GB,7999000,Super AMOLED,Exynos 1280 8 nhân,8.0,128.0,Nano SIM,,6.5,82,Tiki,samsung
-Samsung Galaxy A52 (8GB/128GB),8750000,Super AMOLED,Snapdragon 720G 8 nhân,8.0,128.0,Nano SIM,Lithium polymer,6.5,83,Tiki,samsung
-Samsung Galaxy A52s 5G (8GB/256GB),10330000,Super AMOLED,Snapdragon 778G 5G 8 nhân,8.0,256.0,Nano SIM,Li-Po,6.5,84,Tiki,samsung
-Samsung Galaxy A03 Core (2GB/32GB),2109000,LCD,Spreadtrum SC9863A 8 nhân,2.0,32.0,Nano,,6.5,85,Tiki,samsung
-Samsung A23 4GB/128GB,4699000,IPS LCD,Snapdragon 680 8 nhân,4.0,128.0,Nano SIM,Li-Po,6.6,86,Tiki,samsung
-Samsung Galaxy M12 (4GB/64GB),3320000,,Exynos 850,4.0,64.0,Nano SIM,Li-Po,6.5,89,Tiki,samsung
-Samsung A13 4GB/128GB,3789000,IPS LCD,Exynos 850 8 nhân,4.0,128.0,Nano SIM,Li-Po,6.6,90,Tiki,samsung
-Samsung Galaxy S20 FE 8GB/256GB Xanh,10990000,,,8.0,256.0,,,6.5,92,Tiki,samsung
-Samsung A33 5G 6GB/128GB,6549000,Super AMOLED,Exynos 1280 8 nhân,6.0,128.0,Nano SIM (SIM 2 chung khe thẻ nhớ),Li-Po,6.4,93,Tiki,samsung
-Samsung Galaxy S22 Ultra 5G 12GB/256GB,26890000,Dynamic AMOLED 2X,Snapdragon 8 Gen 1 8 nhân,2.0,256.0,Nano,Li-Ion,6.8,94,Tiki,samsung
-Samsung Galaxy S22 5G (8GB/256GB ),19499000,Dynamic AMOLED 2X,Snapdragon 8 Gen 1 8 nhân,8.0,256.0,Nano,Li-Ion,6.1,95,Tiki,samsung
-Samsung Galaxy S22 Ultra 5G 12GB/512GB,29590000,Dynamic AMOLED 2X,Snapdragon 8 Gen 1 8 nhân,2.0,512.0,Nano,Li-Ion,6.8,96,Tiki,samsung
-Samsung Galaxy A52 128GB | 8GB,7250000,Super AMOLED,Snapdragon 720G 8 nhân,8.0,0.0,,Lithium polymer,6.5,97,Tiki,samsung
-Samsung Galaxy S22 Ultra (12GB/256GB),28629000,Dynamic AMOLED 2X,Snapdragon 8 Gen 1 8 nhân,2.0,256.0,Nano SIM,Li-Ion,6.8,98,Tiki,samsung
-Samsung Galaxy A03s,3690000,PLS LCD,MediaTek MT6765 8 nhân,4.0,64.0,Nano SIM,Li-Po,6.5,99,Tiki,samsung
-Samsung Galaxy A03s LTE (4GB/64GB),3190000,PLS LCD,MediaTek MT6765 8 nhân,4.0,64.0,Nano,Li-Po,6.5,102,Tiki,samsung
-Samsung Galaxy A03 (4GB/64GB),3490000,,,4.0,64.0,Nano sim,Li-Po,6.5,103,Tiki,samsung
-Samsung Galaxy S22 5G (8GB),14660000,Dynamic AMOLED 2X,,8.0,0.0,,,6.1,105,Tiki,samsung
-Samsung Galaxy S22+ (8GB/256GB),23289000,Dynamic AMOLED 2X,Snapdragon 8 Gen 1 8 nhân,8.0,256.0,Nano SIM,Li-Ion,6.6,106,Tiki,samsung
-Samsung Galaxy S22+ (8GB/128GB),21899000,Dynamic AMOLED 2X,Snapdragon 8 Gen 1 8 nhân,8.0,128.0,Nano SIM,Li-Ion,6.6,108,Tiki,samsung
-Samsung Galaxy A13 (6GB/128GB),5190000,,,6.0,128.0,Nano sim,Li-Po,6.6,109,Tiki,samsung
-Samsung Galaxy A03s 64GB Den,3690000,PLS TFT LCD,MediaTek MT6765,4.0,64.0,Nano,Li-Po,6.5,111,Tiki,samsung
-Samsung Galaxy M23 5G (6GB/128GB),5030000,TFT,Snapdragon 750G,6.0,128.0,Nano SIM,Li-Po,6.6,112,Tiki,samsung
-Samsung Galaxy A32 4G 6GB/128GB Xanh,6690000,,"Vi xử lý Helio G80 (12nm), Octa-core 2.0GHz",6.0,128.0,,,6.4,113,Tiki,samsung
-Samsung Galaxy S22 Plus 5G (8GB|128GB),18990000,Dynamic AMOLED 2X,Qualcomm Snapdragon 8 Gen 1,8.0,128.0,2 SIM (1 nano SIM + 1 eSIM),4500 mAh,6.6,114,Di động Việt,samsung
-Samsung Galaxy S21 FE (8GB|128GB)  (BHDT),11990000,,,0.0,0.0,,,0.0,115,Di động Việt,samsung
-Samsung Galaxy S21 FE (6GB|128GB),10990000,Dynamic AMOLED 2X,Exynos 2100 (5 nm),6.0,128.0,2 SIM (Nano-SIM),4500 mAh,6.4,116,Di động Việt,samsung
-Samsung Galaxy S21 FE (8GB|256GB),13490000,Dynamic AMOLED 2X,Exynos 2100,8.0,256.0,,4500 mAh,6.4,117,Di động Việt,samsung
-Samsung Galaxy A22 (6GB|128GB),4390000,Super AMOLED,MediaTek Dimensity 700,6.0,128.0,2 Nano SIM,5000 mAh,6.6,118,Di động Việt,samsung
-Samsung Galaxy A12 (4GB|128GB),2990000,TFT,MediaTek Helio G35 8 nhân,4.0,128.0,2 Nano SIM,5000 mAh,6.5,119,Di động Việt,samsung
-Samsung Galaxy Z Flip3 5G (8GB|128GB) Flex Your Way 2022 Limited Edition,17390000,Dynamix AMOLED 2X,Snapdragon 888 8 nhân,8.0,128.0,2 SIM (nano‑SIM và eSIM),3300 mAh,8.6,120,Di động Việt,samsung
-Samsung Galaxy A73  (8GB|128GB) (BHDT),9390000,Super AMOLED Plus,Snapdragon 778G 5G 8 nhân,8.0,128.0,2 Nano SIM (SIM 2 chung khe thẻ nhớ),5000 mAh,6.7,121,Di động Việt,samsung
-Samsung Galaxy A13  (4GB|128GB) (BHDT),3590000,LCD,Đang cập nhật,4.0,128.0,2 SIM (Nano-SIM),5000 mAh,6.5,122,Di động Việt,samsung
-Samsung Galaxy A13  (4GB|128GB),3890000,LCD,Đang cập nhật,4.0,128.0,2 SIM (Nano-SIM),5000 mAh,6.5,123,Di động Việt,samsung
-Samsung Galaxy S22 Plus 5G (8GB|128GB)  (BHDT),18790000,Dynamic AMOLED 2X,Qualcomm Snapdragon 8 Gen 1,8.0,128.0,2 SIM (1 nano SIM + 1 eSIM),4500 mAh,6.6,124,Di động Việt,samsung
-Samsung Galaxy Z Fold3 5G (12GB|512GB)  (BHDT),32790000,,,0.0,0.0,,,0.0,125,Di động Việt,samsung
-Samsung Galaxy Z Flip3 5G (8GB|256GB)  (BHDT),15990000,Dynamix AMOLED 2X,Snapdragon 888 8 nhân,8.0,0.0,2 SIM (nano‑SIM và eSIM),3300 mAh,8.6,126,Di động Việt,samsung
-Samsung Galaxy A20s (3GB|32GB) (Likenew),1590000,IPS LCD,Qualcomm SDM450 Snapdragon 450,3.0,32.0,2 SIM,4000 mAh,6.5,127,Di động Việt,samsung
-Xiaomi 12,19990000,AMOLED,Snapdragon 8 Gen 1 8 nhân,8.0,256.0,2 Nano SIM,4500 mAh,6.28,0,Thế giới di động,xiaomi
-Xiaomi 11T 5G 128GB,8990000,AMOLED,MediaTek Dimensity 1200 8 nhân,8.0,128.0,2 Nano SIM,5000 mAh,6.67,1,Thế giới di động,xiaomi
-Xiaomi Redmi Note 11 Pro,7190000,AMOLED,MediaTek Helio G96 8 nhân,8.0,128.0,2 Nano SIM (SIM 2 chung khe thẻ nhớ),5000 mAh,6.67,2,Thế giới di động,xiaomi
-Xiaomi Redmi Note 11S 5G,6490000,IPS LCD,MediaTek Dimensity 810 5G 8 nhân,6.0,128.0,2 Nano SIM (SIM 2 chung khe thẻ nhớ),5000 mAh,6.6,3,Thế giới di động,xiaomi
-Xiaomi Redmi Note 10S 6GB,5990000,AMOLED,MediaTek Helio G95 8 nhân,6.0,128.0,2 Nano SIM,5000 mAh,6.43,4,Thế giới di động,xiaomi
-Xiaomi Redmi 10 (6GB/128GB),4490000,IPS LCD,MediaTek Helio G88 8 nhân,6.0,128.0,2 Nano SIM,5000 mAh,6.5,5,Thế giới di động,xiaomi
-Xiaomi Redmi Note 11 (4GB/64GB),4190000,AMOLED,Snapdragon 680 8 nhân,4.0,64.0,2 Nano SIM,5000 mAh,6.43,6,Thế giới di động,xiaomi
-Xiaomi Redmi 10C 64GB,3190000,IPS LCD,Snapdragon 680 8 nhân,4.0,64.0,2 Nano SIM,5000 mAh,6.71,7,Thế giới di động,xiaomi
-Xiaomi Redmi 9C (3GB/64GB),2990000,IPS LCD,MediaTek Helio G35 8 nhân,3.0,64.0,2 Nano SIM,5000 mAh,6.53,8,Thế giới di động,xiaomi
-Xiaomi Mi 11 Lite 5G,7490000,AMOLED,Snapdragon 780G (5 nm),8.0,128.0,2 SIM (Nano-SIM),Li-Po 4250 mAh,6.55,9,CellphoneS,xiaomi
-Xiaomi Redmi 10 4GB - 128GB (2022),4290000,,MediaTek Helio G88,4.0,128.0,2 SIM (Nano-SIM),5000 mAh,6.5,10,CellphoneS,xiaomi
-Xiaomi Redmi 9A,2390000,IPS LCD,MediaTek Helio G25 (12 nm),2.0,32.0,2 SIM (Nano-SIM),"Li-Po 5000 mAh battery, Hỗ trợ sạc nhanh 10W",6.53,11,CellphoneS,xiaomi
-Xiaomi Redmi 10 (4GB - 64GB),3650000,,MediaTek Helio G88,4.0,64.0,2 SIM (Nano-SIM),5000 mAh,6.5,12,CellphoneS,xiaomi
-Xiaomi 12 Pro (5G),25790000,OLED,Qualcomm SM8450 Snapdragon 8 Gen1,12.0,256.0,2 SIM (Nano-SIM),4600 mAh,6.73,13,CellphoneS,xiaomi
-Xiaomi Redmi 10C 4GB 128GB,3690000,IPS LCD,Qualcomm SM6225 Snapdragon 680 4G (6 nm),4.0,128.0,2 SIM (Nano-SIM),4x2.4 GHz Kryo 265 Gold & 4x1.9 GHz Kryo 265 Silver,6.71,14,CellphoneS,xiaomi
-Xiaomi Redmi Note 10S,4990000,AMOLED,MediaTek Helio G95,8.0,128.0,2 SIM (Nano-SIM),5000 mAh,6.43,15,CellphoneS,xiaomi
-Xiaomi Redmi Note 10,5100000,AMOLED,Snapdragon 678 (11 nm),6.0,128.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.43,16,CellphoneS,xiaomi
-Xiaomi Redmi 10 (4GB - 128GB),4290000,,MediaTek Helio G88,4.0,128.0,2 SIM (Nano-SIM),5000 mAh,6.5,17,CellphoneS,xiaomi
-Xiaomi Mi 10T Pro 5G,11200000,IPS LCD,Qualcomm Snapdragon™ 865 5G,8.0,256.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.67,18,CellphoneS,xiaomi
-Xiaomi Poco X3 GT,6290000,IPS LCD,MediaTek Dimensity 1100,8.0,128.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.6,19,CellphoneS,xiaomi
-Xiaomi 11 Lite 5G NE,8000000,AMOLED,Snapdragon™ 778G,8.0,128.0,2 SIM (Nano-SIM),4250mAh,6.55,20,CellphoneS,xiaomi
-Xiaomi Redmi 9T 4GB 64GB,3990000,,Qualcomm SM6115 Snapdragon 662 (11 nm),4.0,64.0,2 SIM (Nano-SIM),Li-Po 6000 mAh,6.53,21,CellphoneS,xiaomi
+Sạc ngược 5.4W",13.83,99,samsung
+Samsung Galaxy S9+ (Plus) 64GB,13090000,,Samsung Exynos 9 9810,0.0,64.0,2 SIM (Nano-SIM),Li-ion 3500 mAh,6.2,100,samsung
+Samsung Galaxy A20s,3550000,,Qualcomm Snapdragon 450,3.0,32.0,2 SIM (Nano-SIM),"4000 mAh, công nghệ sạc nhanh siêu tốc 15W",6.5,101,samsung
+Samsung Galaxy A8 (2018),8090000,,Samsung Exynos 7 Octa 7885,0.0,32.0,2 SIM (Nano-SIM),Li-ion 3000 mAh,5.6,102,samsung
+Samsung Galaxy S22 8/128GB,19990000,Dynamic AMOLED 2X,Chip Snapdragon® 8 Gen 1 (4nm),8.0,128.0,2 nano sim hoặc 1 nano sim và 1 esim,Pin 3700 mAh | Sạc siêu nhanh 25W (Củ sạc 25W được bán riêng); Sạc không dây 15W | Chia sẻ pin không dây,6.1,103,samsung
+Samsung Galaxy S22 Plus 8/128GB,23990000,Dynamic AMOLED 2X,Chip Snapdragon® 8 Gen 1 (4nm),8.0,128.0,2 nano sim hoặc 1 nano sim và 1 esim,Pin 4500 mAh | Sạc siêu nhanh 45W (Củ sạc 45W được bán riêng); Sạc không dây 15W | Chia sẻ pin không dây,6.6,104,samsung
+Samsung Galaxy A33 5G (8/128GB),7990000,Super AMOLED,Exynos 1280; 8 nhân 2 nhân 2.4GHz & 6 nhân 28GHz; Mali-G68,8.0,128.0,1 nano SIM + 1 SIM dùng chung khe thẻ nhớ,5000 mAh; Li-Po; Sạc siêu nhanh; Hỗ trợ sạc tối đa 25W,6.4,105,samsung
+Samsung Galaxy A53 5G,8790000,Super AMOLED,Exynos 1280 8 nhân 2 nhân 2.4GHz & 6 nhân 28GHz,8.0,128.0,1 nano SIM + 1 SIM dùng chung khe thẻ nhớ,5000 mAh,6.5,106,samsung
+Samsung Galaxy Z Fold3 5G 512GB,34990000,Dynamix AMOLED 2X Dynamix AMOLED 2X,Qualcomm SM8350 Snapdragon 888 (5 nm); Octa-core,12.0,512.0,2 physical SIM + eSIM Spen (Main Screen only),Li-Po 4400 mAh; Fast charging 25W Fast wireless charging 10W,13.8,107,samsung
+Samsung Galaxy A23 (4/128GB),5290000,IPS LCD,Snapdragon 680 8 nhân,4.0,128.0,2 Nano SIMHỗ trợ 4G,5000 mAh25 W,6.6,108,samsung
+Samsung Galaxy A33 5G (6/128GB),7490000,Super AMOLED,Exynos 1280; 8 nhân 2 nhân 2.4GHz & 6 nhân 28GHz; Mali-G68,6.0,128.0,1 nano SIM + 1 SIM dùng chung khe thẻ nhớ,5000 mAh; Li-Po; Sạc siêu nhanh; Hỗ trợ sạc tối đa 25W,6.4,109,samsung
+Samsung Galaxy A13 (4/128GB),4190000,IPS LCD,Exynos 850 4 nhân 2.0GHz + 4 nhân 2.0GHz,4.0,128.0,"2 Nano SIM, Hỗ trợ 4G",5000 mAh15 W,6.6,110,samsung
+Samsung Galaxy S22 Ultra 8/128GB,28990000,Dynamic AMOLED 2x,Chip Snapdragon® 8 Gen 1 (4nm),8.0,128.0,2 nano sim hoặc 1 nano sim và 1 esim,Pin 5000 mAh | Sạc siêu nhanh 45W (Củ sạc 45W được bán riêng); Sạc không dây 15W | Chia sẻ pin không dây,6.8,111,samsung
+Samsung Galaxy S22 Ultra 12/512GB,34990000,Dynamic AMOLED 2X,Chip Snapdragon® 8 Gen 1 (4nm),12.0,512.0,2 nano sim hoặc 1 nano sim và 1 esim,Pin 5000 mAh | Sạc siêu nhanh 45W (Củ sạc 45W được bán riêng); Sạc không dây 15W | Chia sẻ pin không dây,6.8,112,samsung
+Samsung Galaxy S22 8/256GB,21490000,Dynamic AMOLED 2X,Chip Snapdragon® 8 Gen 1 (4nm),8.0,256.0,2 nano sim hoặc 1 nano sim và 1 esim,Pin 3700 mAh | Sạc siêu nhanh 25W (Củ sạc 25W được bán riêng); Sạc không dây 15W | Chia sẻ pin không dây,6.1,113,samsung
+Samsung Galaxy S22 Plus 8/256GB,25490000,Dynamic AMOLED 2X,Chip Snapdragon® 8 Gen 1 (4nm),8.0,256.0,2 nano sim hoặc 1 nano sim và 1 esim,Pin 4500 mAh | Sạc siêu nhanh 45W (Củ sạc 45W được bán riêng); Sạc không dây 15W | Chia sẻ pin không dây,6.6,114,samsung
+Samsung Galaxy A22,4790000,Super AMOLED,MediaTek MT6769V; 4 nhân 2.0 GHz & 4 nhân 1.8 GHz; Mali G52,6.0,128.0,2 nano SIM + 1 thẻ nhớ riêng,5000 mAh; Li-po; Sạc nhanh 15 W,6.4,115,samsung
+Samsung Galaxy A52 8/128GB,6790000,Super AMOLED,"Snapdragon 720G 8 nhân, 2 nhân 2.3 Ghz & 6 nhân 1.8 Ghz",8.0,128.0,2 Nano SIM,"4500 mAh, Li-Ion, Sạc pin nhanh, Hỗ trợ sạc tối đa 25 W, Sạc kèm theo máy 15 W",6.5,116,samsung
+Samsung Galaxy Z Fold 2,50000000,Dynamic AMOLED Super AMOLED,Snapdragon 865+ 8 nhân,12.0,256.0,"1 Nano SIM, Hỗ trợ 5G","Pin chuẩn Li-Po; 4500 mAh, Tiết kiệm pin, Siêu tiết kiệm pin, Sạc pin nhanh, Sạc pin không dây, Sạc ngược không dây",13.82,117,samsung
+Samsung Galaxy A32 (6GB/128GB),5030000,Super AMOLED,MediaTek Helio G80,6.0,128.0,Nano SIM,Li-Ion,6.4,118,samsung
+Samsung Galaxy A03 (3GB/32GB),2590000,,Unisoc T606,3.0,32.0,Nano SIM,,6.5,119,samsung
+Samsung Galaxy A52s 5G (8GB/128GB),8480000,,Snapdragon 778G 5G 8 nhân,8.0,128.0,,,6.5,120,samsung
+Samsung Galaxy S20 FE,10690000,Super AMOLED,Snapdragon 865,8.0,256.0,Nano Sim,Li-Ion,6.5,121,samsung
+Samsung Galaxy M12 (3GB/32GB),2899000,,Exynos 850,3.0,32.0,Nano,Li-Po,6.5,122,samsung
+Samsung A03 3GB/32GB,2619000,PLS LCD,Unisoc T606 8 nhân,2.0,32.0,Nano SIM,Li-Po,6.5,123,samsung
+Samsung Galaxy A12 6GB (2021),3890000,PLS TFT LCD,Exynos 850 8 nhân,6.0,128.0,Nano,Li-ion,6.5,124,samsung
+Samsung Galaxy A22 (6GB/128GB),4650000,Super AMOLED,MediaTek MT6769V 8 nhân,6.0,128.0,Nano,Li-Po,6.4,125,samsung
+Samsung Galaxy M51 (8GB/128GB),5490000,Super AMOLED Plus,Snapdragon 730,8.0,128.0,Nano SIM,Li-Ion,6.7,126,samsung
+Samsung Galaxy A32 (6GB/128GB),6490000,Super AMOLED,MediaTek Helio G80 8 nhân,6.0,128.0,Nano SIM,Li-Ion,6.4,127,samsung
+Samsung Galaxy A53 5G (8GB/128GB),8040000,Super AMOLED,Exynos 1280 8 nhân,8.0,128.0,Nano,Li-Ion,6.5,128,samsung
+Samsung Galaxy A03s (4GB/64GB),3159000,PLS LCD,MediaTek MT6765 8 nhân,4.0,64.0,Nano,Li-Po,6.5,129,samsung
+Samsung Galaxy A03 (3GB/32GB),2719000,PLS LCD,Unisoc T606 8 nhân,3.0,32.0,Nano SIM,Li-Po,6.5,130,samsung
+Samsung Galaxy M22 (4GB/128GB),3920000,Super AMOLED,MediaTek Helio G80 8 nhân,4.0,128.0,Nano,Li-Po,6.4,131,samsung
+Samsung Galaxy A53 5G (8GB/128GB),7999000,Super AMOLED,Exynos 1280 8 nhân,8.0,128.0,Nano SIM,Li-Ion,6.5,132,samsung
+Samsung A52S 5G 8GB/128GB,7999000,Super AMOLED,Snapdragon 778G 5G 8 nhân,8.0,128.0,Nano SIM,Li-Po,6.5,133,samsung
+Samsung Galaxy Note 20 Ultra 5G (12GB/256GB),20650000,Dynamic AMOLED 2X,Exynos 990 8 nhân,12.0,256.0,Nano SIM + eSIM,Li-Ion,6.9,134,samsung
+Samsung Galaxy A32 (8GB/128GB),5790000,Super AMOLED,MediaTek Helio G80,8.0,128.0,Nano SIM,Li-Ion,6.4,135,samsung
+Samsung Galaxy A52s 5G (8GB/128GB),7990000,Super AMOLED,Snapdragon 778G 5G 8 nhân,8.0,128.0,Nano SIM,Li-Po,6.5,136,samsung
+"May Tinh Bang Samsung Galaxy Tab A8 8"" T295",2799000,WUXGA TFT,Qualcomm Snapdragon 429 processor,2.0,32.0,Nano,Lithium - Ion,8.0,137,samsung
+Samsung A53 5G 8GB/128GB,7999000,Super AMOLED,Exynos 1280 8 nhân,8.0,128.0,Nano SIM,,6.5,138,samsung
+Samsung Galaxy A52 (8GB/128GB),8750000,Super AMOLED,Snapdragon 720G 8 nhân,8.0,128.0,Nano SIM,Lithium polymer,6.5,139,samsung
+Samsung Galaxy A52s 5G (8GB/256GB),10330000,Super AMOLED,Snapdragon 778G 5G 8 nhân,8.0,256.0,Nano SIM,Li-Po,6.5,140,samsung
+Samsung Galaxy A03 Core (2GB/32GB),2109000,LCD,Spreadtrum SC9863A 8 nhân,2.0,32.0,Nano,,6.5,141,samsung
+Samsung A23 4GB/128GB,4699000,IPS LCD,Snapdragon 680 8 nhân,4.0,128.0,Nano SIM,Li-Po,6.6,142,samsung
+Samsung Galaxy A52s 5G (8GB/128GB),7490000,Super AMOLED,Snapdragon 778G 5G 8 nhân,8.0,128.0,Nano SIM,Li-Po,6.5,143,samsung
+Samsung Galaxy A03s (4GB/64GB),2990000,PLS LCD,MediaTek MT6765 8 nhân,4.0,64.0,Nano,Li-Po,6.5,144,samsung
+Samsung Galaxy M12 (4GB/64GB),3320000,,Exynos 850,4.0,64.0,Nano SIM,Li-Po,6.5,145,samsung
+Samsung A13 4GB/128GB,3789000,IPS LCD,Exynos 850 8 nhân,4.0,128.0,Nano SIM,Li-Po,6.6,146,samsung
+Samsung Galaxy A52s 5G (8GB/128GB),7999000,Super AMOLED,Snapdragon 778G,8.0,128.0,Nano SIM,Li-Po,6.5,147,samsung
+Samsung Galaxy S20 FE 8GB/256GB Xanh,10990000,,,8.0,256.0,,,6.5,148,samsung
+Samsung A33 5G 6GB/128GB,6549000,Super AMOLED,Exynos 1280 8 nhân,6.0,128.0,Nano SIM (SIM 2 chung khe thẻ nhớ),Li-Po,6.4,149,samsung
+Samsung Galaxy S22 Ultra 5G 12GB/256GB,26890000,Dynamic AMOLED 2X,Snapdragon 8 Gen 1 8 nhân,2.0,256.0,Nano,Li-Ion,6.8,150,samsung
+Samsung Galaxy S22 5G (8GB/256GB ),19499000,Dynamic AMOLED 2X,Snapdragon 8 Gen 1 8 nhân,8.0,256.0,Nano,Li-Ion,6.1,151,samsung
+Samsung Galaxy S22 Ultra 5G 12GB/512GB,29590000,Dynamic AMOLED 2X,Snapdragon 8 Gen 1 8 nhân,2.0,512.0,Nano,Li-Ion,6.8,152,samsung
+Samsung Galaxy A52 128GB | 8GB,7250000,Super AMOLED,Snapdragon 720G 8 nhân,8.0,0.0,,Lithium polymer,6.5,153,samsung
+Samsung Galaxy S22 Ultra (12GB/256GB),28629000,Dynamic AMOLED 2X,Snapdragon 8 Gen 1 8 nhân,2.0,256.0,Nano SIM,Li-Ion,6.8,154,samsung
+Samsung Galaxy A03s,3690000,PLS LCD,MediaTek MT6765 8 nhân,4.0,64.0,Nano SIM,Li-Po,6.5,155,samsung
+Samsung Galaxy A52s 5G (8GB/256GB),8490000,Super AMOLED,Snapdragon 778G 5G 8 nhân,8.0,256.0,Nano,Li-Po,6.5,156,samsung
+Samsung Galaxy A53 5G (8GB/128GB),7950000,Super AMOLED,Exynos 1280 8 nhân,8.0,128.0,Nano SIM,Li-Ion,6.5,157,samsung
+Samsung Galaxy A03s LTE (4GB/64GB),3190000,PLS LCD,MediaTek MT6765 8 nhân,4.0,64.0,Nano,Li-Po,6.5,158,samsung
+Samsung Galaxy A03 (4GB/64GB),3490000,,,4.0,64.0,Nano sim,Li-Po,6.5,159,samsung
+Samsung Galaxy A03 (3GB/32GB),2619000,,Unisoc T606 8 nhân,3.0,32.0,,,6.5,160,samsung
+Samsung Galaxy S22 5G (8GB),14660000,Dynamic AMOLED 2X,,8.0,0.0,,,6.1,161,samsung
+Samsung Galaxy S22+ (8GB/256GB),23289000,Dynamic AMOLED 2X,Snapdragon 8 Gen 1 8 nhân,8.0,256.0,Nano SIM,Li-Ion,6.6,162,samsung
+Samsung A23 4GB/128GB,5050000,IPS LCD,Snapdragon 680 8 nhân,4.0,128.0,,,6.6,163,samsung
+Samsung Galaxy S22+ (8GB/128GB),21899000,Dynamic AMOLED 2X,Snapdragon 8 Gen 1 8 nhân,8.0,128.0,Nano SIM,Li-Ion,6.6,164,samsung
+Samsung Galaxy A13 (6GB/128GB),5190000,,,6.0,128.0,Nano sim,Li-Po,6.6,165,samsung
+Samsung Galaxy A53 5G (8GB/128GB),9690000,Super AMOLED,Exynos 1280 8 nhân,8.0,128.0,Nano SIM,Li-Ion,6.5,166,samsung
+Samsung Galaxy A03s 64GB Den,3690000,PLS TFT LCD,MediaTek MT6765,4.0,64.0,Nano,Li-Po,6.5,167,samsung
+Samsung Galaxy M23 5G (6GB/128GB),5030000,TFT,Snapdragon 750G,6.0,128.0,Nano SIM,Li-Po,6.6,168,samsung
+Samsung Galaxy A32 4G 6GB/128GB Xanh,6690000,,"Vi xử lý Helio G80 (12nm), Octa-core 2.0GHz",6.0,128.0,,,6.4,169,samsung
+Samsung Galaxy S22 Plus 5G (8GB|128GB),18990000,Dynamic AMOLED 2X,Qualcomm Snapdragon 8 Gen 1,8.0,128.0,2 SIM (1 nano SIM + 1 eSIM),4500 mAh,6.6,170,samsung
+Samsung Galaxy S21 FE (8GB|128GB)  (BHDT),11990000,,,0.0,0.0,,,0.0,171,samsung
+Samsung Galaxy S21 FE (6GB|128GB),10990000,Dynamic AMOLED 2X,Exynos 2100 (5 nm),6.0,128.0,2 SIM (Nano-SIM),4500 mAh,6.4,172,samsung
+Samsung Galaxy S21 FE (8GB|256GB),13490000,Dynamic AMOLED 2X,Exynos 2100,8.0,256.0,,4500 mAh,6.4,173,samsung
+Samsung Galaxy A22 (6GB|128GB),4390000,Super AMOLED,MediaTek Dimensity 700,6.0,128.0,2 Nano SIM,5000 mAh,6.6,174,samsung
+Samsung Galaxy A12 (4GB|128GB),2990000,TFT,MediaTek Helio G35 8 nhân,4.0,128.0,2 Nano SIM,5000 mAh,6.5,175,samsung
+Samsung Galaxy Z Flip3 5G (8GB|128GB) Flex Your Way 2022 Limited Edition,17390000,Dynamix AMOLED 2X,Snapdragon 888 8 nhân,8.0,128.0,2 SIM (nano‑SIM và eSIM),3300 mAh,8.6,176,samsung
+Samsung Galaxy A73  (8GB|128GB) (BHDT),9390000,Super AMOLED Plus,Snapdragon 778G 5G 8 nhân,8.0,128.0,2 Nano SIM (SIM 2 chung khe thẻ nhớ),5000 mAh,6.7,177,samsung
+Samsung Galaxy A13  (4GB|128GB) (BHDT),3590000,LCD,Đang cập nhật,4.0,128.0,2 SIM (Nano-SIM),5000 mAh,6.5,178,samsung
+Samsung Galaxy A13  (4GB|128GB),3890000,LCD,Đang cập nhật,4.0,128.0,2 SIM (Nano-SIM),5000 mAh,6.5,179,samsung
+Samsung Galaxy S22 Plus 5G (8GB|128GB)  (BHDT),18790000,Dynamic AMOLED 2X,Qualcomm Snapdragon 8 Gen 1,8.0,128.0,2 SIM (1 nano SIM + 1 eSIM),4500 mAh,6.6,180,samsung
+Samsung Galaxy Z Fold3 5G (12GB|512GB)  (BHDT),32790000,,,0.0,0.0,,,0.0,181,samsung
+Samsung Galaxy Z Flip3 5G (8GB|256GB)  (BHDT),15990000,Dynamix AMOLED 2X,Snapdragon 888 8 nhân,8.0,0.0,2 SIM (nano‑SIM và eSIM),3300 mAh,8.6,182,samsung
+Samsung Galaxy A20s (3GB|32GB) (Likenew),1590000,IPS LCD,Qualcomm SDM450 Snapdragon 450,3.0,32.0,2 SIM,4000 mAh,6.5,183,samsung
+Xiaomi 12,19990000,AMOLED,Snapdragon 8 Gen 1 8 nhân,8.0,256.0,2 Nano SIM,4500 mAh,6.28,184,xiaomi
+Xiaomi 11T 5G 128GB,8990000,AMOLED,MediaTek Dimensity 1200 8 nhân,8.0,128.0,2 Nano SIM,5000 mAh,6.67,185,xiaomi
+Xiaomi Redmi Note 11 Pro,7190000,AMOLED,MediaTek Helio G96 8 nhân,8.0,128.0,2 Nano SIM (SIM 2 chung khe thẻ nhớ),5000 mAh,6.67,186,xiaomi
+Xiaomi Redmi Note 11S 5G,6490000,IPS LCD,MediaTek Dimensity 810 5G 8 nhân,6.0,128.0,2 Nano SIM (SIM 2 chung khe thẻ nhớ),5000 mAh,6.6,187,xiaomi
+Xiaomi Redmi Note 10S 6GB,5990000,AMOLED,MediaTek Helio G95 8 nhân,6.0,128.0,2 Nano SIM,5000 mAh,6.43,188,xiaomi
+Xiaomi Redmi 10 (6GB/128GB),4490000,IPS LCD,MediaTek Helio G88 8 nhân,6.0,128.0,2 Nano SIM,5000 mAh,6.5,189,xiaomi
+Xiaomi Redmi Note 11 (4GB/64GB),4190000,AMOLED,Snapdragon 680 8 nhân,4.0,64.0,2 Nano SIM,5000 mAh,6.43,190,xiaomi
+Xiaomi Redmi 10C 64GB,3190000,IPS LCD,Snapdragon 680 8 nhân,4.0,64.0,2 Nano SIM,5000 mAh,6.71,191,xiaomi
+Xiaomi Redmi 9C (3GB/64GB),2990000,IPS LCD,MediaTek Helio G35 8 nhân,3.0,64.0,2 Nano SIM,5000 mAh,6.53,192,xiaomi
+Xiaomi Mi 11 Lite 5G,7490000,AMOLED,Snapdragon 780G (5 nm),8.0,128.0,2 SIM (Nano-SIM),Li-Po 4250 mAh,6.55,193,xiaomi
+Xiaomi Redmi 10 4GB - 128GB (2022),4290000,,MediaTek Helio G88,4.0,128.0,2 SIM (Nano-SIM),5000 mAh,6.5,194,xiaomi
+Xiaomi Redmi 9A,2390000,IPS LCD,MediaTek Helio G25 (12 nm),2.0,32.0,2 SIM (Nano-SIM),"Li-Po 5000 mAh battery, Hỗ trợ sạc nhanh 10W",6.53,195,xiaomi
+Xiaomi Redmi 10 (4GB - 64GB),3650000,,MediaTek Helio G88,4.0,64.0,2 SIM (Nano-SIM),5000 mAh,6.5,196,xiaomi
+Xiaomi 12 Pro (5G),25790000,OLED,Qualcomm SM8450 Snapdragon 8 Gen1,12.0,256.0,2 SIM (Nano-SIM),4600 mAh,6.73,197,xiaomi
+Xiaomi Redmi 10C 4GB 128GB,3690000,IPS LCD,Qualcomm SM6225 Snapdragon 680 4G (6 nm),4.0,128.0,2 SIM (Nano-SIM),4x2.4 GHz Kryo 265 Gold & 4x1.9 GHz Kryo 265 Silver,6.71,198,xiaomi
+Xiaomi Redmi Note 10S,4990000,AMOLED,MediaTek Helio G95,8.0,128.0,2 SIM (Nano-SIM),5000 mAh,6.43,199,xiaomi
+Xiaomi Redmi Note 10,5100000,AMOLED,Snapdragon 678 (11 nm),6.0,128.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.43,200,xiaomi
+Xiaomi Redmi 10 (4GB - 128GB),4290000,,MediaTek Helio G88,4.0,128.0,2 SIM (Nano-SIM),5000 mAh,6.5,201,xiaomi
+Xiaomi Mi 10T Pro 5G,11200000,IPS LCD,Qualcomm Snapdragon™ 865 5G,8.0,256.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.67,202,xiaomi
+Xiaomi Poco X3 GT,6290000,IPS LCD,MediaTek Dimensity 1100,8.0,128.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.6,203,xiaomi
+Xiaomi 11 Lite 5G NE,8000000,AMOLED,Snapdragon™ 778G,8.0,128.0,2 SIM (Nano-SIM),4250mAh,6.55,204,xiaomi
+Xiaomi Redmi 9T 4GB 64GB,3990000,,Qualcomm SM6115 Snapdragon 662 (11 nm),4.0,64.0,2 SIM (Nano-SIM),Li-Po 6000 mAh,6.53,205,xiaomi
 Xiaomi POCO X3 NFC 128GB,5700000,IPS LCD,Qualcomm SM7150-AC Snapdragon 732G (8 nm),6.0,128.0,2 SIM (Nano-SIM),"Li-Po 5160 mAh
-Sạc nhanh 33W",6.67,22,CellphoneS,xiaomi
-Xiaomi Redmi Note 10 Pro 8GB,6090000,AMOLED,Snapdragon 732G (8 nm),8.0,128.0,2 SIM (Nano-SIM),Li-Po 5020 mAh,6.67,23,CellphoneS,xiaomi
-Xiaomi Redmi Note 10 5G,4950000,IPS LCD,Dimensity 700 5G (7 nm),4.0,128.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.5,24,CellphoneS,xiaomi
-Xiaomi Mi 11 5G,15200000,AMOLED,Qualcomm SM8350 Snapdragon 888 (5 nm),8.0,256.0,2 SIM (Nano-SIM),Li-Po 4600 mAh,6.81,25,CellphoneS,xiaomi
-Xiaomi Redmi Note 9s 4G 64GB,4450000,IPS LCD,Qualcomm SM7125 Snapdragon 720G (8 nm),4.0,64.0,2 SIM (Nano-SIM),"Non-removable Li-Po 5020 mAh battery, Fast charging 18W",6.67,26,CellphoneS,xiaomi
+Sạc nhanh 33W",6.67,206,xiaomi
+Xiaomi Redmi Note 10 Pro 8GB,6090000,AMOLED,Snapdragon 732G (8 nm),8.0,128.0,2 SIM (Nano-SIM),Li-Po 5020 mAh,6.67,207,xiaomi
+Xiaomi Redmi Note 10 5G,4950000,IPS LCD,Dimensity 700 5G (7 nm),4.0,128.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.5,208,xiaomi
+Xiaomi Mi 11 5G,15200000,AMOLED,Qualcomm SM8350 Snapdragon 888 (5 nm),8.0,256.0,2 SIM (Nano-SIM),Li-Po 4600 mAh,6.81,209,xiaomi
+Xiaomi Redmi Note 9s 4G 64GB,4450000,IPS LCD,Qualcomm SM7125 Snapdragon 720G (8 nm),4.0,64.0,2 SIM (Nano-SIM),"Non-removable Li-Po 5020 mAh battery, Fast charging 18W",6.67,210,xiaomi
 "Xiaomi Redmi 9 4G
-4GB - 64GB",2950000,IPS LCD,Mediatek Helio G80 (12 nm),4.0,64.0,2 SIM (Nano-SIM),"Li-Po 5020 mAh battery, Fast charging 18W",6.53,27,CellphoneS,xiaomi
-Xiaomi Redmi 9T 6GB 128GB,4400000,,Qualcomm SM6115 Snapdragon 662 (11 nm),6.0,128.0,2 SIM (Nano-SIM),Li-Po 6000 mAh,6.53,28,CellphoneS,xiaomi
-Xiaomi Redmi Note 10 Pro 6GB,6900000,AMOLED,Snapdragon 732G (8 nm),6.0,128.0,2 SIM (Nano-SIM),Li-Po 5020 mAh,6.67,29,CellphoneS,xiaomi
-Xiaomi Mi 10T Pro 5G 8GB 128GB,10200000,IPS LCD,Qualcomm SM8250 Snapdragon 865 (7 nm+),8.0,128.0,2 SIM (Nano-SIM),"Li-Po 5000 mAh, sạc nhanh 33W, Power Delivery 3.0",6.67,30,CellphoneS,xiaomi
+4GB - 64GB",2950000,IPS LCD,Mediatek Helio G80 (12 nm),4.0,64.0,2 SIM (Nano-SIM),"Li-Po 5020 mAh battery, Fast charging 18W",6.53,211,xiaomi
+Xiaomi Redmi 9T 6GB 128GB,4400000,,Qualcomm SM6115 Snapdragon 662 (11 nm),6.0,128.0,2 SIM (Nano-SIM),Li-Po 6000 mAh,6.53,212,xiaomi
+Xiaomi Redmi Note 10 4GB,4250000,AMOLED,Snapdragon 678 (11 nm),4.0,64.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.43,213,xiaomi
+Xiaomi Redmi Note 10 Pro 6GB,6900000,AMOLED,Snapdragon 732G (8 nm),6.0,128.0,2 SIM (Nano-SIM),Li-Po 5020 mAh,6.67,214,xiaomi
+Xiaomi Mi 10T Pro 5G 8GB 128GB,10200000,IPS LCD,Qualcomm SM8250 Snapdragon 865 (7 nm+),8.0,128.0,2 SIM (Nano-SIM),"Li-Po 5000 mAh, sạc nhanh 33W, Power Delivery 3.0",6.67,215,xiaomi
 Xiaomi POCO X3 NFC 64GB,5000000,IPS LCD,Qualcomm SM7150-AC Snapdragon 732G (8 nm),6.0,64.0,2 SIM (Nano-SIM),"Li-Po 5160 mAh
-Sạc nhanh 33W",6.67,31,CellphoneS,xiaomi
-Xiaomi Redmi 8A,790000,,Qualcomm Snapdragon 439 8 nhân 64-bit,2.0,32.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.2,32,CellphoneS,xiaomi
+Sạc nhanh 33W",6.67,216,xiaomi
+Xiaomi Redmi 8A,790000,,Qualcomm Snapdragon 439 8 nhân 64-bit,2.0,32.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.2,217,xiaomi
 "Xiaomi Redmi 9
-3GB- 32GB",2790000,IPS LCD,Mediatek Helio G80 8 nhân,3.0,32.0,2 SIM (Nano-SIM),"Li-Po 5000 mAh battery, Fast charging 18W",6.53,33,CellphoneS,xiaomi
-Xiaomi Mi Note 10 Pro,14990000,,Snapdragon 730G 8 nhân,8.0,256.0,2 SIM (Nano-SIM),5260 mAh,6.47,34,CellphoneS,xiaomi
-Xiaomi 11 Lite 5G NE Trang Swarovski,9490000,AMOLED,Snapdragon™ 778G,8.0,128.0,2 SIM (Nano-SIM),4250mAh,6.55,35,CellphoneS,xiaomi
-Xiaomi Redmi Note 9 Pro 128GB,6200000,IPS LCD,Qualcomm SM7125 Snapdragon 720G (8 nm),6.0,128.0,2 SIM (Nano-SIM),"Li-Po 5020 mAh battery, Fast charging 30W",6.67,36,CellphoneS,xiaomi
-Xiaomi Redmi 8 3GB,2500000,,Snapdragon 439 8 nhân,3.0,32.0,2 SIM (Nano-SIM),"5000 mAh - Tiết kiệm pin, Sạc nhanh Quick Charge 3.0",6.2,37,CellphoneS,xiaomi
-Xiaomi Mi Note 10 Lite 64GB,8990000,,Qualcomm SDM730 Snapdragon 730G (8 nm),6.0,64.0,2 SIM (Nano-SIM),Li-Po 5260 mAh battery,6.47,38,CellphoneS,xiaomi
+3GB- 32GB",2790000,IPS LCD,Mediatek Helio G80 8 nhân,3.0,32.0,2 SIM (Nano-SIM),"Li-Po 5000 mAh battery, Fast charging 18W",6.53,218,xiaomi
+Xiaomi Mi Note 10 Pro,14990000,,Snapdragon 730G 8 nhân,8.0,256.0,2 SIM (Nano-SIM),5260 mAh,6.47,219,xiaomi
+Xiaomi 11 Lite 5G NE Trang Swarovski,9490000,AMOLED,Snapdragon™ 778G,8.0,128.0,2 SIM (Nano-SIM),4250mAh,6.55,220,xiaomi
+Xiaomi Redmi Note 9 Pro 128GB,6200000,IPS LCD,Qualcomm SM7125 Snapdragon 720G (8 nm),6.0,128.0,2 SIM (Nano-SIM),"Li-Po 5020 mAh battery, Fast charging 30W",6.67,221,xiaomi
+Xiaomi Redmi 8 3GB,2500000,,Snapdragon 439 8 nhân,3.0,32.0,2 SIM (Nano-SIM),"5000 mAh - Tiết kiệm pin, Sạc nhanh Quick Charge 3.0",6.2,222,xiaomi
+Xiaomi Mi Note 10 Lite 64GB,8990000,,Qualcomm SDM730 Snapdragon 730G (8 nm),6.0,64.0,2 SIM (Nano-SIM),Li-Po 5260 mAh battery,6.47,223,xiaomi
 "Xiaomi Redmi Note 9 3G
-3GB - 64GB",3400000,,MediaTek Helio G85,3.0,64.0,2 SIM (Nano-SIM),"5020 mAh battery, Fast charging 18W",6.53,39,CellphoneS,xiaomi
-Xiaomi Redmi 10 5G 4/64GB,4790000,,MediaTek Dimensity 700; 2.2Ghz; ARM Mali-G57 MC2,4.0,64.0,Dual SIM + MicroSD,5000mah; Li-ion; hỗ trợ sạc nhanh 18W,6.58,40,Viettel,xiaomi
-Xiaomi Redmi 10 5G 6/128GB,5590000,,MediaTek Dimensity 700; 2.2Ghz; ARM Mali-G57 MC2,6.0,128.0,Dual SIM + MicroSD,5000mah; Li-ion; hỗ trợ sạc nhanh 18W,6.58,41,Viettel,xiaomi
-Xiaomi 11T 5G 8/128GB,9290000,AMOLED,Meida Tek Dimensity 1200-Ultra; Tốc độ tối đa 3.0 GHz; TBC,8.0,128.0,2 nano SIM,5000 mAh; Li-po; Sạc siêu nhanh 67W,0.0,42,Viettel,xiaomi
-Xiaomi 11T Pro 5G 12/256GB,12490000,AMOLED,"Qualcomm® Snapdragon™ 888; CPU Kryo 680 có xung nhịp lên đến 2,84 GHz, được trang bị nhân siêu to ARM Cortex-X1; Qualcomm® Adreno™ 660",12.0,256.0,2 Nano Sim,5000 mAh; Li-po; Sạc nhanh Xiaomi HyperCharge 120 W,0.0,43,Viettel,xiaomi
-Xiaomi Redmi Note 11 4/128GB,4490000,Amoled,Snapdragon 680; 2.4Ghz; Adreno 610,4.0,128.0,Nano 2 sim,5000mah; Li-ion; Super charge 33W,6.43,44,Viettel,xiaomi
-Xiaomi Redmi Note 11 4/128GB XFF,4790000,Amoled,Snapdragon 680; 2.4Ghz; Adreno 610,4.0,128.0,Nano 2 sim,5000mah; Li-ion; Super charge 33W,6.43,45,Viettel,xiaomi
-Xiaomi Redmi 9C 4/128GB,3190000,IPS LCD,"MediaTek Helio G35 8 nhân, 4 nhân 2.3 GHz & 4 nhân 1.8 GHz, PowerVR GE8320",4.0,128.0,SIM 2 Nano SIM,"Pin chuẩn Li-Ion,5000 mAh",6.53,46,Viettel,xiaomi
-Xiaomi 11T Pro (12GB/256GB),13590000,AMOLED,Snapdragon 888 8 nhân,12.0,256.0,Nano SIM,Li-Po,6.67,47,Tiki,xiaomi
-Xiaomi Redmi 9C 4GB/128GB,3059000,IPS LCD,MediaTek Helio G35 8 nhân,4.0,128.0,Nano,Li-Ion,6.53,48,Tiki,xiaomi
-Xiaomi Redmi Note 11 (4GB/128GB),4179000,AMOLED,Snapdragon 680 8 nhân,4.0,128.0,Nano SIM,Li-Po,6.43,49,Tiki,xiaomi
-Xiaomi Redmi Note 11 4GB/128GB,4099000,AMOLED,Snapdragon 680 8 nhân,4.0,128.0,Nano SIM,Li-Po,6.43,50,Tiki,xiaomi
-Xiaomi 11T (8G/256GB),9590000,AMOLED,MediaTek Dimensity 1200 8 nhân,8.0,256.0,Nano,Li-Po,6.67,53,Tiki,xiaomi
-Xiaomi Redmi Note 11S (8GB/128GB),5829000,AMOLED,MediaTek Helio G96 8 nhân,8.0,128.0,Nano SIM,Li-Po,6.43,54,Tiki,xiaomi
-Xiaomi Redmi 9C (4GB/128GB),3089000,IPS LCD,MediaTek Helio G35 8 nhân,4.0,128.0,Nano,Li-Ion,6.53,55,Tiki,xiaomi
-Xiaomi Redmi Note 11,4690000,AMOLED,Snapdragon 680 8 nhân,4.0,0.0,Nano,Li-Ion,6.43,57,Tiki,xiaomi
-Xiaomi Redmi 10C (4GB/128GB),3390000,IPS LCD,Snapdragon 680 8 nhân,4.0,128.0,Nano,Li-Ion,6.7,58,Tiki,xiaomi
-Xiaomi Redmi Note 11 Pro 5G 8GB/128GB,8009000,AMOLED,Snapdragon 695 5G 8 nhân,8.0,128.0,Nano SIM (SIM 2 chung khe thẻ nhớ),Li-Po,6.67,60,Tiki,xiaomi
-Xiaomi Redmi Note 11 4GB/64GB,3890000,AMOLED,Snapdragon 680 8 nhân,4.0,64.0,Nano-SIM,Li-Po,6.43,64,Tiki,xiaomi
-Xiaomi 11T 5G 8GB l 128GB,10990000,AMOLED,MediaTek Dimensity 1200 8 nhân,0.0,0.0,Nano sim,Li-Po,6.67,65,Tiki,xiaomi
-Xiaomi Redmi Note 11S 8GB/128GB,5829000,AMOLED,MediaTek Helio G96 8 nhân,8.0,128.0,Nano SIM,Li-Po,6.43,66,Tiki,xiaomi
-Xiaomi Redmi Note 11 Pro 5G (8GB/128GB),8080000,AMOLED,Snapdragon 695 5G 8 nhân,8.0,128.0,Nano,Li-Po,6.67,67,Tiki,xiaomi
-Xiaomi Redmi 9A (2GB/32GB),2070000,IPS LCD,MediaTek Helio G25 8 nhân,2.0,32.0,2 Nano SIM,Pin chuẩn Li-Ion,6.53,69,Tiki,xiaomi
-"XIAOMI X4 PRO 5G 6.67""/SNAP695 5G/8G/256G/108+8+2MP/16MP/5000mAh",6290000,AMOLED,SnapDragon 695,0.0,0.0,Nano sim,,6.67,70,Tiki,xiaomi
-Xiaomi Redmi Note 11 (6GB/128GB),4990000,AMOLED,,6.0,128.0,Nano,,6.43,71,Tiki,xiaomi
-Xiaomi Redmi Note 11 [4GB/128GB] [6GB/128GB] |Dimensity 810| Full Ngon Ngu,3990000,AMOLED,MediaTek G80,0.0,128.0,Nano,"5.000 mAh, hỗ trợ sạc nhanh 18 W",6.43,73,Tiki,xiaomi
-Xiaomi Redmi 10C 4/128GB,3329000,IPS LCD,Snapdragon 680 8 nhân,4.0,128.0,Nano,Li-Ion,6.7,74,Tiki,xiaomi
-Xiaomi Redmi 10 (4GB|128GB),3550000,IPS LCD,Octa Core MediaTek Helio G88,0.0,0.0,2 SIM (2 Nano + 1 microSD),5000 mAh,6.5,75,Di động Việt,xiaomi
-Xiaomi Redmi 10C (4GB|128GB),3590000,IPS LCD,Snapdragon 680 8 nhân,4.0,128.0,2 Nano SIM,5000 mAh,6.71,77,Di động Việt,xiaomi
-OPPO Reno6 5G,10990000,AMOLED,MediaTek Dimensity 900 5G,8.0,128.0,2 Nano SIM,4300 mAh,6.43,0,Thế giới di động,oppo
-OPPO Reno7 Z 5G,10490000,AMOLED,Snapdragon 695 5G 8 nhân,8.0,128.0,2 Nano SIM (SIM 2 chung khe thẻ nhớ),4500 mAh,6.43,1,Thế giới di động,oppo
-OPPO Reno6 Z 5G,7390000,AMOLED,MediaTek Dimensity 800U 5G 8 nhân,8.0,128.0,2 SIM (Nano-SIM),4310mAh (Typ),6.43,2,CellphoneS,oppo
-OPPO Reno7 (5G),12990000,AMOLED,MediaTek Dimensity 900,8.0,256.0,2 SIM (Nano-SIM),Li-Po 4500 mAh,6.4,3,CellphoneS,oppo
-OPPO A95,6290000,AMOLED,Qualcomm® Snapdragon™ 662,8.0,128.0,2 SIM (Nano-SIM),5000mAh,6.43,4,CellphoneS,oppo
-OPPO Reno4 Pro,7990000,Super AMOLED,Qualcomm SM7125 Snapdragon 720G (8 nm),8.0,256.0,2 SIM (Nano-SIM),"Li-Po 4000 mAh battery, Fast charging 30W, 60% in 15 min, 100% in 36 min (advertised), SuperVOOC 2.0",6.5,5,CellphoneS,oppo
-OPPO Reno7 4G (8GB - 128GB),8490000,AMOLED,Snapdragon™ 680,8.0,128.0,2 SIM (Nano-SIM),4500 mAh,6.43,6,CellphoneS,oppo
-OPPO Reno5 5G,8990000,AMOLED,Qualcomm SM7250 Snapdragon 765G (7 nm),8.0,128.0,2 SIM (Nano-SIM),"4300mAh (Typ), Sạc siêu nhanh",6.43,7,CellphoneS,oppo
-Oppo A16,3490000,IPS LCD,MediaTek Helio G35,3.0,32.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.52,8,CellphoneS,oppo
-OPPO A16K,3190000,,"Helio G35 8 nhân, tối đa 2.3GHz",3.0,32.0,2 SIM (Nano-SIM),4230 mA,6.52,9,CellphoneS,oppo
-OPPO A94,5690000,AMOLED,"Helio P95, tối đa 2.2GHz",8.0,128.0,2 SIM (Nano-SIM),Li-Po 4310mAh,6.43,10,CellphoneS,oppo
-OPPO A55,4290000,IPS LCD,MediaTek Helio G35,4.0,64.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.5,11,CellphoneS,oppo
-OPPO A76,5390000,IPS LCD,Snapdragon 680 4G (6 nm),6.0,128.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.56,12,CellphoneS,oppo
-OPPO Reno5,7790000,AMOLED,"Qualcomm Snapdragon 720G, tối đa 2.3GHz",8.0,128.0,2 SIM (Nano-SIM),"4310mAh (Typ), Sạc siêu nhanh",6.43,13,CellphoneS,oppo
-OPPO A15,3290000,IPS LCD,Mediatek MT6765 Helio P35 (12nm),3.0,32.0,2 SIM (Nano-SIM),Li-Po 4230 mAh,6.22,14,CellphoneS,oppo
-OPPO Find X3 Pro 5G,18790000,AMOLED,Snapdragon 888 (5 nm),12.0,256.0,2 SIM (Nano-SIM),4500mAh,6.7,15,CellphoneS,oppo
-Oppo A54,4350000,IPS LCD,Mediatek MT6765 Helio P35 (12nm),4.0,128.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.5,16,CellphoneS,oppo
-OPPO Find X2,18990000,AMOLED,Qualcomm Snapdragon 865,12.0,256.0,2 SIM (Nano-SIM),"4200 mAh Li-Ion, Hỗ trợ sạc nhanh",6.7,17,CellphoneS,oppo
-OPPO A74,5790000,AMOLED,"Qualcomm Snapdragon 662, tối đa 2.0GHz",8.0,128.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.43,18,CellphoneS,oppo
-OPPO A15s,3790000,IPS LCD,"Mediatek MT6765 Helio P35, tiến trình 12nm, 8 nhân",4.0,64.0,2 SIM (Nano-SIM),Li-Po 4230 mA,6.52,19,CellphoneS,oppo
-OPPO Reno7,8490000,AMOLED,"Qualcomm Snapdragon 680, tối đa 2.4GHz",8.0,128.0,Dual nano-SIM + 1 thẻ nhớ,4500mAh (Typ) Siêu sạc nhanh superVOOC 33W,6.4,21,Viettel,oppo
-OPPO A16,3790000,LCD,"Helio G35, tối đa 2.3GHz; IMG GE8320@680MHz",3.0,32.0,Dual nano-SIM hoặc 1 nano-SIM + 1 thẻ nhớ,5000mAh (Typ),6.52,25,Viettel,oppo
-OPPO Reno7 5G,12490000,AMOLED,"Dimensity 900 5G, tối đa 2.4GHz; Mali-G78 MC4",8.0,256.0,Dual nano-SIM + 1 khe thẻ nhớ,4500mAh (Typ) Siêu sạc nhanh superVOOC 2.0 65W,6.43,28,Viettel,oppo
-Oppo A76 (6GB/128G),5490000,IPS LCD,Snapdragon 680 8 nhân,6.0,128.0,2 nano sim,,6.56,29,Tiki,oppo
-Oppo Reno 7 5G (8GB/256G),11990000,AMOLED,MediaTek Dimensity 900,8.0,256.0,Nano Sim,Li-Po,6.43,30,Tiki,oppo
-Oppo Reno 5G (8GB/128G),7290000,"AMOLED, 6.43"", Full HD+, Kính cường lực Corning Gorilla Glass 3+",Snapdragon 765G 8 nhân,8.0,128.0,"Nano SIM, Hỗ trợ 5G","Li-Po, sạc siêu nhanh SuperVOOC, Tiết kiệm pin",6.43,31,Tiki,oppo
-OPPO A95 8GB/128GB,6490000,Amoled,"Qualcomm Snapdragon 662,",0.0,128.0,Nano,,6.43,32,Tiki,oppo
-Oppo Reno 6 5G (8GB/128G),8990000,AMOLED,"MTK Dimensity 900 5G, tối đa 2.4GHz",8.0,128.0,Nano Sim,,6.43,33,Tiki,oppo
-Oppo A74 (8GB/128G),5190000,AMOLED,Snapdragon 662 Octa-Core 8 nhân,8.0,128.0,Nano SIM,Lithium polymer,6.43,34,Tiki,oppo
-Oppo A15 (3GB/32G),3250000,IPS LCD,MediaTek Helio P35 8 nhân,3.0,32.0,Nano SIM,Li-Ion,6.52,35,Tiki,oppo
-OPPO A95 (8GB/128GB),6490000,AMOLED,Snapdragon 662 8 nhân,8.0,128.0,Nano,Li-Po,6.43,36,Tiki,oppo
-Oppo Reno 6Z 5G (8GB/128G),7485000,AMOLED,MediaTek Dimensity 800U 5G 8 nhân,8.0,0.0,Nano,Li-Po,6.43,37,Tiki,oppo
-Oppo A55 4GB/64GB,4069000,IPS LCD,MediaTek Helio G35 8 nhân,4.0,64.0,Nano SIM,Li-Po,6.5,38,Tiki,oppo
-OPPO RENO7 4G (8GB/128GB),8490000,AMOLED,Qualcomm Snapdragon 680,8.0,256.0,Nano SIM,Li-Po,6.4,39,Tiki,oppo
-Oppo A15s 4GB/64GB,3939000,LCD,MediaTek Helio P35 8 nhân,4.0,64.0,Nano SIM,Li-Ion,6.52,40,Tiki,oppo
-Oppo A95 8GB/128GB,6239000,AMOLED,Snapdragon 662 8 nhân,8.0,128.0,Nano SIM,Li-Po,6.43,42,Tiki,oppo
-OPPO A16K (3GB/32GB),2969000,,MediaTek Helio G35 8 nhân,3.0,32.0,,,6.52,43,Tiki,oppo
-OPPO A76 (6GB/128GB),5385000,IPS LCD,Snapdragon 680 8 nhân,6.0,128.0,Nano SIM,Li-Po,6.56,44,Tiki,oppo
-OPPO RENO7 5G (8GB/256GB),11990000,AMOLED,Dimensity 900 5G,8.0,256.0,Nano SIM,Li-Po,6.43,45,Tiki,oppo
-Oppo Reno 7 5G (8GB/256GB),11585000,AMOLED,MediaTek Dimensity 900 5G,8.0,256.0,Nano,Li-Po,6.4,46,Tiki,oppo
-Oppo A16K (3GB/32GB),3049000,IPS LCD,MediaTek Helio G35 8 nhân,3.0,32.0,Nano SIM,Li-Po,6.52,47,Tiki,oppo
-OPPO A16 (4GB/64GB),4090000,IPS LCD,MediaTek Helio G35 8 nhân,4.0,64.0,Nano,Li-Po,6.52,48,Tiki,oppo
-Oppo A55 (4GB/64GB),3970000,IPS LCD,MediaTek Helio G35 8 nhân,4.0,64.0,Nano SIM,Li-Po,6.5,49,Tiki,oppo
-OPPO A55 (4GB/64GB),4490000,IPS LCD,MediaTek Helio G35 8 nhân,4.0,64.0,Nano SIM,Li-Po 5000 mAh,6.5,52,Tiki,oppo
-Oppo A16k 4GB/64GB,3690000,IPS LCD,MediaTek Helio G35 8 nhân,4.0,64.0,Nano SIM,Li-Po,6.52,53,Tiki,oppo
-Oppo A16k (3GB/32G),2850000,IPS LCD,MediaTek Helio G35 8 nhân,3.0,0.0,2 Nano,Li-Po,6.52,54,Tiki,oppo
-OPPO Reno6 Pro (12GB/256GB),15490000,,Snapdragon 870 5G 8 nhân,2.0,256.0,Nano sim,Li-Po,6.55,55,Tiki,oppo
-Oppo A16 3GB/32GB,3390000,IPS LCD,MediaTek Helio G35 8 nhân,3.0,32.0,Nano SIM,Li-Po,6.52,56,Tiki,oppo
-OPPO Reno6 5G (8GB|128GB),10290000,AMOLED DotDisplay,MediaTek Dimensity 900 5G,8.0,128.0,2 Nano SIM,4300 mAh,6.43,57,Di động Việt,oppo
-OPPO Reno6 Z 5G (8GB|128GB)  (BHDT),6190000,AMOLED,Dimensity 800U 5G,8.0,128.0,2 Nano SIM,4310 mAh,6.43,58,Di động Việt,oppo
-OPPO Reno7 Z (8GB|128GB) Chinh hang,9090000,AMOLED,Snapdragon 695 5G 8 nhân,8.0,128.0,2 SIM (2 nano SIM),4500 mAh,6.43,59,Di động Việt,oppo
-Vivo V23e,8490000,AMOLED,MediaTek Helio G96 8 nhân,8.0,128.0,2 Nano SIM (SIM 2 chung khe thẻ nhớ),4050 mAh,6.44,0,Thế giới di động,other
-Realme 9 Pro 5G,7990000,IPS LCD,Snapdragon 695 5G 8 nhân,8.0,128.0,2 Nano SIM (SIM 2 chung khe thẻ nhớ),5000 mAh,6.6,1,Thế giới di động,other
-Realme 8,7290000,Super AMOLED,MediaTek Helio G95 8 nhân,8.0,128.0,2 Nano SIM,5000 mAh,6.4,2,Thế giới di động,other
-Realme C25Y 64GB,4690000,IPS LCD,Unisoc T618 8 nhân,4.0,64.0,2 Nano SIM,5000 mAh,6.5,3,Thế giới di động,other
-Realme C35 64GB,4290000,IPS LCD,Unisoc T616 8 nhân,4.0,64.0,2 Nano SIM,5000 mAh,6.6,4,Thế giới di động,other
-Vivo Y21,3990000,IPS LCD,MediaTek Helio P35 8 nhân,4.0,64.0,2 Nano SIM,5000 mAh,6.51,5,Thế giới di động,other
-Realme C21-Y 3GB,3690000,IPS LCD,Spreadtrum T610 8 nhân,3.0,32.0,2 Nano SIM,5000 mAh,6.5,6,Thế giới di động,other
-Vivo Y15s,3490000,IPS LCD,MediaTek Helio P35 8 nhân,3.0,32.0,2 Nano SIM,5000 mAh,6.51,7,Thế giới di động,other
-Realme C21Y 3GB,3390000,IPS LCD,Spreadtrum T610 8 nhân,3.0,32.0,2 Nano SIM,5000 mAh,6.5,8,Thế giới di động,other
-Realme C11 (2021),2990000,IPS LCD,Spreadtrum SC9863A 8 nhân,2.0,32.0,2 Nano SIM,5000 mAh,6.5,9,Thế giới di động,other
-Nokia 105 Single SIM,480000,TFT LCD,,0.0,0.0,1 SIM thường,800 mAh,1.77,10,Thế giới di động,other
-Tecno Pova Neo (4GB - 64GB),2499000,IPS LCD,MediaTek Helio G25 (12 nm),0.0,64.0,2 SIM (Nano-SIM),6000 mAh,6.8,11,CellphoneS,other
-Tecno Pova 2,3450000,IPS LCD,MediaTek Helio G85 (12nm),4.0,64.0,2 SIM (Nano-SIM),Li-Po 7000 mAh,6.9,12,CellphoneS,other
-ASUS ROG Phone 5S 16GB 512GB,20790000,AMOLED,Snapdragon 888 Plus 8 nhân,16.0,512.0,2 SIM (Nano-SIM),6000 mAh,6.78,13,CellphoneS,other
-ASUS ROG Phone 5 chinh hang,18990000,AMOLED,Snapdragon 888 (5 nm),16.0,256.0,2 SIM (Nano-SIM),6000 mAh,6.78,14,CellphoneS,other
-ASUS ROG Phone 5S 16GB 256GB,19490000,AMOLED,Qualcomm® Snapdragon® 888+ 5G Mobile Platform,16.0,256.0,2 SIM (Nano-SIM),6000 mAh,6.78,15,CellphoneS,other
-Tecno Spark 8C,2650000,IPS LCD,UNISOC T606,0.0,64.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.6,16,CellphoneS,other
-Nubia Red Magic 6s Pro Cyborg 12GB 128GB,16490000,AMOLED,Qualcomm® Snapdragon™ 888+ 5G,12.0,128.0,2 SIM (Nano-SIM),Li-Po 5050 mAh,6.8,17,CellphoneS,other
-ASUS ROG Phone 5S 12GB 256GB,17990000,AMOLED,Qualcomm® Snapdragon® 888+ 5G Mobile Platform,12.0,256.0,2 SIM (Nano-SIM),6000 mAh,6.78,18,CellphoneS,other
-Nubia Red Magic 6R,9990000,AMOLED,SM8350 Snapdragon 888 5G (5 nm),8.0,128.0,2 SIM (Nano-SIM),Li-Po 4200 mAh,6.67,19,CellphoneS,other
-ASUS ROG Phone 5S 8GB 128GB,15790000,AMOLED,Qualcomm® Snapdragon® 888+ 5G Mobile Platform,8.0,128.0,2 SIM (Nano-SIM),6000 mAh,6.78,20,CellphoneS,other
-Tecno Pova 2 6G 128GB,3850000,IPS LCD,MediaTek Helio G85 (12nm),6.0,128.0,2 SIM (Nano-SIM),Li-Po 7000 mAh,6.9,21,CellphoneS,other
-Vivo Y15a,3200000,IPS LCD,MediaTek Helio P35,4.0,64.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.51,22,CellphoneS,other
-Tecno Pova Neo 6G 128GB,3099000,IPS LCD,UNISOC T606,0.0,128.0,2 SIM (Nano-SIM),6000 mAh,6.8,23,CellphoneS,other
-Nokia G21,3990000,IPS LCD,Unisoc T606 (12 nm),4.0,128.0,2 SIM (Nano-SIM),Li-Po 5050 mAh,6.5,24,CellphoneS,other
-Realme 9 Pro,7190000,IPS LCD,Qualcomm Snapdragon 695 5G,8.0,128.0,2 SIM (Nano-SIM),5000mAh,6.6,25,CellphoneS,other
+3GB - 64GB",3400000,,MediaTek Helio G85,3.0,64.0,2 SIM (Nano-SIM),"5020 mAh battery, Fast charging 18W",6.53,224,xiaomi
+Xiaomi Redmi 10 5G 4/64GB,4790000,,MediaTek Dimensity 700; 2.2Ghz; ARM Mali-G57 MC2,4.0,64.0,Dual SIM + MicroSD,5000mah; Li-ion; hỗ trợ sạc nhanh 18W,6.58,225,xiaomi
+Xiaomi Redmi 10 5G 6/128GB,5590000,,MediaTek Dimensity 700; 2.2Ghz; ARM Mali-G57 MC2,6.0,128.0,Dual SIM + MicroSD,5000mah; Li-ion; hỗ trợ sạc nhanh 18W,6.58,226,xiaomi
+Xiaomi 11T 5G 8/128GB,9290000,AMOLED,Meida Tek Dimensity 1200-Ultra; Tốc độ tối đa 3.0 GHz; TBC,8.0,128.0,2 nano SIM,5000 mAh; Li-po; Sạc siêu nhanh 67W,0.0,227,xiaomi
+Xiaomi 11T Pro 5G 12/256GB,12490000,AMOLED,"Qualcomm® Snapdragon™ 888; CPU Kryo 680 có xung nhịp lên đến 2,84 GHz, được trang bị nhân siêu to ARM Cortex-X1; Qualcomm® Adreno™ 660",12.0,256.0,2 Nano Sim,5000 mAh; Li-po; Sạc nhanh Xiaomi HyperCharge 120 W,0.0,228,xiaomi
+Xiaomi Redmi Note 11 4/128GB,4490000,Amoled,Snapdragon 680; 2.4Ghz; Adreno 610,4.0,128.0,Nano 2 sim,5000mah; Li-ion; Super charge 33W,6.43,229,xiaomi
+Xiaomi Redmi Note 11 4/128GB XFF,4790000,Amoled,Snapdragon 680; 2.4Ghz; Adreno 610,4.0,128.0,Nano 2 sim,5000mah; Li-ion; Super charge 33W,6.43,230,xiaomi
+Xiaomi Redmi 9C 4/128GB,3190000,IPS LCD,"MediaTek Helio G35 8 nhân, 4 nhân 2.3 GHz & 4 nhân 1.8 GHz, PowerVR GE8320",4.0,128.0,SIM 2 Nano SIM,"Pin chuẩn Li-Ion,5000 mAh",6.53,231,xiaomi
+Xiaomi 11T Pro (12GB/256GB),13590000,AMOLED,Snapdragon 888 8 nhân,12.0,256.0,Nano SIM,Li-Po,6.67,232,xiaomi
+Xiaomi Redmi 9C 4GB/128GB,3059000,IPS LCD,MediaTek Helio G35 8 nhân,4.0,128.0,Nano,Li-Ion,6.53,233,xiaomi
+Xiaomi Redmi Note 11 (4GB/128GB),4179000,AMOLED,Snapdragon 680 8 nhân,4.0,128.0,Nano SIM,Li-Po,6.43,234,xiaomi
+Xiaomi Redmi Note 11 4GB/128GB,4099000,AMOLED,Snapdragon 680 8 nhân,4.0,128.0,Nano SIM,Li-Po,6.43,235,xiaomi
+Xiaomi Redmi Note 11 (4GB/64GB),3919000,AMOLED,Snapdragon 680 8 nhân,4.0,64.0,Nano,Li-Po,6.43,236,xiaomi
+Xiaomi Redmi Note 11 (4GB/64GB),3990000,AMOLED,Snapdragon 680 8 nhân,4.0,64.0,Nano,Li-Po,6.43,237,xiaomi
+Xiaomi 11T (8G/256GB),9590000,AMOLED,MediaTek Dimensity 1200 8 nhân,8.0,256.0,Nano,Li-Po,6.67,238,xiaomi
+Xiaomi Redmi Note 11S (8GB/128GB),5829000,AMOLED,MediaTek Helio G96 8 nhân,8.0,128.0,Nano SIM,Li-Po,6.43,239,xiaomi
+Xiaomi Redmi 9C (4GB/128GB),3089000,IPS LCD,MediaTek Helio G35 8 nhân,4.0,128.0,Nano,Li-Ion,6.53,240,xiaomi
+Xiaomi Redmi Note 11 (4GB/128GB),4250000,AMOLED,Snapdragon 680 8 nhân,4.0,128.0,Nano,Li-Po,6.43,241,xiaomi
+Xiaomi Redmi Note 11,4690000,AMOLED,Snapdragon 680 8 nhân,4.0,0.0,Nano,Li-Ion,6.43,242,xiaomi
+Xiaomi Redmi 10C (4GB/128GB),3390000,IPS LCD,Snapdragon 680 8 nhân,4.0,128.0,Nano,Li-Ion,6.7,243,xiaomi
+Xiaomi Redmi 9C (4GB/128GB),3290000,IPS LCD,MediaTek Helio G35 8 nhân,4.0,128.0,Nanosim,Li-Ion,6.53,244,xiaomi
+Xiaomi Redmi Note 11 Pro 5G 8GB/128GB,8009000,AMOLED,Snapdragon 695 5G 8 nhân,8.0,128.0,Nano SIM (SIM 2 chung khe thẻ nhớ),Li-Po,6.67,245,xiaomi
+Xiaomi Redmi 9C (4GB/128GB),3069000,,MediaTek Helio G35 8 nhân,4.0,128.0,Nano Sim,,6.53,246,xiaomi
+Xiaomi Redmi Note 11S (8GB/128GB),5690000,,MediaTek Helio G96,8.0,128.0,Nano,,6.43,247,xiaomi
+Xiaomi Redmi 10C (4GB/128GB),3369000,IPS LCD,Snapdragon 680 8 nhân,4.0,128.0,Nano SIM,Li-Ion,6.7,248,xiaomi
+Xiaomi Redmi Note 11 4GB/64GB,3890000,AMOLED,Snapdragon 680 8 nhân,4.0,64.0,Nano-SIM,Li-Po,6.43,249,xiaomi
+Xiaomi 11T 5G 8GB l 128GB,10990000,AMOLED,MediaTek Dimensity 1200 8 nhân,0.0,0.0,Nano sim,Li-Po,6.67,250,xiaomi
+Xiaomi Redmi Note 11S 8GB/128GB,5829000,AMOLED,MediaTek Helio G96 8 nhân,8.0,128.0,Nano SIM,Li-Po,6.43,251,xiaomi
+Xiaomi Redmi Note 11 Pro 5G (8GB/128GB),8080000,AMOLED,Snapdragon 695 5G 8 nhân,8.0,128.0,Nano,Li-Po,6.67,252,xiaomi
+Xiaomi Redmi Note 11 Pro 5G (8GB/128GB),8059000,AMOLED,Snapdragon 695 5G 8 nhân,8.0,128.0,Nano SIM,Li-Po,6.67,253,xiaomi
+Xiaomi Redmi 9A (2GB/32GB),2070000,IPS LCD,MediaTek Helio G25 8 nhân,2.0,32.0,2 Nano SIM,Pin chuẩn Li-Ion,6.53,254,xiaomi
+"XIAOMI X4 PRO 5G 6.67""/SNAP695 5G/8G/256G/108+8+2MP/16MP/5000mAh",6290000,AMOLED,SnapDragon 695,0.0,0.0,Nano sim,,6.67,255,xiaomi
+Xiaomi Redmi Note 11 (6GB/128GB),4990000,AMOLED,,6.0,128.0,Nano,,6.43,256,xiaomi
+Xiaomi Redmi Note 11 (4GB/128GB),4279000,AMOLED,Snapdragon 680 8 nhân,4.0,128.0,Nano,Li-Po,6.43,257,xiaomi
+Xiaomi Redmi Note 11 [4GB/128GB] [6GB/128GB] |Dimensity 810| Full Ngon Ngu,3990000,AMOLED,MediaTek G80,0.0,128.0,Nano,"5.000 mAh, hỗ trợ sạc nhanh 18 W",6.43,258,xiaomi
+Xiaomi Redmi 10C 4/128GB,3329000,IPS LCD,Snapdragon 680 8 nhân,4.0,128.0,Nano,Li-Ion,6.7,259,xiaomi
+Xiaomi Redmi 10 (4GB|128GB),3550000,IPS LCD,Octa Core MediaTek Helio G88,0.0,0.0,2 SIM (2 Nano + 1 microSD),5000 mAh,6.5,260,xiaomi
+Xiaomi Redmi 10 (4GB|128GB),3550000,IPS LCD,Octa Core MediaTek Helio G88,0.0,64.0,2 SIM (2 Nano + 1 microSD),5000 mAh,6.5,261,xiaomi
+Xiaomi Redmi 10C (4GB|128GB),3590000,IPS LCD,Snapdragon 680 8 nhân,4.0,128.0,2 Nano SIM,5000 mAh,6.71,262,xiaomi
+Xiaomi 12,18990000,AMOLED,Snapdragon 8 Gen 1 8 nhân,8.0,256.0,2 Nano SIM,4500 mAh,6.28,263,xiaomi
+OPPO Reno6 5G,10990000,AMOLED,MediaTek Dimensity 900 5G,8.0,128.0,2 Nano SIM,4300 mAh,6.43,264,oppo
+OPPO Reno7 Z 5G,10490000,AMOLED,Snapdragon 695 5G 8 nhân,8.0,128.0,2 Nano SIM (SIM 2 chung khe thẻ nhớ),4500 mAh,6.43,265,oppo
+OPPO Reno6 Z 5G,7390000,AMOLED,MediaTek Dimensity 800U 5G 8 nhân,8.0,128.0,2 SIM (Nano-SIM),4310mAh (Typ),6.43,266,oppo
+OPPO Reno7 (5G),12990000,AMOLED,MediaTek Dimensity 900,8.0,256.0,2 SIM (Nano-SIM),Li-Po 4500 mAh,6.4,267,oppo
+OPPO A95,6290000,AMOLED,Qualcomm® Snapdragon™ 662,8.0,128.0,2 SIM (Nano-SIM),5000mAh,6.43,268,oppo
+OPPO Reno4 Pro,7990000,Super AMOLED,Qualcomm SM7125 Snapdragon 720G (8 nm),8.0,256.0,2 SIM (Nano-SIM),"Li-Po 4000 mAh battery, Fast charging 30W, 60% in 15 min, 100% in 36 min (advertised), SuperVOOC 2.0",6.5,269,oppo
+OPPO Reno7 4G (8GB - 128GB),8490000,AMOLED,Snapdragon™ 680,8.0,128.0,2 SIM (Nano-SIM),4500 mAh,6.43,270,oppo
+OPPO Reno5 5G,8990000,AMOLED,Qualcomm SM7250 Snapdragon 765G (7 nm),8.0,128.0,2 SIM (Nano-SIM),"4300mAh (Typ), Sạc siêu nhanh",6.43,271,oppo
+Oppo A16,3490000,IPS LCD,MediaTek Helio G35,3.0,32.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.52,272,oppo
+OPPO A16K,3190000,,"Helio G35 8 nhân, tối đa 2.3GHz",3.0,32.0,2 SIM (Nano-SIM),4230 mA,6.52,273,oppo
+OPPO A94,5690000,AMOLED,"Helio P95, tối đa 2.2GHz",8.0,128.0,2 SIM (Nano-SIM),Li-Po 4310mAh,6.43,274,oppo
+OPPO A55,4290000,IPS LCD,MediaTek Helio G35,4.0,64.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.5,275,oppo
+OPPO A76,5390000,IPS LCD,Snapdragon 680 4G (6 nm),6.0,128.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.56,276,oppo
+OPPO Reno5,7790000,AMOLED,"Qualcomm Snapdragon 720G, tối đa 2.3GHz",8.0,128.0,2 SIM (Nano-SIM),"4310mAh (Typ), Sạc siêu nhanh",6.43,277,oppo
+OPPO A15,3290000,IPS LCD,Mediatek MT6765 Helio P35 (12nm),3.0,32.0,2 SIM (Nano-SIM),Li-Po 4230 mAh,6.22,278,oppo
+OPPO Find X3 Pro 5G,18790000,AMOLED,Snapdragon 888 (5 nm),12.0,256.0,2 SIM (Nano-SIM),4500mAh,6.7,279,oppo
+Oppo A54,4350000,IPS LCD,Mediatek MT6765 Helio P35 (12nm),4.0,128.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.5,280,oppo
+OPPO Find X2,18990000,AMOLED,Qualcomm Snapdragon 865,12.0,256.0,2 SIM (Nano-SIM),"4200 mAh Li-Ion, Hỗ trợ sạc nhanh",6.7,281,oppo
+OPPO A74,5790000,AMOLED,"Qualcomm Snapdragon 662, tối đa 2.0GHz",8.0,128.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.43,282,oppo
+OPPO A15s,3790000,IPS LCD,"Mediatek MT6765 Helio P35, tiến trình 12nm, 8 nhân",4.0,64.0,2 SIM (Nano-SIM),Li-Po 4230 mA,6.52,283,oppo
+OPPO Reno6 5G,10490000,AMOLED,"MTK Dimensity 900 5G, tối đa 2.4GHz; Mali-G68 MC4",8.0,128.0,Dual nano-SIM,4300mAh; (Typ) Sạc siêu nhanh superVOOC 2.0 65W,6.43,284,oppo
+OPPO Reno7,8490000,AMOLED,"Qualcomm Snapdragon 680, tối đa 2.4GHz",8.0,128.0,Dual nano-SIM + 1 thẻ nhớ,4500mAh (Typ) Siêu sạc nhanh superVOOC 33W,6.4,285,oppo
+OPPO A76,5990000,LCD,"Qualcomm Snapdragon 680, tối đa 2.4GHz, Adreno 610",6.0,128.0,Dual nano-SIM + 1 thẻ nhớ,5000mAh (Typ); Sạc siêu nhanh SuperVOOC 33W,6.56,286,oppo
+OPPO A95,6490000,AMOLED,"Qualcomm Snapdragon 662, tối đa 2.0GHz; Adreno 610",8.0,128.0,Dual nano-SIM + 1 thẻ nhớ,5000mAh (Typ); Sạc 33W,6.43,287,oppo
+OPPO A55,4490000,LCD,"Helio G35, tối đa 2.3GHz; IMG GE8320@680MHz",4.0,64.0,Dual nano-SIM + 1 thẻ nhớ,5000mAh (Typ); 18W,6.51,288,oppo
+OPPO A16,3790000,LCD,"Helio G35, tối đa 2.3GHz; IMG GE8320@680MHz",3.0,32.0,Dual nano-SIM hoặc 1 nano-SIM + 1 thẻ nhớ,5000mAh (Typ),6.52,289,oppo
+OPPO A94,7690000,AMOLED,"Helio P95, tối đa 2.2GHz; IMG 9XM-HP8 970MHz",8.0,128.0,Dual nano-SIM + 1 thẻ nhớ,4310mAh (Typ) Sạc nhanh VOOC 4.0 - 30W,6.43,290,oppo
+OPPO A16K,3290000,LCD,"Helio G35 8 nhân, tối đa 2.3GHz; IMG GE8320",3.0,32.0,Dual nano-SIM + 1 khe thẻ nhớ,4230mAh (Typ),6.52,291,oppo
+OPPO Reno7 5G,12490000,AMOLED,"Dimensity 900 5G, tối đa 2.4GHz; Mali-G78 MC4",8.0,256.0,Dual nano-SIM + 1 khe thẻ nhớ,4500mAh (Typ) Siêu sạc nhanh superVOOC 2.0 65W,6.43,292,oppo
+Oppo A76 (6GB/128G),5490000,IPS LCD,Snapdragon 680 8 nhân,6.0,128.0,2 nano sim,,6.56,293,oppo
+Oppo Reno 7 5G (8GB/256G),11990000,AMOLED,MediaTek Dimensity 900,8.0,256.0,Nano Sim,Li-Po,6.43,294,oppo
+Oppo Reno 5G (8GB/128G),7290000,"AMOLED, 6.43"", Full HD+, Kính cường lực Corning Gorilla Glass 3+",Snapdragon 765G 8 nhân,8.0,128.0,"Nano SIM, Hỗ trợ 5G","Li-Po, sạc siêu nhanh SuperVOOC, Tiết kiệm pin",6.43,295,oppo
+OPPO A95 8GB/128GB,6490000,Amoled,"Qualcomm Snapdragon 662,",0.0,128.0,Nano,,6.43,296,oppo
+Oppo Reno 6 5G (8GB/128G),8990000,AMOLED,"MTK Dimensity 900 5G, tối đa 2.4GHz",8.0,128.0,Nano Sim,,6.43,297,oppo
+Oppo A74 (8GB/128G),5190000,AMOLED,Snapdragon 662 Octa-Core 8 nhân,8.0,128.0,Nano SIM,Lithium polymer,6.43,298,oppo
+Oppo A15 (3GB/32G),3250000,IPS LCD,MediaTek Helio P35 8 nhân,3.0,32.0,Nano SIM,Li-Ion,6.52,299,oppo
+OPPO A95 (8GB/128GB),6490000,AMOLED,Snapdragon 662 8 nhân,8.0,128.0,Nano,Li-Po,6.43,300,oppo
+Oppo Reno 6Z 5G (8GB/128G),7485000,AMOLED,MediaTek Dimensity 800U 5G 8 nhân,8.0,0.0,Nano,Li-Po,6.43,301,oppo
+Oppo A55 4GB/64GB,4069000,IPS LCD,MediaTek Helio G35 8 nhân,4.0,64.0,Nano SIM,Li-Po,6.5,302,oppo
+OPPO RENO7 4G (8GB/128GB),8490000,AMOLED,Qualcomm Snapdragon 680,8.0,256.0,Nano SIM,Li-Po,6.4,303,oppo
+Oppo A15s 4GB/64GB,3939000,LCD,MediaTek Helio P35 8 nhân,4.0,64.0,Nano SIM,Li-Ion,6.52,304,oppo
+OPPO Reno7 Z 5G,9290000,AMOLED,Snapdragon 695 5G 8 nhân,0.0,0.0,Nano,Li-Po,6.43,305,oppo
+Oppo A95 8GB/128GB,6239000,AMOLED,Snapdragon 662 8 nhân,8.0,128.0,Nano SIM,Li-Po,6.43,306,oppo
+OPPO A16K (3GB/32GB),2969000,,MediaTek Helio G35 8 nhân,3.0,32.0,,,6.52,307,oppo
+OPPO A76 (6GB/128GB),5385000,IPS LCD,Snapdragon 680 8 nhân,6.0,128.0,Nano SIM,Li-Po,6.56,308,oppo
+OPPO RENO7 5G (8GB/256GB),11990000,AMOLED,Dimensity 900 5G,8.0,256.0,Nano SIM,Li-Po,6.43,309,oppo
+Oppo Reno 7 5G (8GB/256GB),11585000,AMOLED,MediaTek Dimensity 900 5G,8.0,256.0,Nano,Li-Po,6.4,310,oppo
+Oppo A16K (3GB/32GB),3049000,IPS LCD,MediaTek Helio G35 8 nhân,3.0,32.0,Nano SIM,Li-Po,6.52,311,oppo
+OPPO A16 (4GB/64GB),4090000,IPS LCD,MediaTek Helio G35 8 nhân,4.0,64.0,Nano,Li-Po,6.52,312,oppo
+Oppo A55 (4GB/64GB),3970000,IPS LCD,MediaTek Helio G35 8 nhân,4.0,64.0,Nano SIM,Li-Po,6.5,313,oppo
+OPPO A95 (8GB/128GB),5990000,AMOLED,Snapdragon 662 8 nhân,8.0,128.0,Nano,Li-Po,6.43,314,oppo
+Oppo A55 (4GB/64GB),4490000,IPS LCD,MediaTek Helio G35 8 nhân,4.0,64.0,2 Nano SIM,Li-Po,6.5,315,oppo
+OPPO A55 (4GB/64GB),4490000,IPS LCD,MediaTek Helio G35 8 nhân,4.0,64.0,Nano SIM,Li-Po 5000 mAh,6.5,316,oppo
+Oppo A16k 4GB/64GB,3690000,IPS LCD,MediaTek Helio G35 8 nhân,4.0,64.0,Nano SIM,Li-Po,6.52,317,oppo
+Oppo A16k (3GB/32G),2850000,IPS LCD,MediaTek Helio G35 8 nhân,3.0,0.0,2 Nano,Li-Po,6.52,318,oppo
+OPPO Reno6 Pro (12GB/256GB),15490000,,Snapdragon 870 5G 8 nhân,2.0,256.0,Nano sim,Li-Po,6.55,319,oppo
+Oppo A16 3GB/32GB,3390000,IPS LCD,MediaTek Helio G35 8 nhân,3.0,32.0,Nano SIM,Li-Po,6.52,320,oppo
+OPPO Reno6 5G (8GB|128GB),10290000,AMOLED DotDisplay,MediaTek Dimensity 900 5G,8.0,128.0,2 Nano SIM,4300 mAh,6.43,321,oppo
+OPPO Reno6 Z 5G (8GB|128GB)  (BHDT),6190000,AMOLED,Dimensity 800U 5G,8.0,128.0,2 Nano SIM,4310 mAh,6.43,322,oppo
+OPPO Reno7 Z (8GB|128GB) Chinh hang,9090000,AMOLED,Snapdragon 695 5G 8 nhân,8.0,128.0,2 SIM (2 nano SIM),4500 mAh,6.43,323,oppo
+OPPO Reno7 5G,11290000,AMOLED DotDisplay,Dimensity 900 5G,8.0,0.0,2 Nano SIM + 1 khe thẻ nhớ,4500 mAh,6.43,324,oppo
+OPPO Reno7 5G,11290000,AMOLED DotDisplay,Dimensity 900 5G,8.0,256.0,2 Nano SIM + 1 khe thẻ nhớ,4500 mAh,6.43,325,oppo
+OPPO Reno7,8490000,AMOLED,Snapdragon 680 8 nhân,8.0,128.0,2 Nano SIM,4500 mAh,6.43,326,oppo
+Vivo V23e,8490000,AMOLED,MediaTek Helio G96 8 nhân,8.0,128.0,2 Nano SIM (SIM 2 chung khe thẻ nhớ),4050 mAh,6.44,327,other
+Realme 9 Pro 5G,7990000,IPS LCD,Snapdragon 695 5G 8 nhân,8.0,128.0,2 Nano SIM (SIM 2 chung khe thẻ nhớ),5000 mAh,6.6,328,other
+Realme 8,7290000,Super AMOLED,MediaTek Helio G95 8 nhân,8.0,128.0,2 Nano SIM,5000 mAh,6.4,329,other
+Realme C25Y 64GB,4690000,IPS LCD,Unisoc T618 8 nhân,4.0,64.0,2 Nano SIM,5000 mAh,6.5,330,other
+Realme C35 64GB,4290000,IPS LCD,Unisoc T616 8 nhân,4.0,64.0,2 Nano SIM,5000 mAh,6.6,331,other
+Vivo Y21,3990000,IPS LCD,MediaTek Helio P35 8 nhân,4.0,64.0,2 Nano SIM,5000 mAh,6.51,332,other
+Realme C21-Y 3GB,3690000,IPS LCD,Spreadtrum T610 8 nhân,3.0,32.0,2 Nano SIM,5000 mAh,6.5,333,other
+Vivo Y15s,3490000,IPS LCD,MediaTek Helio P35 8 nhân,3.0,32.0,2 Nano SIM,5000 mAh,6.51,334,other
+Realme C21Y 3GB,3390000,IPS LCD,Spreadtrum T610 8 nhân,3.0,32.0,2 Nano SIM,5000 mAh,6.5,335,other
+Realme C11 (2021),2990000,IPS LCD,Spreadtrum SC9863A 8 nhân,2.0,32.0,2 Nano SIM,5000 mAh,6.5,336,other
+Nokia 105 Single SIM,480000,TFT LCD,,0.0,0.0,1 SIM thường,800 mAh,1.77,337,other
+Tecno Pova Neo (4GB - 64GB),2499000,IPS LCD,MediaTek Helio G25 (12 nm),0.0,64.0,2 SIM (Nano-SIM),6000 mAh,6.8,338,other
+Tecno Pova 2,3450000,IPS LCD,MediaTek Helio G85 (12nm),4.0,64.0,2 SIM (Nano-SIM),Li-Po 7000 mAh,6.9,339,other
+ASUS ROG Phone 5S 16GB 512GB,20790000,AMOLED,Snapdragon 888 Plus 8 nhân,16.0,512.0,2 SIM (Nano-SIM),6000 mAh,6.78,340,other
+ASUS ROG Phone 5 chinh hang,18990000,AMOLED,Snapdragon 888 (5 nm),16.0,256.0,2 SIM (Nano-SIM),6000 mAh,6.78,341,other
+ASUS ROG Phone 5S 16GB 256GB,19490000,AMOLED,Qualcomm® Snapdragon® 888+ 5G Mobile Platform,16.0,256.0,2 SIM (Nano-SIM),6000 mAh,6.78,342,other
+Tecno Spark 8C,2650000,IPS LCD,UNISOC T606,0.0,64.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.6,343,other
+Nubia Red Magic 6s Pro Cyborg 12GB 128GB,16490000,AMOLED,Qualcomm® Snapdragon™ 888+ 5G,12.0,128.0,2 SIM (Nano-SIM),Li-Po 5050 mAh,6.8,344,other
+ASUS ROG Phone 5S 12GB 256GB,17990000,AMOLED,Qualcomm® Snapdragon® 888+ 5G Mobile Platform,12.0,256.0,2 SIM (Nano-SIM),6000 mAh,6.78,345,other
+Nubia Red Magic 6R,9990000,AMOLED,SM8350 Snapdragon 888 5G (5 nm),8.0,128.0,2 SIM (Nano-SIM),Li-Po 4200 mAh,6.67,346,other
+ASUS ROG Phone 5S 8GB 128GB,15790000,AMOLED,Qualcomm® Snapdragon® 888+ 5G Mobile Platform,8.0,128.0,2 SIM (Nano-SIM),6000 mAh,6.78,347,other
+Tecno Pova 2 6G 128GB,3850000,IPS LCD,MediaTek Helio G85 (12nm),6.0,128.0,2 SIM (Nano-SIM),Li-Po 7000 mAh,6.9,348,other
+Vivo Y15a,3200000,IPS LCD,MediaTek Helio P35,4.0,64.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.51,349,other
+Tecno Pova Neo 6G 128GB,3099000,IPS LCD,UNISOC T606,0.0,128.0,2 SIM (Nano-SIM),6000 mAh,6.8,350,other
+Nokia G21,3990000,IPS LCD,Unisoc T606 (12 nm),4.0,128.0,2 SIM (Nano-SIM),Li-Po 5050 mAh,6.5,351,other
+Realme 9 Pro,7190000,IPS LCD,Qualcomm Snapdragon 695 5G,8.0,128.0,2 SIM (Nano-SIM),5000mAh,6.6,352,other
 ASUS ROG Phone 3,16990000,AMOLED,Qualcomm Snapdragon 865+ (7nm+),12.0,512.0,2 SIM (Nano-SIM),"- Pin Li-Po 6,000 mAh
 - Sạc nhanh 30W, hỗ trợ chuẩn PD 3.0, Quick Charge 4.0, 3.0
-- Sạc ngược không dây 10W",6.59,26,CellphoneS,other
-Nubia Red Magic 6,16990000,AMOLED,Snapdragon 888 5G (5 nm),12.0,128.0,2 SIM (Nano-SIM),Li-Po 5050mAh,6.8,27,CellphoneS,other
-Vivo V23 5G,10990000,AMOLED,MediaTek Dimensity 920,8.0,128.0,2 SIM (Nano-SIM),4200mAh,6.44,28,CellphoneS,other
-Nokia G50 (5G),4790000,IPS LCD,Snapdragon 480 8 nhân 5G,6.0,128.0,2 SIM (Nano-SIM),5000 mAh,6.82,30,CellphoneS,other
-Oneplus Nord N10 5G,5490000,IPS LCD,Snapdragon 690 5G (8 nm),6.0,128.0,2 SIM (Nano-SIM),Li-Po 4300 mAh,6.49,31,CellphoneS,other
+- Sạc ngược không dây 10W",6.59,353,other
+Nubia Red Magic 6,16990000,AMOLED,Snapdragon 888 5G (5 nm),12.0,128.0,2 SIM (Nano-SIM),Li-Po 5050mAh,6.8,354,other
+Vivo V23 5G,10990000,AMOLED,MediaTek Dimensity 920,8.0,128.0,2 SIM (Nano-SIM),4200mAh,6.44,355,other
+Realme 8,5790000,Super AMOLED,Mediatek Helio G95 (12 nm),8.0,128.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.4,356,other
+Nokia G50 (5G),4790000,IPS LCD,Snapdragon 480 8 nhân 5G,6.0,128.0,2 SIM (Nano-SIM),5000 mAh,6.82,357,other
+Oneplus Nord N10 5G,5490000,IPS LCD,Snapdragon 690 5G (8 nm),6.0,128.0,2 SIM (Nano-SIM),Li-Po 4300 mAh,6.49,358,other
 Vsmart Joy 4,3290000,,Qualcomm SDM665 Snapdragon 665 (11 nm),3.0,64.0,2 SIM (Nano-SIM),"Li-Po 5000 mAh battery
-Sạc nhanh 18W",6.5,32,CellphoneS,other
-Nokia 105 (2019) 2 SM,490000,,,0.0,0.0,,Pin chuẩn Li-Ion 800 mAh,1.77,33,CellphoneS,other
-OnePlus 8T 5G,12990000,AMOLED,Snapdragon 865,12.0,256.0,2 SIM (Nano-SIM),4500 mAh,6.55,34,CellphoneS,other
-Galaxy Z Flip3 5G Flex Your Way 2022,24990000,Super AMOLED,Snapdragon 888 8 (5nm),8.0,128.0,2 SIM (nano‑SIM và eSIM),3300 mAh,6.7,35,CellphoneS,other
-Nokia C21 Plus 3GB 64GB,2990000,IPS LCD,Unisoc SC9863A,3.0,64.0,2 SIM (Nano-SIM),5050 mAh,6.52,36,CellphoneS,other
-Realme 9i,5390000,IPS LCD,Qualcomm SM6225 Snapdragon 680 4G (6 nm),6.0,128.0,2 SIM (Nano-SIM),,6.6,37,CellphoneS,other
-Nokia 110 4G,850000,TFT LCD,,0.0,0.125,2 SIM (Nano-SIM),Li-Ion 1020 mAh,1.8,38,CellphoneS,other
-Realme 9 Pro Plus,8990000,Super AMOLED,MediaTek Dimensity 920 5G,8.0,128.0,2 SIM (Nano-SIM),4500mAh,6.4,39,CellphoneS,other
-OnePlus Nord CE 5G,7690000,AMOLED,"Qualcomm Snapdragon 750G, tối đa 2.2GHz",8.0,128.0,2 SIM (Nano-SIM),Li-Po 4500 mAh,6.43,40,CellphoneS,other
-Nokia C20 2GB 16GB,1790000,IPS LCD,Unisoc SC9863A,2.0,16.0,2 SIM (Nano-SIM),Li-Ion 2950mAh,6.52,41,CellphoneS,other
-Vivo X70 Pro 5G,16990000,AMOLED,Dimensity 1200,12.0,256.0,2 SIM (Nano-SIM),4450 mAh,6.56,42,CellphoneS,other
-Tecno Spark 7T 4GB 64GB,2750000,IPS LCD,MediaTek MT6765G Helio G35,4.0,64.0,2 SIM (Nano-SIM),Li-Po 6000 mAh,6.52,43,CellphoneS,other
-Vivo Y33S,5900000,,MediaTek Helio G80,8.0,128.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.58,44,CellphoneS,other
-Vsmart Live 4,4290000,PLS TFT LCD,Snapdragon 675 8 nhân,6.0,64.0,2 SIM (Nano-SIM),"Li-Po 5000 mAh mAh battery, sạc nhanh 18W",6.5,45,CellphoneS,other
-Nokia C30 2GB 32GB,2390000,IPS LCD,SC9863A 8 nhân 1.6GHz,2.0,32.0,2 SIM (Nano-SIM),6000 mAh,6.82,46,CellphoneS,other
-Vivo Y21S (4GB - 128GB),4300000,IPS LCD,MediaTek Helio G80 8 nhân,4.0,128.0,2 SIM (Nano-SIM),5000 mAh,6.51,47,CellphoneS,other
-Vsmart Active 3 6GB Ram,2990000,,Mediatek Helio P60,0.0,64.0,2 SIM (Nano-SIM),4020mAh,6.39,48,CellphoneS,other
-Nokia C20,2090000,IPS LCD,Unisoc SC9863A,2.0,32.0,2 SIM (Nano-SIM),Li-Ion 2950mAh,6.52,49,CellphoneS,other
-Realme 7,5590000,IPS LCD,MediaTek Helio G95 Cortex-A76,8.0,128.0,2 SIM (Nano-SIM),"5000 mAh, sạc nhanh 30W",6.5,50,CellphoneS,other
-Nokia 105 4G,750000,TFT LCD,,0.0,0.125,2 SIM (Nano-SIM),Li-Ion 1020 mAh,1.8,51,CellphoneS,other
-Nokia G10,2990000,,Mediatek G25 8x A53 2.0GHz,4.0,64.0,2 SIM (Nano-SIM),5050 mAh,6.5,52,CellphoneS,other
-Nubia Red Magic 6 Pro,18590000,AMOLED,Snapdragon 888 5G (5 nm),16.0,256.0,2 SIM (Nano-SIM),Li-Po 5050 mAh,6.8,53,CellphoneS,other
-Vivo V20,6500000,,Qualcomm SM7125 Snapdragon 720G (8 nm),8.0,128.0,2 SIM (Nano-SIM),"Li-Po 4000 mAh, sạc nhanh 33W",6.44,54,CellphoneS,other
-Realme C15,3490000,IPS LCD,Qualcomm SM4250 Snapdragon 460 (11 nm),4.0,64.0,2 SIM (Nano-SIM),"Li-Po 6000 mAh battery, Fast charging 18W",6.5,55,CellphoneS,other
-Vsmart Star 5,2690000,IPS LCD,"MediaTek Helio G35, tối đa 2.5 GHz",3.0,32.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.53,56,CellphoneS,other
-Nokia C30,2590000,IPS LCD,SC9863A 8 nhân 1.6GHz,3.0,32.0,2 SIM (Nano-SIM),6000 mAh,6.82,57,CellphoneS,other
-Nubia Red Magic 6s Pro Cyborg 16GB 256GB,18990000,AMOLED,Qualcomm® Snapdragon™ 888+ 5G,16.0,256.0,2 SIM (Nano-SIM),Li-Po 5050 mAh,6.8,58,CellphoneS,other
-Nubia Red Magic 6R (12GB - 256GB),13490000,AMOLED,SM8350 Snapdragon 888 5G (5 nm),12.0,256.0,2 SIM (Nano-SIM),Li-Po 4200 mAh,6.67,59,CellphoneS,other
-Vivo X60 Pro 5G,13290000,AMOLED,Snapdragon 870 5G (7 nm),0.0,256.0,2 SIM (Nano-SIM),4200 mAh,6.56,60,CellphoneS,other
-Realme 6,5190000,,Mediatek Helio G90T,4.0,128.0,2 SIM (Nano-SIM),"4300 mAh, Sạc nhanh VOOC 4.0(30W)",6.5,61,CellphoneS,other
-Realme 8 5G,6790000,IPS LCD,MediaTek Dimensity 700 5G 8 nhân,8.0,128.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.5,62,CellphoneS,other
-Bphone A40,3600000,,MediaTek Helio G85,4.0,64.0,2 SIM (Nano-SIM),5000mAh,6.67,63,CellphoneS,other
-Realme C21Y,2890000,IPS LCD,Spreadtrum T610 8 nhân,3.0,32.0,2 SIM (Nano-SIM),5000 mAh,6.5,64,CellphoneS,other
-Realme C25,4690000,IPS LCD,MediaTek G70,4.0,128.0,2 SIM (Nano-SIM),6000mAh,6.5,65,CellphoneS,other
-Vivo Y53S,4990000,IPS LCD,Helio G80,8.0,128.0,2 SIM (Nano-SIM),5000 mAh,6.58,66,CellphoneS,other
-Nokia C21 Plus 3GB 32GB,2790000,IPS LCD,Unisoc SC9863A,3.0,32.0,2 SIM (Nano-SIM),5050 mAh,6.52,67,CellphoneS,other
-Nokia 215 4G,829000,,Unisoc UMS9117,0.0,0.125,2 SIM (Nano-SIM),"1150mAh, có thể tháo rời",2.4,68,CellphoneS,other
-Nokia 3.4,3690000,IPS LCD,Qualcomm SM4250 Snapdragon 460 (11 nm),4.0,64.0,2 SIM (Nano-SIM),"Li-Po 4000 mAh, sạc nhanh 10W",6.39,69,CellphoneS,other
-Nubia Red Magic 6S Pro Ghost 16GB 256GB,20490000,AMOLED,Qualcomm® Snapdragon™ 888+ 5G,16.0,256.0,2 SIM (Nano-SIM),5050mAh,6.8,70,CellphoneS,other
-Nokia 6300 4G,990000,,,0.0,4.0,2 SIM (Nano-SIM),Pin rời Nokia 1500mAh,2.4,71,CellphoneS,other
-Realme 8 Pro,7590000,Super AMOLED,Snapdragon 720G (8 nm),8.0,128.0,2 SIM (Nano-SIM),Li-Po 4500 mAh,6.4,72,CellphoneS,other
-Bphone A50,4500000,,Mediatek Helio G85,4.0,128.0,2 SIM (Nano-SIM),5000mAh,6.67,73,CellphoneS,other
-Realme 7 Pro,6590000,Super AMOLED,Qualcomm® Snapdragon™ 720G,8.0,128.0,2 SIM (Nano-SIM),"4500 mAh, SuperDart Hỗ trợ sạc 65W",6.44,74,CellphoneS,other
-Realme C17,4390000,IPS LCD,Qualcomm SM4250 Snapdragon 460 (11 nm),6.0,128.0,2 SIM (Nano-SIM),"Li-Po 5000 mAh, sạc nhanh 18W",6.5,75,CellphoneS,other
-Realme C25Y,3990000,IPS LCD,Spreadtrum T610 8 nhân,4.0,128.0,2 SIM (Nano-SIM),5000 mAh,6.5,76,CellphoneS,other
-Realme 7i,4990000,IPS LCD,Qualcomm SM6115 Snapdragon 662 (11 nm),8.0,128.0,2 SIM (Nano-SIM),"Li-Po 5000 mAh, sạc nhanh 18W",6.5,77,CellphoneS,other
-Vivo Y12s (2021),3100000,,Qualcomm Snapdragon 439,3.0,32.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.5,78,CellphoneS,other
-Realme C12,3490000,IPS LCD,MediaTek Helio G35,3.0,32.0,2 SIM (Nano-SIM),"Li-po 6000 mAh, sạc nhanh 10W",6.52,79,CellphoneS,other
-Nokia 2.4,2690000,IPS LCD,MediaTek Helio P22,2.0,32.0,2 SIM (Nano-SIM),4500 mAh,6.5,80,CellphoneS,other
-Nokia 5.4,3990000,IPS LCD,Qualcomm SM6115 Snapdragon 662 (11 nm),4.0,128.0,2 SIM (Nano-SIM),Li-Po 4000 mAh,6.39,81,CellphoneS,other
-Realme C11 2021 4GB 64GB,3190000,IPS LCD,Unisoc SC9863A,4.0,64.0,2 SIM (Nano-SIM),5000mAh,6.5,82,CellphoneS,other
-ASUS ROG Phone 2 512GB,20490000,,Snapdragon 855 Plus Mobile Platform,12.0,512.0,Nano-SIM,"6000mAh, hỗ trợ Quick Charge 4.0 và PD Charging",6.59,83,CellphoneS,other
-Bphone A60,5300000,,Mediatek Helio G85,6.0,128.0,2 SIM (Nano-SIM),5000mAh,6.67,84,CellphoneS,other
-Vivo V19,5190000,,Qualcomm SDM712 Snapdragon 712 (10 nm),8.0,128.0,2 SIM (Nano-SIM),"Li-Po 4500 mAh battery, Fast charging 33W",6.44,85,CellphoneS,other
-Realme C21Y 4GB 64GB,3390000,IPS LCD,Spreadtrum T610 8 nhân,4.0,64.0,2 SIM (Nano-SIM),5000 mAh,6.5,86,CellphoneS,other
-Vivo Y72 5G,5790000,IPS LCD,MediaTek Dimensity 700 8 nhân,8.0,128.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.58,87,CellphoneS,other
-Huawei Nova 5T,8290000,,Kirin 980 8 nhân,8.0,128.0,2 SIM (Nano-SIM),Pin chuẩn Li-Po 3750 mAh,6.26,88,CellphoneS,other
+Sạc nhanh 18W",6.5,359,other
+Nokia 105 (2019) 2 SM,490000,,,0.0,0.0,,Pin chuẩn Li-Ion 800 mAh,1.77,360,other
+OnePlus 8T 5G,12990000,AMOLED,Snapdragon 865,12.0,256.0,2 SIM (Nano-SIM),4500 mAh,6.55,361,other
+Galaxy Z Flip3 5G Flex Your Way 2022,24990000,Super AMOLED,Snapdragon 888 8 (5nm),8.0,128.0,2 SIM (nano‑SIM và eSIM),3300 mAh,6.7,362,other
+Nokia C21 Plus 3GB 64GB,2990000,IPS LCD,Unisoc SC9863A,3.0,64.0,2 SIM (Nano-SIM),5050 mAh,6.52,363,other
+Realme 9i,5390000,IPS LCD,Qualcomm SM6225 Snapdragon 680 4G (6 nm),6.0,128.0,2 SIM (Nano-SIM),,6.6,364,other
+Nokia 110 4G,850000,TFT LCD,,0.0,0.125,2 SIM (Nano-SIM),Li-Ion 1020 mAh,1.8,365,other
+Realme 9 Pro Plus,8990000,Super AMOLED,MediaTek Dimensity 920 5G,8.0,128.0,2 SIM (Nano-SIM),4500mAh,6.4,366,other
+OnePlus Nord CE 5G,7690000,AMOLED,"Qualcomm Snapdragon 750G, tối đa 2.2GHz",8.0,128.0,2 SIM (Nano-SIM),Li-Po 4500 mAh,6.43,367,other
+Nokia C20 2GB 16GB,1790000,IPS LCD,Unisoc SC9863A,2.0,16.0,2 SIM (Nano-SIM),Li-Ion 2950mAh,6.52,368,other
+Vivo X70 Pro 5G,16990000,AMOLED,Dimensity 1200,12.0,256.0,2 SIM (Nano-SIM),4450 mAh,6.56,369,other
+Tecno Spark 7T 4GB 64GB,2750000,IPS LCD,MediaTek MT6765G Helio G35,4.0,64.0,2 SIM (Nano-SIM),Li-Po 6000 mAh,6.52,370,other
+Vivo Y33S,5900000,,MediaTek Helio G80,8.0,128.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.58,371,other
+Vsmart Live 4,4290000,PLS TFT LCD,Snapdragon 675 8 nhân,6.0,64.0,2 SIM (Nano-SIM),"Li-Po 5000 mAh mAh battery, sạc nhanh 18W",6.5,372,other
+Nokia C30 2GB 32GB,2390000,IPS LCD,SC9863A 8 nhân 1.6GHz,2.0,32.0,2 SIM (Nano-SIM),6000 mAh,6.82,373,other
+Vivo Y21S (4GB - 128GB),4300000,IPS LCD,MediaTek Helio G80 8 nhân,4.0,128.0,2 SIM (Nano-SIM),5000 mAh,6.51,374,other
+Vsmart Active 3 6GB Ram,2990000,,Mediatek Helio P60,0.0,64.0,2 SIM (Nano-SIM),4020mAh,6.39,375,other
+Nokia C20,2090000,IPS LCD,Unisoc SC9863A,2.0,32.0,2 SIM (Nano-SIM),Li-Ion 2950mAh,6.52,376,other
+Realme 7,5590000,IPS LCD,MediaTek Helio G95 Cortex-A76,8.0,128.0,2 SIM (Nano-SIM),"5000 mAh, sạc nhanh 30W",6.5,377,other
+Nokia 105 4G,750000,TFT LCD,,0.0,0.125,2 SIM (Nano-SIM),Li-Ion 1020 mAh,1.8,378,other
+Nokia G10,2990000,,Mediatek G25 8x A53 2.0GHz,4.0,64.0,2 SIM (Nano-SIM),5050 mAh,6.5,379,other
+Nubia Red Magic 6 Pro,18590000,AMOLED,Snapdragon 888 5G (5 nm),16.0,256.0,2 SIM (Nano-SIM),Li-Po 5050 mAh,6.8,380,other
+Vivo V20,6500000,,Qualcomm SM7125 Snapdragon 720G (8 nm),8.0,128.0,2 SIM (Nano-SIM),"Li-Po 4000 mAh, sạc nhanh 33W",6.44,381,other
+Realme C15,3490000,IPS LCD,Qualcomm SM4250 Snapdragon 460 (11 nm),4.0,64.0,2 SIM (Nano-SIM),"Li-Po 6000 mAh battery, Fast charging 18W",6.5,382,other
+Vsmart Star 5,2690000,IPS LCD,"MediaTek Helio G35, tối đa 2.5 GHz",3.0,32.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.53,383,other
+Nokia C30,2590000,IPS LCD,SC9863A 8 nhân 1.6GHz,3.0,32.0,2 SIM (Nano-SIM),6000 mAh,6.82,384,other
+Nubia Red Magic 6s Pro Cyborg 16GB 256GB,18990000,AMOLED,Qualcomm® Snapdragon™ 888+ 5G,16.0,256.0,2 SIM (Nano-SIM),Li-Po 5050 mAh,6.8,385,other
+Nubia Red Magic 6R (12GB - 256GB),13490000,AMOLED,SM8350 Snapdragon 888 5G (5 nm),12.0,256.0,2 SIM (Nano-SIM),Li-Po 4200 mAh,6.67,386,other
+Vivo X60 Pro 5G,13290000,AMOLED,Snapdragon 870 5G (7 nm),0.0,256.0,2 SIM (Nano-SIM),4200 mAh,6.56,387,other
+Realme 6,5190000,,Mediatek Helio G90T,4.0,128.0,2 SIM (Nano-SIM),"4300 mAh, Sạc nhanh VOOC 4.0(30W)",6.5,388,other
+Realme 8 5G,6790000,IPS LCD,MediaTek Dimensity 700 5G 8 nhân,8.0,128.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.5,389,other
+Bphone A40,3600000,,MediaTek Helio G85,4.0,64.0,2 SIM (Nano-SIM),5000mAh,6.67,390,other
+Realme C21Y,2890000,IPS LCD,Spreadtrum T610 8 nhân,3.0,32.0,2 SIM (Nano-SIM),5000 mAh,6.5,391,other
+Realme C25,4690000,IPS LCD,MediaTek G70,4.0,128.0,2 SIM (Nano-SIM),6000mAh,6.5,392,other
+Vivo Y53S,4990000,IPS LCD,Helio G80,8.0,128.0,2 SIM (Nano-SIM),5000 mAh,6.58,393,other
+Nokia C21 Plus 3GB 32GB,2790000,IPS LCD,Unisoc SC9863A,3.0,32.0,2 SIM (Nano-SIM),5050 mAh,6.52,394,other
+Nokia 215 4G,829000,,Unisoc UMS9117,0.0,0.125,2 SIM (Nano-SIM),"1150mAh, có thể tháo rời",2.4,395,other
+Nokia 3.4,3690000,IPS LCD,Qualcomm SM4250 Snapdragon 460 (11 nm),4.0,64.0,2 SIM (Nano-SIM),"Li-Po 4000 mAh, sạc nhanh 10W",6.39,396,other
+Nubia Red Magic 6S Pro Ghost 16GB 256GB,20490000,AMOLED,Qualcomm® Snapdragon™ 888+ 5G,16.0,256.0,2 SIM (Nano-SIM),5050mAh,6.8,397,other
+Nokia 6300 4G,990000,,,0.0,4.0,2 SIM (Nano-SIM),Pin rời Nokia 1500mAh,2.4,398,other
+Realme 8 Pro,7590000,Super AMOLED,Snapdragon 720G (8 nm),8.0,128.0,2 SIM (Nano-SIM),Li-Po 4500 mAh,6.4,399,other
+Bphone A50,4500000,,Mediatek Helio G85,4.0,128.0,2 SIM (Nano-SIM),5000mAh,6.67,400,other
+Realme 7 Pro,6590000,Super AMOLED,Qualcomm® Snapdragon™ 720G,8.0,128.0,2 SIM (Nano-SIM),"4500 mAh, SuperDart Hỗ trợ sạc 65W",6.44,401,other
+Realme C17,4390000,IPS LCD,Qualcomm SM4250 Snapdragon 460 (11 nm),6.0,128.0,2 SIM (Nano-SIM),"Li-Po 5000 mAh, sạc nhanh 18W",6.5,402,other
+Realme C25Y,3990000,IPS LCD,Spreadtrum T610 8 nhân,4.0,128.0,2 SIM (Nano-SIM),5000 mAh,6.5,403,other
+Realme 7i,4990000,IPS LCD,Qualcomm SM6115 Snapdragon 662 (11 nm),8.0,128.0,2 SIM (Nano-SIM),"Li-Po 5000 mAh, sạc nhanh 18W",6.5,404,other
+Vivo Y12s (2021),3100000,,Qualcomm Snapdragon 439,3.0,32.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.5,405,other
+Realme C12,3490000,IPS LCD,MediaTek Helio G35,3.0,32.0,2 SIM (Nano-SIM),"Li-po 6000 mAh, sạc nhanh 10W",6.52,406,other
+Nokia 2.4,2690000,IPS LCD,MediaTek Helio P22,2.0,32.0,2 SIM (Nano-SIM),4500 mAh,6.5,407,other
+Nokia 5.4,3990000,IPS LCD,Qualcomm SM6115 Snapdragon 662 (11 nm),4.0,128.0,2 SIM (Nano-SIM),Li-Po 4000 mAh,6.39,408,other
+Realme C11 2021 4GB 64GB,3190000,IPS LCD,Unisoc SC9863A,4.0,64.0,2 SIM (Nano-SIM),5000mAh,6.5,409,other
+ASUS ROG Phone 2 512GB,20490000,,Snapdragon 855 Plus Mobile Platform,12.0,512.0,Nano-SIM,"6000mAh, hỗ trợ Quick Charge 4.0 và PD Charging",6.59,410,other
+Bphone A60,5300000,,Mediatek Helio G85,6.0,128.0,2 SIM (Nano-SIM),5000mAh,6.67,411,other
+Vivo V19,5190000,,Qualcomm SDM712 Snapdragon 712 (10 nm),8.0,128.0,2 SIM (Nano-SIM),"Li-Po 4500 mAh battery, Fast charging 33W",6.44,412,other
+Realme C21Y 4GB 64GB,3390000,IPS LCD,Spreadtrum T610 8 nhân,4.0,64.0,2 SIM (Nano-SIM),5000 mAh,6.5,413,other
+Vivo Y72 5G,5790000,IPS LCD,MediaTek Dimensity 700 8 nhân,8.0,128.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.58,414,other
+Huawei Nova 5T,8290000,,Kirin 980 8 nhân,8.0,128.0,2 SIM (Nano-SIM),Pin chuẩn Li-Po 3750 mAh,6.26,415,other
 Vsmart Joy 4 4GB,3590000,,Qualcomm SDM665 Snapdragon 665 (11 nm),4.0,64.0,2 SIM (Nano-SIM),"Li-Po 5000 mAh battery
-Sạc nhanh 18W",6.5,89,CellphoneS,other
-Realme C3,2790000,,Mediatek Helio G70 (12 nm),3.0,32.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.5,90,CellphoneS,other
-Vsmart Joy 3 4GB,2490000,,Qualcomm Snapdragon 632,4.0,64.0,2 SIM (Nano-SIM),Li-on 5000 mAh,6.5,91,CellphoneS,other
-POCO F2 PRO 5G (8GB - 256GB),10200000,,Qualcomm SM8250 Snapdragon 865 (7 nm+),8.0,256.0,2 SIM (Nano-SIM),"Li-Po 4700 mAh battery, Fast charging 30W, 100% in 63 min, USB Power Delivery 3.0, Quick Charge 4+",6.67,92,CellphoneS,other
-Vivo Y20S,4190000,,Qualcomm SM4250 Snapdragon 460 (11 nm),6.0,128.0,2 SIM (Nano-SIM),"Li-Po 5000 mAh, sạc nhanh 18W",6.5,93,CellphoneS,other
-Vsmart Star 5 4GB 64GB,3290000,IPS LCD,MediaTek Helio G35 8 nhân,4.0,64.0,2 SIM (Nano-SIM),5000 mAh,6.52,94,CellphoneS,other
-Cat S62 Pro,18990000,IPS LCD,Qualcomm SD 660,6.0,128.0,2 SIM (Nano-SIM),4000mAh,5.7,95,CellphoneS,other
-Vivo V20 SE,5490000,,Qualcomm Snapdragon 665 (11 nm),8.0,128.0,2 SIM (Nano-SIM),"4500 mAh, sạc nhanh 18W",6.39,96,CellphoneS,other
-Vsmart Active 3 4GB Ram,2690000,,Mediatek Helio P60,0.0,64.0,2 SIM (Nano-SIM),4020mAh,6.39,97,CellphoneS,other
+Sạc nhanh 18W",6.5,416,other
+Realme C3,2790000,,Mediatek Helio G70 (12 nm),3.0,32.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.5,417,other
+Vsmart Joy 3 4GB,2490000,,Qualcomm Snapdragon 632,4.0,64.0,2 SIM (Nano-SIM),Li-on 5000 mAh,6.5,418,other
+POCO F2 PRO 5G (8GB - 256GB),10200000,,Qualcomm SM8250 Snapdragon 865 (7 nm+),8.0,256.0,2 SIM (Nano-SIM),"Li-Po 4700 mAh battery, Fast charging 30W, 100% in 63 min, USB Power Delivery 3.0, Quick Charge 4+",6.67,419,other
+Vivo Y20S,4190000,,Qualcomm SM4250 Snapdragon 460 (11 nm),6.0,128.0,2 SIM (Nano-SIM),"Li-Po 5000 mAh, sạc nhanh 18W",6.5,420,other
+Vsmart Star 5 4GB 64GB,3290000,IPS LCD,MediaTek Helio G35 8 nhân,4.0,64.0,2 SIM (Nano-SIM),5000 mAh,6.52,421,other
+Cat S62 Pro,18990000,IPS LCD,Qualcomm SD 660,6.0,128.0,2 SIM (Nano-SIM),4000mAh,5.7,422,other
+Vivo V20 SE,5490000,,Qualcomm Snapdragon 665 (11 nm),8.0,128.0,2 SIM (Nano-SIM),"4500 mAh, sạc nhanh 18W",6.39,423,other
+Vsmart Active 3 4GB Ram,2690000,,Mediatek Helio P60,0.0,64.0,2 SIM (Nano-SIM),4020mAh,6.39,424,other
 Vsmart Joy 4 6GB,3990000,,Qualcomm SDM665 Snapdragon 665 (11 nm),6.0,64.0,2 SIM (Nano-SIM),"Li-Po 5000 mAh battery
-Sạc nhanh 18W",6.5,98,CellphoneS,other
-Nokia C21 Plus 2GB 64GB,2690000,IPS LCD,Unisoc SC9863A,2.0,64.0,2 SIM (Nano-SIM),5050 mAh,6.52,99,CellphoneS,other
-Vivo Y21S (6GB - 128GB),4650000,IPS LCD,MediaTek Helio G80 8 nhân,6.0,128.0,2 SIM (Nano-SIM),5000 mAh,6.51,100,CellphoneS,other
-Nokia 150 2020,700000,,,0.0,0.0,,Li-Ion 1020 mAh battery,2.4,101,CellphoneS,other
-Tecno Spark 7T 6GB 128GB,3490000,IPS LCD,MediaTek MT6765G Helio G35,6.0,128.0,2 SIM (Nano-SIM),Li-Po 6000 mAh,6.52,102,CellphoneS,other
-Energizer Energy E100,490000,,,0.0,0.0,,Removable Li-Ion 1500 mAh battery,2.4,103,CellphoneS,other
-Vsmart Star 4 2GB,2050000,,MediaTek Helio P35,2.0,16.0,2 SIM (Nano-SIM),3500 mAh,6.09,104,CellphoneS,other
-Realme C35 4GB 128GB,4590000,IPS LCD,Unisoc T616 8 nhân,4.0,128.0,2 SIM (Nano-SIM),6000mAh,6.6,105,CellphoneS,other
-Cat B40,2490000,TFT LCD,Unisoc T117,0.0,0.125,Nano-SIM,1800 mAh,2.4,106,CellphoneS,other
-Vivo Y20 (2021),3350000,IPS LCD,MediaTek Helio P35,4.0,64.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.5,107,CellphoneS,other
-Energizer Energy E20,650000,,,0.0,0.0,,Li-Ion 1000 mAh battery,2.4,108,CellphoneS,other
-Cat S42H+,8490000,IPS LCD,MT Helio Quadcore 1.8GHz,3.0,32.0,2 SIM (Nano-SIM),Li-Ion 4200 mAh,5.5,109,CellphoneS,other
-Vivo T1 5G,7990000,AMOLED,Snapdragon 778,0.0,128.0,2 SIM (Nano-SIM),4700 mAh,6.44,110,CellphoneS,other
-Nokia C20 2GB-16GB,1990000,,SC9863A 8 nhân | 1.6GHz,0.0,16.0,2 sim Nano + MicroSD,"2950 mAh | pin rời, 5V1A",6.5,112,Viettel,other
-Realme C21Y (4-64GB),3790000,LCD,"8 nhân, xung nhịp lên đến 1.8 GHz 64bits; Arm Mali-G52",4.0,64.0,Dual-SIM (Nano SIM),Li-po; 5000mAh,6.5,114,Viettel,other
-Masstel Fami 12 4G,649000,,T107,0.0,0.25,2 nano SIM,1400mAh,0.0,115,Viettel,other
-Itel 9210 4G,680000,LCD,,0.0,0.125,2 Micro SIM,1900 mAh,2.4,116,Viettel,other
-Masstel Izi 10 4G,499000,,UMS9117,0.0,0.125,2 nano SIM,1000mAh; Li-ion; Pin có thể tháo rời; Thời gian chờ: 5 ngày; Thời gian đàm thoại: 3-4 giờ; Thời gian sạc đầy: 2.5 giờ;,1.77,117,Viettel,other
-Masstel Izi 55 4G,699000,,UIS8910,0.0,0.0234375,02 Nano SIM,1800 mAh; Lithium-ion; Pin có thể tháo rời,2.4,118,Viettel,other
-Masstel Fami 60 4G,749000,,UIS8910,0.0,0.0234375,2 nano SIM,2000mAh; Li-ion; Pin có thể tháo rời; Thời gian chờ: 17 ngày; Thời gian đàm thoại: 6-8 giờ; Thời gian sạc đầy: 3-4 giờ;,2.0,119,Viettel,other
-Realme C11 2021 (2GB - 32GB),2590000,LCD,"SC9863A; 8 nhân, xung nhịp lên đến 1.6GHz; IMG 8322",2.0,32.0,"Dual-SIM (Nano SIM), 2 sim và thêm 1 khe thẻ nhớ",5000mAh; Li-po; Sạc thường 10W,6.5,120,Viettel,other
-Itel A48,2090000,,,2.0,32.0,Sim thường,"3000mAh, Li-po, Hỗ trợ sạc tối đa 5V 1A, Pin rời",6.1,122,Viettel,other
-Nokia 105 SS (2019),480000,,,0.0,0.00390625,Mini SIM,800mAh,1.77,123,Viettel,other
-Itel Vision 1 Pro (3GB/32GB),2390000,IPS LCD,Spreadtrum SC9832E 4 nhân; Tốc độ CPU: 1.4 GHz; Mali-T820 MP1,3.0,32.0,2 Nano SIM,4000 mAh; Li-Ion; Hỗ trợ sạc tối đa: 5 W,6.5,124,Viettel,other
-Masstel Izi 20 4G,549000,,UMS9117,0.0,0.125,2 nano SIM,1700mAh; Li-ion; Pin có thể tháo rời; Thời gian chờ: 15 ngày; Thời gian đàm thoại: 6-8 giờ; Thời gian sạc đầy: 4 giờ,1.77,125,Viettel,other
-Masstel Izi 12 4G,499000,,,0.0,0.125,Có,1000mAh,0.0,126,Viettel,other
-Realme C21Y (3-32G),3190000,LCD,"8 nhân, xung nhịp lên đến 1.8 GHz 64bits; Arm Mali-G52",0.0,32.0,Dual-SIM (Nano SIM),Li-po; 5000mAh,6.5,128,Viettel,other
-Dien thoai di dong Philips Xenium E506 4G,730000,TFT-LCD,,0.0,0.015625,Dual nano SIM card,1700 mAh lithium ion battery 3.7V,2.4,130,Viettel,other
-Dien thoai di dong Philips Xenium E527 4G,880000,TFT-LCD,,0.0,0.0234375,Dual Sim,1700mAh 3.7V,2.4,131,Viettel,other
-ZTE Blade A51 (3/64GB),2690000,IPS LCD,Unisoc SC9863A (28nm); Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55); IMG8322,3.0,64.0,Dual SIM (Nano-SIM. dual stand-by),"Li-Ion 3200 mAh, không rời",6.52,132,Viettel,other
-ZTE Blade A31 Plus (2/32GB),1990000,IPS LCD,Unisoc SC9863A (28nm); Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55); IMG8322,2.0,32.0,"Dual SIM (Nano-SIM, dual stand-by)","Li-Ion 3000 mAh, không rời",6.0,133,Viettel,other
-Nokia C20 2GB/32GB,1929000,IPS LCD,Spreadtrum SC9863A 8 nhân,2.0,32.0,Li-Ion,,6.5,134,Tiki,other
-Masstel Hapi 15 (2GB/16GB),1399000,IPS,Spreadtrum SC9832E,2.0,16.0,Micro Sim,Li-ion,5.45,135,Tiki,other
-Tecno Pova 2 4GB l 64GB,3126000,"Màn hình cảm ứng điện dung IPS LCD, 16 triệu màu",,0.0,0.0,Nano,Li-Po,6.9,136,Tiki,other
-Nokia G10 4GB/64GB,2890000,TFT LCD,MediaTek Helio G25 8 nhân,4.0,64.0,Nano,,6.5,137,Tiki,other
-Tecno Spark 6 Go (4GB+64GB),2349000,IPS LCD,MediaTek Helio A25,4.0,64.0,Nano,Li-Po,6.52,138,Tiki,other
-Vsmart Aris Pro (8GB/128GB),4995000,AMOLED,Snapdragon 730 8 nhân,8.0,128.0,Nano Sim,Pin chuẩn Li-Po - Sạc nhanh Quick Charge 3.0,6.39,139,Tiki,other
-Nokia G10 (4GB/64GB),2979000,IPS LCD,MediaTek Helio G25 8 nhân,4.0,64.0,Nano SIM,,6.5,140,Tiki,other
-"thong minh Bphone A60, nhiep anh dien toan, 2 sim, bao mat  Hang chinh hang",4940000,Full HD+,Mediatek Helio G85,0.0,12.0,Nano,Lithium - Ion Polymer,6.67,141,Tiki,other
-Tecno POP 5 (2GB/32GB),2190000,,SC9863,2.0,32.0,Nano SIM+Micro SIM,,6.52,142,Tiki,other
-thong minh Bphone A50,5490000,,Mediatek Helio G85,4.0,128.0,Nano sim,Lithium - Ion Polymer,6.67,143,Tiki,other
-"ITEL A48 2GB/32GB , 6.1"" HD+ , Camera kep",1789000,,,2.0,32.0,,,6.1,144,Tiki,other
-Realme C21Y 4GB,2990000,IPS LCD,Spreadtrum T610 8 nhân,4.0,0.0,2 Nano SIM,Li-Po,6.5,145,Tiki,other
-TECNO Spark 8C (4GB+3GB/64GB),2599000,,Unisoc T606,0.0,64.0,2 Nano SIM,,6.6,146,Tiki,other
-Nokia C20 (2GB/32GB),1950000,IPS LCD,Spreadtrum SC9863A 8 nhân,2.0,32.0,Nano,Li-Ion,6.5,148,Tiki,other
-Tecno Spark 6 Go 4GB/64GB,2529000,,MediaTek Helo A25,4.0,64.0,Nano SIM,,6.52,149,Tiki,other
-"smartphone Sugar A100, music smartphone",1159000,LCD,MTK 6739,0.0,0.0,2 sim,2500mAh,3.5,150,Tiki,other
-"itel Vision1 Pro (L6502) 3GB/32GB , 6.52"" HD+ , Camera kep",1899000,,,3.0,32.0,,,6.52,151,Tiki,other
-Vivo V23e (8GB/128GB)  Hang Chinh Hang,6960000,AMOLED,MediaTek Helio G96,0.0,128.0,,,6.44,152,Tiki,other
-Vivo Y15s (3GB/32GB)  Hang Chinh Hang,2790000,,MediaTek Helio P35,3.0,32.0,,Li-po,6.5,153,Tiki,other
-thong minh Bphone A85 5G,9490000,"Amoled 6.6” Full HD+ , Cong vô cực",Dimensity 810,8.0,128.0,Nano Sim,,6.6,154,Tiki,other
-Masstel Hapi 30 3GB/32GB,1999000,IPS,Spreadtrum SC9863A,3.0,32.0,Nano,Li-ion,6.26,156,Tiki,other
-di dong Vivo Y21s (6GB/128GB),4450000,IPS LCD,MediaTek Helio P35 8 nhân,6.0,128.0,Nano SIM,Li-Po,6.5,157,Tiki,other
-Smartphone iTel A26 (2GB/32GB),1629000,IPS,Spreadtrum SC9832E; Quad-core ARM CortexTM A53,2.0,32.0,Nano,Lithium Ion,5.7,158,Tiki,other
-"thong minh Bphone A50, nhiep anh dien toan, 2 sim 2 song, bao mat hang dau  Hang chinh hang",4390000,Full HD+,Mediatek Helio G85,4.0,128.0,Nano,Lithium - Ion Polymer,6.67,159,Tiki,other
-Vivo Y21 4GB/64GB,3679000,IPS LCD,MediaTek Helio P35 8 nhân,4.0,64.0,,Li-Po,6.5,160,Tiki,other
-"thong minh Bphone A40, nhiep anh dien toan, 2 sim, bao mat  Hang chinh hang",3799000,Full HD+,Mediatek Helio G85,0.0,0.0,Nano,Lithium - Ion Polymer,6.67,161,Tiki,other
-Vivo X50,11590000,AMOLED,Snapdragon 730 8 nhân,8.0,128.0,Nano sim,Li-Po,6.56,162,Tiki,other
-Vivo Y12s 3GB/32GB,3169000,IPS LCD,Snapdragon 439 8 nhân,3.0,32.0,Nano SIM,Li-Po,6.5,163,Tiki,other
-[GAMING PHONE]  Redmagic 6R 8/128GB,9790000,,,128.0,8.0,Nano-SIM,"Li-Po 4200 mAh, non-removable",6.67,164,Tiki,other
-Bphone 3,6990000,IPS LCD,,3.0,32.0,Nano sim,Pin chuẩn Li-Po,6.0,165,Tiki,other
-"oukitel k15 pro (chong soc,pin khung,pin 10.000mAh ,Ram 6Gb,Rom 128Gb)  hang chinh hang",5990000,,,6.0,128.0,nano,,6.52,166,Tiki,other
-"Bphone A60 (Ram 6Gb,Rom 128 Gb,man hinh duc lo FHD 6.7inch , pin 5.000mAh )",5390000,,Mediatek Helio G85,0.0,1.0,NANO,Lithium - Ion Polymer,6.67,167,Tiki,other
-Nokia G21 4GB/128GB,3690000,TFT LCD,Unisoc T606 8 nhân,4.0,128.0,Nano,Li-Ion,6.5,168,Tiki,other
-"Ulefone Armor 14 (chong nuoc,chong va dap,pin khung,pin 10.000mAh,Ram 4Gb,Rom 64Gb)",5490000,,,0.0,0.0,nano,,6.52,169,Tiki,other
-ZTE Blade A51 3GB l 64GB,2590000,,,0.0,0.0,nano,,6.0,170,Tiki,other
-Vivo Y20 4GB/64GB,3599000,IPS LCD,Snapdragon 460 8 nhân,4.0,64.0,Nano SIM,Li-Po,6.5,171,Tiki,other
-"OUKITEL WP16 (pin 10.600mAh, Ram 8Gb,Rom 128Gb, man hinh 6,39 in , Android 11, May anh nhin ban dem 20MP, chong nuoc IP68,chong va dap, hai SIM 4G, NFC..)  hang chinh hang",6990000,,,0.0,0.0,nano,Lithium-ion polymer,6.39,172,Tiki,other
-Vivo V23e (8GB/128GB),6779000,AMOLED,MediaTek Helio G96 8 nhân,8.0,128.0,2,Li-Po,6.44,173,Tiki,other
-Nokia C21 Plus 2GB/32GB,2389000,,SC9863A Octa-core với xung nhịp lên đến 1.6Ghz,2.0,32.0,Nano SIM,,6.5,174,Tiki,other
-Realme 8 (8GB/128GB),6990000,Super AMOLED,MediaTek Helio G95 8 nhân,8.0,128.0,Nano SIM,Li-Po,6.4,175,Tiki,other
-Realme C25Y 4GB/128GB,3939000,IPS LCD,Unisoc T618 8 nhân,4.0,128.0,Nano SIM,Li-Po,6.5,176,Tiki,other
-ZTE Nubia RedMagic 6R,15990000,AMOLED,SM8350 Snapdragon 888 5G (5 nm),0.0,0.0,(Nano-SIM),Li-Po 4200 mAh,6.67,177,Tiki,other
-[GAMING PHONE]  Redmagic 6R 12/256GB,13390000,AMOLED,,256.0,12.0,nano,,6.67,178,Tiki,other
-Realme C11 2021 2GB/32GB,2590000,IPS LCD,MediaTek Helio G35 8 nhân,3.0,32.0,Nano SIM,Li-Po,6.5,179,Tiki,other
-Realme C25Y (4GB/128GB),3939000,IPS LCD,Unisoc T618 8 nhân,4.0,128.0,Nano SIM,Li-Po,6.5,180,Tiki,other
-Nokia C30 3GB/32GB,2890000,IPS LCD,Spreadtrum SC9863A 8 nhân,3.0,32.0,Nano SIM,Li-Po,6.81,181,Tiki,other
-Vivo V23e 8GB/128GB,6779000,AMOLED,MediaTek Helio G96 8 nhân,8.0,128.0,,Li-Po,6.44,182,Tiki,other
-Vivo Y15a (4GB/64GB),2970000,IPS LCD,MediaTek Helio P35 8 nhân,4.0,64.0,Nano,Li-Po,6.5,183,Tiki,other
-Vivo Y53s (8GB/128GB),5490000,IPS LCD,MediaTek Helio G80 8 nhân,8.0,128.0,2 Nano SIM,Li-Po,6.56,184,Tiki,other
-Realme 8 Pro Vang Ruc Ro Vang,7990000,Super AMOLED,Snapdragon 720G 8 nhân,8.0,128.0,Nanosim,Li-Po,6.4,185,Tiki,other
-Vivo V21 5G (8GB/128GB),7890000,AMOLED,MediaTek Dimensity 800U 5G 8 nhân,8.0,128.0,Nano SIM,Li-Po,6.44,186,Tiki,other
-Realme C11 2021 2GB/32GB (RMX3231),2390000,IPS LCD,,32.0,2.0,Nano,Li-Po,6.5,187,Tiki,other
-Nokia C30 (3GB/32GB),2959000,IPS LCD,Spreadtrum SC9863A 8 nhân,3.0,32.0,Nano SIM,Li-Po,6.81,189,Tiki,other
-Vivo Y15s (3GB/32GB) Da Kich Hoat Bao Hanh  Hang Chinh Hang,3059000,IPS LCD,MediaTek Helio P35 8 nhân,3.0,32.0,2 Nano SIM,Li-Po,6.5,190,Tiki,other
-Nokia C20 2GB/16GB,1790000,IPS LCD,Spreadtrum SC9863A 8 nhân,0.0,1.0,Nano SIM,,6.5,191,Tiki,other
-Vivo Y21 (4GB/64GB),3390000,IPS LCD,MediaTek Helio P35 8 nhân,4.0,64.0,Nano,Li-Po,6.5,192,Tiki,other
-Vivo Y15A 4GB/64GB,2990000,IPS LCD,MediaTek Helio P35 8 nhân,4.0,64.0,Nano,Li-Po,6.5,193,Tiki,other
-Nokia C01 Plus 2GB/16GB,1599000,IPS LCD,Spreadtrum SC9863A,2.0,16.0,Nano,Li-Ion,5.45,194,Tiki,other
-Vivo Y15s 3GB/32GB,2819000,IPS LCD,MediaTek Helio P35 8 nhân,3.0,32.0,Nano,Li-Po,6.5,195,Tiki,other
-Tecno Pop 5 LTE (2GB/32GB),2099000,,Spreadtrum SC9863,2.0,32.0,,,6.5,196,Tiki,other
-ZTE Blade V40 Vita (ZTE 8045),3690000,AMOLED,,0.0,0.0,nano,,6.7,197,Tiki,other
-Vivo X80 Pro (12GB|256GB),29990000,AMOLED,Snapdragon 8 Gen 1,12.0,256.0,2 Nano-SIM,4700mAh,6.0,198,Di động Việt,other
-Vivo X80 (12GB|256GB),15990000,AMOLED,MediaTek Dimensity 9000,12.0,256.0,Nano-SIM,4500mAh,6.78,199,Di động Việt,other
-Vertu Signature V Thang-Ga Pure Gold JAMBHALA,2524990000,TFT LCD,,2.0,6.0,1 SIM,,2.0,200,Di động Việt,other
-Vertu Signature V Thang-Ga Pure Gold AMTAYUS,2524990000,TFT LCD,,2.0,6.0,1 SIM,,2.0,201,Di động Việt,other
-Vertu Signature V Thang-Ga AVALOKTESVARA,1501990000,TFT LCD,,2.0,6.0,1 SIM,,2.0,202,Di động Việt,other
-Vertu Signature V Thang-Ga VAROCHANA,1324990000,TFT LCD,,2.0,6.0,1 SIM,,2.0,203,Di động Việt,other
-Vertu Signature V Cobra,11503990000,TFT LCD,,2.0,6.0,1 SIM,,2.0,204,Di động Việt,other
-iVERTU Himalaya Happy Diamond 18K Gold,1778990000,OLED,Qualcomm Snapdragon 888,12.0,512.0,2 Nano SIM,4200 mAh,6.67,205,Di động Việt,other
-iVERTU 18K Gold with Diamonds Himalaya Alligator Leather,887990000,OLED,Qualcomm Snapdragon 888,12.0,512.0,2 Nano SIM,4200m Ah,6.67,206,Di động Việt,other
-Vertu Signature V Black Gold Diamond ron Alligator,3063990000,TFT LCD,,3.0,32.0,1 SIM,,2.0,207,Di động Việt,other
-Vertu Aster P Baroque Alligator Lava,242990000,,Qualcomm Snapdragon,6.0,128.0,Dual SIM,3200 mAh,4.97,208,Di động Việt,other
-Vertu Aster P Rococo Himalaya Alligator,439900000,,Qualcomm Snapdragon,6.0,128.0,Dual SIM,3200 mAh,4.97,209,Di động Việt,other
-Vertu Signature V Pure Black Lizard Red,591990000,TFT LCD,,2.0,6.0,1 SIM,,2.0,210,Di động Việt,other
-Vertu Signature V Pure Black Full Gold,2257990000,TFT LCD,,2.0,6.0,1 SIM,,2.0,211,Di động Việt,other
-Vertu Signature V Alligator Navy Blue,615990000,TFT LCD,,3.0,32.0,1 SIM,,2.0,212,Di động Việt,other
-Dong ho thong minh Huawei Watch 3 - Day da,10990000,AMOLED,,0.0,16.0,,450 mAh,0.0,213,Di động Việt,other
-iVERTU 5G Stitching (Red & Brown) Calf,120990000,OLED Display,Qualcomm Snapdragon 888,12.0,512.0,2 SIM,4200 mAh,6.67,214,Di động Việt,other
-iVERTU 5G Onyx Lizard,142990000,OLED Display,Qualcomm Snapdragon 888,12.0,512.0,2 SIM,4200 mAh,6.67,215,Di động Việt,other
-iVERTU 5G Flame Red Alli,231990000,OLED Display,Qualcomm Snapdragon 888,12.0,512.0,2 SIM,4200 mAh,6.67,216,Di động Việt,other
-iVERTU 5G ron Black Alli,177990000,OLED Display,Qualcomm Snapdragon 888,12.0,512.0,2 SIM,4200 mAh,6.67,217,Di động Việt,other
-Vertu Aster P Ti Gothic Cinnamon Alli,271990000,AMOLED,Qualcomm Snapdragon 660,6.0,128.0,,3200 mAh,4.97,218,Di động Việt,other
-iVertu 5G Monogram Canvas Leather,89990000,AMOLED,Snapdragon 888 8 nhân,12.0,512.0,2 Nano SIM,4200 mAh,6.67,219,Di động Việt,other
-iVertu 5G Calf Leather,74990000,OLED,Snapdragon 888 8 nhân,12.0,512.0,2 Nano SIM,4200 mAh,6.67,220,Di động Việt,other
-Vertu Aster P Gothic Alligator,271900000,AMOLED,Qualcomm Snapdragon 660,6.0,128.0,1 SIM,3200 mAh,4.97,221,Di động Việt,other
-Vertu Aster P Gothic Calf,165990000,AMOLED,Qualcomm Snapdragon 660,6.0,128.0,1 SIM,3200 mAh,4.97,222,Di động Việt,other
-Vertu Aster P Baroque Calf,137900000,AMOLED,Qualcomm Snapdragon 660,6.0,128.0,1 SIM,3200 mAh,4.97,223,Di động Việt,other
-Vertu Signature V Pure Silver Clous De Paris,703990000,TFT LCD,,2.0,6.0,1 SIM,,2.0,224,Di động Việt,other
-Vertu Signature V Stainless Steel Pure Black,524990000,TFT LCD,,2.0,6.0,1 SIM,,2.0,225,Di động Việt,other
-Vertu Signature V Stainless Steel Pure Silver,480990000,TFT LCD,,2.0,6.0,1 SIM,,2.0,226,Di động Việt,other
-Redmi Note 10 (4GB|64GB) (Likenew) Fullbox,2990000,,,0.0,0.0,,,0.0,234,Di động Việt,other
-Redmi Note 10s (8GB|128GB),5390000,AMOLED,Mediatek Helio G95 (12 nm),0.0,0.0,2 Nano SIM,5000 mAh,6.43,235,Di động Việt,other
-Vivo X80,19990000,AMOLED,MediaTek Dimensity 9000 8 nhân,12.0,256.0,2 Nano SIM,4500 mAh,6.78,236,Điện máy xanh,other
+Sạc nhanh 18W",6.5,425,other
+Nokia C21 Plus 2GB 64GB,2690000,IPS LCD,Unisoc SC9863A,2.0,64.0,2 SIM (Nano-SIM),5050 mAh,6.52,426,other
+Vivo Y21S (6GB - 128GB),4650000,IPS LCD,MediaTek Helio G80 8 nhân,6.0,128.0,2 SIM (Nano-SIM),5000 mAh,6.51,427,other
+Nokia 150 2020,700000,,,0.0,0.0,,Li-Ion 1020 mAh battery,2.4,428,other
+Tecno Spark 7T 6GB 128GB,3490000,IPS LCD,MediaTek MT6765G Helio G35,6.0,128.0,2 SIM (Nano-SIM),Li-Po 6000 mAh,6.52,429,other
+Energizer Energy E100,490000,,,0.0,0.0,,Removable Li-Ion 1500 mAh battery,2.4,430,other
+Vsmart Star 4 2GB,2050000,,MediaTek Helio P35,2.0,16.0,2 SIM (Nano-SIM),3500 mAh,6.09,431,other
+Realme C35 4GB 128GB,4590000,IPS LCD,Unisoc T616 8 nhân,4.0,128.0,2 SIM (Nano-SIM),6000mAh,6.6,432,other
+Cat B40,2490000,TFT LCD,Unisoc T117,0.0,0.125,Nano-SIM,1800 mAh,2.4,433,other
+Vivo Y20 (2021),3350000,IPS LCD,MediaTek Helio P35,4.0,64.0,2 SIM (Nano-SIM),Li-Po 5000 mAh,6.5,434,other
+Energizer Energy E20,650000,,,0.0,0.0,,Li-Ion 1000 mAh battery,2.4,435,other
+Cat S42H+,8490000,IPS LCD,MT Helio Quadcore 1.8GHz,3.0,32.0,2 SIM (Nano-SIM),Li-Ion 4200 mAh,5.5,436,other
+Vivo T1 5G,7990000,AMOLED,Snapdragon 778,0.0,128.0,2 SIM (Nano-SIM),4700 mAh,6.44,437,other
+Nokia C20,1990000,,SC9863A 8 nhân | 1.6GHz,0.0,32.0,2 sim Nano + MicroSD,"2950 mAh | pin rời, 5V1A",6.5,438,other
+Nokia C20 2GB-16GB,1990000,,SC9863A 8 nhân | 1.6GHz,0.0,16.0,2 sim Nano + MicroSD,"2950 mAh | pin rời, 5V1A",6.5,439,other
+Nokia G21,3940000,,Unisoc T606 (2xA75 and 6xA55 1.6G),4.0,128.0,SIM Nano SIM + Nano SIM hoặc Nano SIM + MicroSD,"5050 mah, Pin liền",6.5,440,other
+Realme C21Y (4-64GB),3790000,LCD,"8 nhân, xung nhịp lên đến 1.8 GHz 64bits; Arm Mali-G52",4.0,64.0,Dual-SIM (Nano SIM),Li-po; 5000mAh,6.5,441,other
+Masstel Fami 12 4G,649000,,T107,0.0,0.25,2 nano SIM,1400mAh,0.0,442,other
+Itel 9210 4G,680000,LCD,,0.0,0.125,2 Micro SIM,1900 mAh,2.4,443,other
+Masstel Izi 10 4G,499000,,UMS9117,0.0,0.125,2 nano SIM,1000mAh; Li-ion; Pin có thể tháo rời; Thời gian chờ: 5 ngày; Thời gian đàm thoại: 3-4 giờ; Thời gian sạc đầy: 2.5 giờ;,1.77,444,other
+Masstel Izi 55 4G,699000,,UIS8910,0.0,0.0234375,02 Nano SIM,1800 mAh; Lithium-ion; Pin có thể tháo rời,2.4,445,other
+Masstel Fami 60 4G,749000,,UIS8910,0.0,0.0234375,2 nano SIM,2000mAh; Li-ion; Pin có thể tháo rời; Thời gian chờ: 17 ngày; Thời gian đàm thoại: 6-8 giờ; Thời gian sạc đầy: 3-4 giờ;,2.0,446,other
+Realme C11 2021 (2GB - 32GB),2590000,LCD,"SC9863A; 8 nhân, xung nhịp lên đến 1.6GHz; IMG 8322",2.0,32.0,"Dual-SIM (Nano SIM), 2 sim và thêm 1 khe thẻ nhớ",5000mAh; Li-po; Sạc thường 10W,6.5,447,other
+Realme 8 5G,7490000,LCD,"MTK Dimensity 700 5G; CPU lõi tám nhân, xung nhịp lên đến 2.2GHz; ARM Mali-G57",0.0,128.0,Dual-SIM (Nano SIM); 2 sim và thêm 1 khe thẻ nhớ,Li-po; 5000mAh; Sạc nhanh 18W,6.5,448,other
+Itel A48,2090000,,,2.0,32.0,Sim thường,"3000mAh, Li-po, Hỗ trợ sạc tối đa 5V 1A, Pin rời",6.1,449,other
+Nokia 105 SS (2019),480000,,,0.0,0.00390625,Mini SIM,800mAh,1.77,450,other
+Itel Vision 1 Pro (3GB/32GB),2390000,IPS LCD,Spreadtrum SC9832E 4 nhân; Tốc độ CPU: 1.4 GHz; Mali-T820 MP1,3.0,32.0,2 Nano SIM,4000 mAh; Li-Ion; Hỗ trợ sạc tối đa: 5 W,6.5,451,other
+Masstel Izi 20 4G,549000,,UMS9117,0.0,0.125,2 nano SIM,1700mAh; Li-ion; Pin có thể tháo rời; Thời gian chờ: 15 ngày; Thời gian đàm thoại: 6-8 giờ; Thời gian sạc đầy: 4 giờ,1.77,452,other
+Masstel Izi 12 4G,499000,,,0.0,0.125,Có,1000mAh,0.0,453,other
+Realme 9i,6190000,,"Qualcomm Snapdragon 680 Octa-Core; CPU lõi tám nhân, xung nhịp lên đến 2.4GHz, tiến trình 6nm; Adreno 610",0.0,128.0,Dual-SIM (Nano SIM),Li-po; 5000mAh; Sạc nhanh 33W,6.6,454,other
+Realme C21Y (3-32G),3190000,LCD,"8 nhân, xung nhịp lên đến 1.8 GHz 64bits; Arm Mali-G52",0.0,32.0,Dual-SIM (Nano SIM),Li-po; 5000mAh,6.5,455,other
+Realme 8,6790000,Super AMOLED,"Helio G95T; CPU lõi tám nhân, xung nhịp lên đến 2.05GHz; ARM Mali-G76",8.0,128.0,Dual-SIM (Nano SIM); 2 sim và thêm 1 khe thẻ nhớ,5000 mAh; Li-Po; Sạc nhanh 30W,6.4,456,other
+Dien thoai di dong Philips Xenium E506 4G,730000,TFT-LCD,,0.0,0.015625,Dual nano SIM card,1700 mAh lithium ion battery 3.7V,2.4,457,other
+Dien thoai di dong Philips Xenium E527 4G,880000,TFT-LCD,,0.0,0.0234375,Dual Sim,1700mAh 3.7V,2.4,458,other
+ZTE Blade A51 (3/64GB),2690000,IPS LCD,Unisoc SC9863A (28nm); Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55); IMG8322,3.0,64.0,Dual SIM (Nano-SIM. dual stand-by),"Li-Ion 3200 mAh, không rời",6.52,459,other
+ZTE Blade A31 Plus (2/32GB),1990000,IPS LCD,Unisoc SC9863A (28nm); Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55); IMG8322,2.0,32.0,"Dual SIM (Nano-SIM, dual stand-by)","Li-Ion 3000 mAh, không rời",6.0,460,other
+Nokia C20 2GB/32GB,1929000,IPS LCD,Spreadtrum SC9863A 8 nhân,2.0,32.0,Li-Ion,,6.5,461,other
+Masstel Hapi 15 (2GB/16GB),1399000,IPS,Spreadtrum SC9832E,2.0,16.0,Micro Sim,Li-ion,5.45,462,other
+Tecno Pova 2 4GB l 64GB,3126000,"Màn hình cảm ứng điện dung IPS LCD, 16 triệu màu",,0.0,0.0,Nano,Li-Po,6.9,463,other
+Nokia G10 4GB/64GB,2890000,TFT LCD,MediaTek Helio G25 8 nhân,4.0,64.0,Nano,,6.5,464,other
+Tecno Spark 6 Go (4GB+64GB),2349000,IPS LCD,MediaTek Helio A25,4.0,64.0,Nano,Li-Po,6.52,465,other
+Vsmart Aris Pro (8GB/128GB),4995000,AMOLED,Snapdragon 730 8 nhân,8.0,128.0,Nano Sim,Pin chuẩn Li-Po - Sạc nhanh Quick Charge 3.0,6.39,466,other
+Nokia G10 (4GB/64GB),2979000,IPS LCD,MediaTek Helio G25 8 nhân,4.0,64.0,Nano SIM,,6.5,467,other
+"thong minh Bphone A60, nhiep anh dien toan, 2 sim, bao mat  Hang chinh hang",4940000,Full HD+,Mediatek Helio G85,0.0,12.0,Nano,Lithium - Ion Polymer,6.67,468,other
+Tecno POP 5 (2GB/32GB),2190000,,SC9863,2.0,32.0,Nano SIM+Micro SIM,,6.52,469,other
+thong minh Bphone A50,5490000,,Mediatek Helio G85,4.0,128.0,Nano sim,Lithium - Ion Polymer,6.67,470,other
+"ITEL A48 2GB/32GB , 6.1"" HD+ , Camera kep",1789000,,,2.0,32.0,,,6.1,471,other
+Realme C21Y 4GB,2990000,IPS LCD,Spreadtrum T610 8 nhân,4.0,0.0,2 Nano SIM,Li-Po,6.5,472,other
+TECNO Spark 8C (4GB+3GB/64GB),2599000,,Unisoc T606,0.0,64.0,2 Nano SIM,,6.6,473,other
+Nokia C20 2GB/32GB,1990000,,,2.0,0.0,2 sim Nano + MicroSD,,6.5,474,other
+Nokia C20 (2GB/32GB),1950000,IPS LCD,Spreadtrum SC9863A 8 nhân,2.0,32.0,Nano,Li-Ion,6.5,475,other
+Tecno Spark 6 Go 4GB/64GB,2529000,,MediaTek Helo A25,4.0,64.0,Nano SIM,,6.52,476,other
+"smartphone Sugar A100, music smartphone",1159000,LCD,MTK 6739,0.0,0.0,2 sim,2500mAh,3.5,477,other
+"itel Vision1 Pro (L6502) 3GB/32GB , 6.52"" HD+ , Camera kep",1899000,,,3.0,32.0,,,6.52,478,other
+Vivo V23e (8GB/128GB)  Hang Chinh Hang,6960000,AMOLED,MediaTek Helio G96,0.0,128.0,,,6.44,479,other
+Vivo Y15s (3GB/32GB)  Hang Chinh Hang,2790000,,MediaTek Helio P35,3.0,32.0,,Li-po,6.5,480,other
+thong minh Bphone A85 5G,9490000,"Amoled 6.6” Full HD+ , Cong vô cực",Dimensity 810,8.0,128.0,Nano Sim,,6.6,481,other
+Vivo V23e (8GB/128GB)  Hang Chinh Hang,7990000,AMOLED,MediaTek Helio G96 8 nhân,0.0,128.0,Nano SIM,Li-Po,6.44,482,other
+Masstel Hapi 30 3GB/32GB,1999000,IPS,Spreadtrum SC9863A,3.0,32.0,Nano,Li-ion,6.26,483,other
+di dong Vivo Y21s (6GB/128GB),4450000,IPS LCD,MediaTek Helio P35 8 nhân,6.0,128.0,Nano SIM,Li-Po,6.5,484,other
+Smartphone iTel A26 (2GB/32GB),1629000,IPS,Spreadtrum SC9832E; Quad-core ARM CortexTM A53,2.0,32.0,Nano,Lithium Ion,5.7,485,other
+"thong minh Bphone A50, nhiep anh dien toan, 2 sim 2 song, bao mat hang dau  Hang chinh hang",4390000,Full HD+,Mediatek Helio G85,4.0,128.0,Nano,Lithium - Ion Polymer,6.67,486,other
+Vivo Y21 4GB/64GB,3679000,IPS LCD,MediaTek Helio P35 8 nhân,4.0,64.0,,Li-Po,6.5,487,other
+"thong minh Bphone A40, nhiep anh dien toan, 2 sim, bao mat  Hang chinh hang",3799000,Full HD+,Mediatek Helio G85,0.0,0.0,Nano,Lithium - Ion Polymer,6.67,488,other
+Vivo X50,11590000,AMOLED,Snapdragon 730 8 nhân,8.0,128.0,Nano sim,Li-Po,6.56,489,other
+Vivo Y12s 3GB/32GB,3169000,IPS LCD,Snapdragon 439 8 nhân,3.0,32.0,Nano SIM,Li-Po,6.5,490,other
+[GAMING PHONE]  Redmagic 6R 8/128GB,9790000,,,128.0,8.0,Nano-SIM,"Li-Po 4200 mAh, non-removable",6.67,491,other
+Bphone 3,6990000,IPS LCD,,3.0,32.0,Nano sim,Pin chuẩn Li-Po,6.0,492,other
+"oukitel k15 pro (chong soc,pin khung,pin 10.000mAh ,Ram 6Gb,Rom 128Gb)  hang chinh hang",5990000,,,6.0,128.0,nano,,6.52,493,other
+"Bphone A60 (Ram 6Gb,Rom 128 Gb,man hinh duc lo FHD 6.7inch , pin 5.000mAh )",5390000,,Mediatek Helio G85,0.0,1.0,NANO,Lithium - Ion Polymer,6.67,494,other
+Nokia G21 4GB/128GB,3690000,TFT LCD,Unisoc T606 8 nhân,4.0,128.0,Nano,Li-Ion,6.5,495,other
+"Ulefone Armor 14 (chong nuoc,chong va dap,pin khung,pin 10.000mAh,Ram 4Gb,Rom 64Gb)",5490000,,,0.0,0.0,nano,,6.52,496,other
+ZTE Blade A51 3GB l 64GB,2590000,,,0.0,0.0,nano,,6.0,497,other
+Vivo Y20 4GB/64GB,3599000,IPS LCD,Snapdragon 460 8 nhân,4.0,64.0,Nano SIM,Li-Po,6.5,498,other
+"OUKITEL WP16 (pin 10.600mAh, Ram 8Gb,Rom 128Gb, man hinh 6,39 in , Android 11, May anh nhin ban dem 20MP, chong nuoc IP68,chong va dap, hai SIM 4G, NFC..)  hang chinh hang",6990000,,,0.0,0.0,nano,Lithium-ion polymer,6.39,499,other
+Vivo V23e (8GB/128GB),6779000,AMOLED,MediaTek Helio G96 8 nhân,8.0,128.0,2,Li-Po,6.44,500,other
+Nokia C21 Plus 2GB/32GB,2389000,,SC9863A Octa-core với xung nhịp lên đến 1.6Ghz,2.0,32.0,Nano SIM,,6.5,501,other
+Realme 8 (8GB/128GB),6990000,Super AMOLED,MediaTek Helio G95 8 nhân,8.0,128.0,Nano SIM,Li-Po,6.4,502,other
+Realme C25Y 4GB/128GB,3939000,IPS LCD,Unisoc T618 8 nhân,4.0,128.0,Nano SIM,Li-Po,6.5,503,other
+ZTE Nubia RedMagic 6R,15990000,AMOLED,SM8350 Snapdragon 888 5G (5 nm),0.0,0.0,(Nano-SIM),Li-Po 4200 mAh,6.67,504,other
+[GAMING PHONE]  Redmagic 6R 12/256GB,13390000,AMOLED,,256.0,12.0,nano,,6.67,505,other
+Realme C11 2021 2GB/32GB,2590000,IPS LCD,MediaTek Helio G35 8 nhân,3.0,32.0,Nano SIM,Li-Po,6.5,506,other
+Realme C25Y (4GB/128GB),3939000,IPS LCD,Unisoc T618 8 nhân,4.0,128.0,Nano SIM,Li-Po,6.5,507,other
+Nokia C30 3GB/32GB,2890000,IPS LCD,Spreadtrum SC9863A 8 nhân,3.0,32.0,Nano SIM,Li-Po,6.81,508,other
+Vivo V23e 8GB/128GB,6779000,AMOLED,MediaTek Helio G96 8 nhân,8.0,128.0,,Li-Po,6.44,509,other
+Vivo Y15a (4GB/64GB),2970000,IPS LCD,MediaTek Helio P35 8 nhân,4.0,64.0,Nano,Li-Po,6.5,510,other
+Vivo Y53s (8GB/128GB),5490000,IPS LCD,MediaTek Helio G80 8 nhân,8.0,128.0,2 Nano SIM,Li-Po,6.56,511,other
+Realme 8 Pro Vang Ruc Ro Vang,7990000,Super AMOLED,Snapdragon 720G 8 nhân,8.0,128.0,Nanosim,Li-Po,6.4,512,other
+Vivo V21 5G (8GB/128GB),7890000,AMOLED,MediaTek Dimensity 800U 5G 8 nhân,8.0,128.0,Nano SIM,Li-Po,6.44,513,other
+Realme C11 2021 2GB/32GB (RMX3231),2390000,IPS LCD,,32.0,2.0,Nano,Li-Po,6.5,514,other
+Realme C25Y 4GB/128GB,3790000,IPS LCD,Unisoc T618 8 nhân,4.0,128.0,Nano SIM,Li-Po,6.5,515,other
+Nokia C30 (3GB/32GB),2959000,IPS LCD,Spreadtrum SC9863A 8 nhân,3.0,32.0,Nano SIM,Li-Po,6.81,516,other
+Vivo Y15s (3GB/32GB) Da Kich Hoat Bao Hanh  Hang Chinh Hang,3059000,IPS LCD,MediaTek Helio P35 8 nhân,3.0,32.0,2 Nano SIM,Li-Po,6.5,517,other
+Nokia C20 2GB/16GB,1790000,IPS LCD,Spreadtrum SC9863A 8 nhân,0.0,1.0,Nano SIM,,6.5,518,other
+Vivo Y21 (4GB/64GB),3390000,IPS LCD,MediaTek Helio P35 8 nhân,4.0,64.0,Nano,Li-Po,6.5,519,other
+Vivo Y15A 4GB/64GB,2990000,IPS LCD,MediaTek Helio P35 8 nhân,4.0,64.0,Nano,Li-Po,6.5,520,other
+Nokia C01 Plus 2GB/16GB,1599000,IPS LCD,Spreadtrum SC9863A,2.0,16.0,Nano,Li-Ion,5.45,521,other
+Vivo Y15s 3GB/32GB,2819000,IPS LCD,MediaTek Helio P35 8 nhân,3.0,32.0,Nano,Li-Po,6.5,522,other
+Tecno Pop 5 LTE (2GB/32GB),2099000,,Spreadtrum SC9863,2.0,32.0,,,6.5,523,other
+ZTE Blade V40 Vita (ZTE 8045),3690000,AMOLED,,0.0,0.0,nano,,6.7,524,other
+Vivo X80 Pro (12GB|256GB),29990000,AMOLED,Snapdragon 8 Gen 1,12.0,256.0,2 Nano-SIM,4700mAh,6.0,525,other
+Vivo X80 (12GB|256GB),15990000,AMOLED,MediaTek Dimensity 9000,12.0,256.0,Nano-SIM,4500mAh,6.78,526,other
+Vertu Signature V Thang-Ga Pure Gold JAMBHALA,2524990000,TFT LCD,,2.0,6.0,1 SIM,,2.0,527,other
+Vertu Signature V Thang-Ga Pure Gold AMTAYUS,2524990000,TFT LCD,,2.0,6.0,1 SIM,,2.0,528,other
+Vertu Signature V Thang-Ga AVALOKTESVARA,1501990000,TFT LCD,,2.0,6.0,1 SIM,,2.0,529,other
+Vertu Signature V Thang-Ga VAROCHANA,1324990000,TFT LCD,,2.0,6.0,1 SIM,,2.0,530,other
+Vertu Signature V Cobra,11503990000,TFT LCD,,2.0,6.0,1 SIM,,2.0,531,other
+iVERTU Himalaya Happy Diamond 18K Gold,1778990000,OLED,Qualcomm Snapdragon 888,12.0,512.0,2 Nano SIM,4200 mAh,6.67,532,other
+iVERTU 18K Gold with Diamonds Himalaya Alligator Leather,887990000,OLED,Qualcomm Snapdragon 888,12.0,512.0,2 Nano SIM,4200m Ah,6.67,533,other
+Vertu Signature V Black Gold Diamond ron Alligator,3063990000,TFT LCD,,3.0,32.0,1 SIM,,2.0,534,other
+Vertu Aster P Baroque Alligator Lava,242990000,,Qualcomm Snapdragon,6.0,128.0,Dual SIM,3200 mAh,4.97,535,other
+Vertu Aster P Rococo Himalaya Alligator,439900000,,Qualcomm Snapdragon,6.0,128.0,Dual SIM,3200 mAh,4.97,536,other
+Vertu Signature V Pure Black Lizard Red,591990000,TFT LCD,,2.0,6.0,1 SIM,,2.0,537,other
+Vertu Signature V Pure Black Full Gold,2257990000,TFT LCD,,2.0,6.0,1 SIM,,2.0,538,other
+Vertu Signature V Alligator Navy Blue,615990000,TFT LCD,,3.0,32.0,1 SIM,,2.0,539,other
+Dong ho thong minh Huawei Watch 3 - Day da,10990000,AMOLED,,0.0,16.0,,450 mAh,0.0,540,other
+iVERTU 5G Stitching (Red & Brown) Calf,120990000,OLED Display,Qualcomm Snapdragon 888,12.0,512.0,2 SIM,4200 mAh,6.67,541,other
+iVERTU 5G Onyx Lizard,142990000,OLED Display,Qualcomm Snapdragon 888,12.0,512.0,2 SIM,4200 mAh,6.67,542,other
+iVERTU 5G Flame Red Alli,231990000,OLED Display,Qualcomm Snapdragon 888,12.0,512.0,2 SIM,4200 mAh,6.67,543,other
+iVERTU 5G ron Black Alli,177990000,OLED Display,Qualcomm Snapdragon 888,12.0,512.0,2 SIM,4200 mAh,6.67,544,other
+Vertu Aster P Ti Gothic Cinnamon Alli,271990000,AMOLED,Qualcomm Snapdragon 660,6.0,128.0,,3200 mAh,4.97,545,other
+iVertu 5G Monogram Canvas Leather,89990000,AMOLED,Snapdragon 888 8 nhân,12.0,512.0,2 Nano SIM,4200 mAh,6.67,546,other
+iVertu 5G Calf Leather,74990000,OLED,Snapdragon 888 8 nhân,12.0,512.0,2 Nano SIM,4200 mAh,6.67,547,other
+Vertu Aster P Gothic Alligator,271900000,AMOLED,Qualcomm Snapdragon 660,6.0,128.0,1 SIM,3200 mAh,4.97,548,other
+Vertu Aster P Gothic Calf,165990000,AMOLED,Qualcomm Snapdragon 660,6.0,128.0,1 SIM,3200 mAh,4.97,549,other
+Vertu Aster P Baroque Calf,137900000,AMOLED,Qualcomm Snapdragon 660,6.0,128.0,1 SIM,3200 mAh,4.97,550,other
+Vertu Signature V Pure Silver Clous De Paris,703990000,TFT LCD,,2.0,6.0,1 SIM,,2.0,551,other
+Vertu Signature V Stainless Steel Pure Black,524990000,TFT LCD,,2.0,6.0,1 SIM,,2.0,552,other
+Vertu Signature V Stainless Steel Pure Silver,480990000,TFT LCD,,2.0,6.0,1 SIM,,2.0,553,other
+Bphone A60,5990000,Đang cập nhật,Đang cập nhật,6.0,128.0,2 SIM (Nano-SIM),,0.0,554,other
+Bphone A50,4990000,,Đang cập nhật,6.0,128.0,2 SIM (Nano-SIM),5000 mAh,0.0,555,other
+Bphone A40,3990000,,,4.0,64.0,2 SIM (Nano-SIM),5000 mAh,0.0,556,other
+Bphone A60,5990000,Đang cập nhật,Đang cập nhật,6.0,0.0,2 SIM (Nano-SIM),,0.0,557,other
+Bphone A50,4990000,,Đang cập nhật,6.0,0.0,2 SIM (Nano-SIM),5000 mAh,0.0,558,other
+Bphone A40,3990000,,,4.0,0.0,2 SIM (Nano-SIM),5000 mAh,0.0,559,other
+Nokia 110 4G,760000,TFT LCD,,0.0,0.0,2 Nano SIM,1020 mAh,1.8,560,other
+Redmi Note 10 (4GB|64GB) (Likenew) Fullbox,2990000,,,0.0,0.0,,,0.0,561,other
+Redmi Note 10s (8GB|128GB),5390000,AMOLED,Mediatek Helio G95 (12 nm),0.0,0.0,2 Nano SIM,5000 mAh,6.43,562,other
+Vivo X80,19990000,AMOLED,MediaTek Dimensity 9000 8 nhân,12.0,256.0,2 Nano SIM,4500 mAh,6.78,563,other
