@@ -89,7 +89,6 @@
   display: none;
 }
 .sidebar .nav-links li a{
-  display: flex;
   align-items: center;
   text-decoration: none;
 }
@@ -238,14 +237,15 @@
   font-size: 26px;
   font-weight: 600;
 }
-.dashboard .top .search-box{
+.search-box{
   position: relative;
+  left: 50px;
   height: 45px;
   max-width: 600px;
   width: 100%;
   margin: 0 30px;
 }
-.top .search-box input{
+.search-box input{
   position: absolute;
   border: 1px solid var(--border-color);
   background-color: var(--panel-color);
@@ -258,7 +258,7 @@
   font-weight: 400;
   outline: none;
 }
-.top .search-box i{
+.search-box i{
   position: absolute;
   left: 15px;
   font-size: 22px;
