@@ -1,13 +1,52 @@
 import { Module } from '@nestjs/common';
+
 import { AppController } from './app.controller';
-import { MongooseModule } from '@nestjs/mongoose';
+import { TypeOrmModule } from '@nestjs/typeorm';
 import { AppService } from './app.service';
-import { App, AppSchema } from './app.schema';
+import {
+  Final,
+  CellPhones,
+  Didongviet,
+  Dienmayxanh,
+  FinalCellPhones,
+  FinalDidongviet,
+  FinalDienmayxanh,
+  FinalTgdd,
+  FinalTiki,
+  FinalViettel,
+  Tgdd,
+  Tiki,
+  Viettel,
+} from './app.entity';
 @Module({
   controllers: [AppController],
   imports: [
-    MongooseModule.forFeature([{ name: App.name, schema: AppSchema }]),
-    MongooseModule.forRoot('mongodb://localhost:27017/test'),
+    TypeOrmModule.forRoot({
+      type: 'postgres',
+      host: 'localhost',
+      port: 5432,
+      username: 'postgres',
+      password: 'postgres',
+      database: 'phone',
+      autoLoadEntities: true,
+      synchronize: true,
+      entities: ['dist/**/**/*.entity{.ts,.js}'],
+    }),
+    TypeOrmModule.forFeature([
+      Final,
+      CellPhones,
+      Didongviet,
+      Dienmayxanh,
+      FinalCellPhones,
+      FinalDidongviet,
+      FinalDienmayxanh,
+      FinalTgdd,
+      FinalTiki,
+      FinalViettel,
+      Tgdd,
+      Tiki,
+      Viettel,
+    ]),
   ],
   providers: [AppService],
 })

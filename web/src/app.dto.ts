@@ -1,4 +1,5 @@
 export class AppDto {
+  id?: number;
   ten?: string;
   hang?: string;
   gia_moi?: number;

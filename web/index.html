@@ -50,14 +50,11 @@
     </div>
 
     <div class="property" id="getBrand" style="display: none">
-        <button class="button" onclick="brand('iphone')">IPhone</button>
+        <button class="button" onclick="brand('apple')">IPhone</button>
         <button class="button" onclick="brand('samsung')">Samsung</button>
-        <button class="button" onclick="brand('realme')">Realme</button>
         <button class="button" onclick="brand('oppo')">Oppo</button>
-        <button class="button" onclick="brand('vivo')">Vivo</button>
-        <button class="button" onclick="brand('nokia')">Nokia</button>
-        <button class="button" onclick="brand('redme')">Redme</button>
-        <button class="button" onclick="brand('xiaome')">Xiaome</button>
+        <button class="button" onclick="brand('xiaomi')">Xiaome</button>
+        <button class="button" onclick="brand('other')">Hãng khác</button>
     </div>
 
     <div class="property" id="getRam" style="display: none">
@@ -103,11 +100,11 @@
             document.getElementById(params).style.display = 'block';
         }
 
-        function populateDataAndRender(data) {
+        function populateDataAndRender(listdata) {
             let tab =
                 `<tr>
                     <th>Tên</th>
-                    <th>Giá</th>
+                    <th>Hãng</th>
                     <th>Kích thước màn hình</th>
                     <th>Công nghệ màn hình</th>
                     <th>Cpu</th>
@@ -116,10 +113,10 @@
                     <th>Pin</th>
                     <th>Sim</th>
                 </tr>`;
-            for (let r of data) {
+            for (let r of listdata) {
                 tab += `<tr> 
-                    <td>${r.ten} </td>
-                    <td>${r.gia_moi}</td>
+                    <td><a herf='http://127.0.0.1:5500/web/index.html'>${r.ten}</a></td>
+                    <td>${r.hang} </td>
                     <td>${r.kich_thuoc_man_hinh}</td> 
                     <td>${r.cong_nghe_man_hinh}</td>
                     <td>${r.cpu}</td>
@@ -147,7 +144,7 @@
                 const search = document.getElementById('input-search')
                 document.querySelector('#form-search').addEventListener('submit', e => {
                     e.preventDefault();
-                    fet(search.value)
+                    fetName(search.value)
                 })
             } catch (err) {
                 console.log(err);
@@ -156,11 +153,23 @@
 
         })();
 
-        async function fet(ten) {
-            const res = await fetch(`http://localhost:3000/app?ten=${ten}`)
+        async function fetName(ten) {
+            const res = await fetch(`http://localhost:3000/api/phones?ten=${ten}`)
             data = await res.json();
             data = data.data;
-            console.log('res:', data.data);
+            await populateDataAndRender(data);
+        }
+
+        function Hiii(id) {
+            console.log('id:', id);
+        }
+
+        async function fetId(id) {
+            console.log('id:', id);
+            const res = await fetch(`http://localhost:3000/api/phones/${id}`)
+            data = await res.json();
+            data = data.data;
+            console.log('res by Id:', data.data);
             await populateDataAndRender(data);
         }
 
