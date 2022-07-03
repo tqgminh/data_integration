@@ -1,82 +1,144 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<title>Data Integration</title>
-	<link rel="stylesheet" type="text/css" href="../static/index.css">
-	<script type="text/javascript" src="../static/index.js"></script>
-	<meta charset=utf-8 />
-</head>
-<body>
-	<head>
-		<div class="header">
-			<span class="title">Nhóm 14 Tích hợp dữ liệu</span>
-		</div>
-	</head>
-	<div class="display">
-		<form method="post" class="form" action="{{ url_for('result') }}">
-			<input type="text" placeholder="Nhập tên điện thoại.." name="subname">
-      		<button type="submit" onclick="{window.location.href={{ url_for('result') }} }">Tìm kiếm</button>
-			<div>RAM</div>
-			<select name="ram">
-				<option value="none">None</option>
-				<option value="under2">Dưới 2GB</option>
-  				<option value="2to4">2-4GB</option>
-  				<option value="4to8">4-8GB</option>
-  				<option value="8to16">8-16GB</option>
-			  	<option value="over16">Trên 16GB</option>
-			</select>
-			<div>Bộ nhớ trong</div>
-			<select name="bo_nho_trong">
-				<option value="none">None</option>
-				<option value="under32">Dưới 32GB</option>
-  				<option value="32to64">32-64GB</option>
-  				<option value="64to128">64-128GB</option>
-  				<option value="128to512">128-512GB</option>
-			  	<option value="over512">Trên 512GB</option>
-			</select>
-			<div>Kích thước màn hình</div>
-			<select name="kich_thuoc_man_hinh">
-				<option value="none">None</option>
-				<option value="under2">Dưới 2 inches</option>
-  				<option value="2to4">2-4 inches</option>
-  				<option value="4to6">4-6 inches</option>
-  				<option value="6to8">6-8 inches</option>
-			  	<option value="over8">Trên 8 inches</option>
-			</select>
-			<table>
-				<tr>
-					<th>Tên điện thoại</th>
-					<th>Kích thước màn hình</th>
-					<th>Công nghệ màn hình</th>
-					<th>CPU</th>
-					<th>RAM</th>
-					<th>Bộ nhớ trong</th>
-					<th>Pin</th>
-					<th>Thẻ SIM</th>
-				</tr>
-				{% for index, row in df.iterrows(): %}
-				<tr class='clickable-row' data-href="{{ url_for('record', variable=row['id']) }}" method = POST>
-					<td>{{ row['ten'] }}</td>
-					<td>{{ row['kich_thuoc_man_hinh'] }}</td>
-					<td>{{ row['cong_nghe_man_hinh'] }}</td>
-					<td>{{ row['cpu'] }}</td>
-					<td>{{ row['ram'] }}</td>
-					<td>{{ row['bo_nho_trong'] }}</td>
-					<td>{{ row['pin'] }}</td>
-					<td>{{ row['sim'] }}</td>
-				</tr>
-				{% endfor %}
-			</table>
-		</form>
-	</div>
-	<script class="jsbin" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-	<script class="jsbin" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.0/jquery-ui.min.js"></script>
-	<script>
-		jQuery(document).ready(function($) {
-    		$(".clickable-row").click(function() {
-        		window.location = $(this).data("href");
-    		});
-		});
-	</script>
-</body>
+  <head>
+    <title>Data Integration</title>
+    <link rel="stylesheet" type="text/css" href="../static/index.css" />
+    <script type="text/javascript" src="../static/index.js"></script>
+    <meta charset="utf-8" />
+    <style>
+      #customers {
+        font-family: Arial, Helvetica, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+      }
+      #customers td,
+      #customers th {
+        border: 1px solid #ddd;
+        padding: 5px;
+      }
+      #customers tr:nth-child(even) {
+        background-color: #f2f2f2;
+      }
+
+      #customers tr:hover {
+        background-color: #ddd;
+      }
+
+      #customers th {
+        padding-top: 5px;
+        padding-bottom: 5px;
+        text-align: left;
+        background-color: #04aa6d;
+        color: white;
+      }
+    </style>
+  </head>
+  <body>
+    <head>
+      <div class="header">
+        <h2>Nhóm 14 Tích hợp dữ liệu</h2>
+      </div>
+    </head>
+    <div class="display">
+      <form  method="post" class="form" action="{{ url_for('result') }}">
+        <div style="float: left">
+          <div class="custom-select" style="float: left; margin: 25px 5px 25px 25px"> RAM </div>
+          <select name="ram" style="margin: 25px 25px 25px 0px">
+            <option value="none">None</option>
+            <option value="under2">Dưới 2GB</option>
+            <option value="2to4">2-4GB</option>
+            <option value="4to8">4-8GB</option>
+            <option value="8to16">8-16GB</option>
+            <option value="over16">Trên 16GB</option>
+          </select>
+        </div>
+
+        <div style="float: left">
+          <div style="float: left; margin: 25px 5px 25px 25px">
+            Bộ nhớ trong
+          </div>
+          <select name="bo_nho_trong" style="margin: 25px 25px 25px 5px">
+            <option value="none">None</option>
+            <option value="under32">Dưới 32GB</option>
+            <option value="32to64">32-64GB</option>
+            <option value="64to128">64-128GB</option>
+            <option value="128to512">128-512GB</option>
+            <option value="over512">Trên 512GB</option>
+          </select>
+        </div>
+
+        <div style="float: left">
+          <div style="float: left; margin: 25px 5px 25px 25px">
+            Kích thước màn hình
+          </div>
+          <select name="kich_thuoc_man_hinh" style="margin: 25px 25px 25px 5px">
+            <option value="none">None</option>
+            <option value="under2">Dưới 2 inches</option>
+            <option value="2to4">2-4 inches</option>
+            <option value="4to6">4-6 inches</option>
+            <option value="6to8">6-8 inches</option>
+            <option value="over8">Trên 8 inches</option>
+          </select>
+        </div>
+
+        <div style="float: left">
+          <input style="margin: 24px 5px 25px 25px" type="text"
+            placeholder="Nhập tên điện thoại.."
+            name="subname"
+					/>
+          <button
+            style="margin: 24px 25px 25px 5px"
+            type="submit"
+            onclick="{window.location.href={{ url_for('result') }} }"
+          >
+            Tìm kiếm
+          </button>
+        </div>
+
+        <table id="customers">
+          <tr>
+            <th>Tên điện thoại</th>
+            <th>Kích thước màn hình</th>
+            <th>Công nghệ màn hình</th>
+            <th>CPU</th>
+            <th>RAM</th>
+            <th>Bộ nhớ trong</th>
+            <th>Pin</th>
+            <th>Thẻ SIM</th>
+          </tr>
+          {% for index, row in df.iterrows(): %}
+          <tr
+            class="clickable-row"
+            data-href="{{ url_for('record', variable=row['id']) }}"
+            method="POST"
+          >
+            <td>{{ row['ten'] }}</td>
+            <td>{{ row['kich_thuoc_man_hinh'] }}</td>
+            <td>{{ row['cong_nghe_man_hinh'] }}</td>
+            <td>{{ row['cpu'] }}</td>
+            <td>{{ row['ram'] }}</td>
+            <td>{{ row['bo_nho_trong'] }}</td>
+            <td>{{ row['pin'] }}</td>
+            <td>{{ row['sim'] }}</td>
+          </tr>
+          {% endfor %}
+        </table>
+      </form>
+    </div>
+    <script
+      class="jsbin"
+      src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"
+    ></script>
+    <script
+      class="jsbin"
+      src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.0/jquery-ui.min.js"
+    ></script>
+    <script>
+      jQuery(document).ready(function ($) {
+        $(".clickable-row").click(function () {
+          window.location = $(this).data("href");
+        });
+      });
+    </script>
+  </body>
 </html>

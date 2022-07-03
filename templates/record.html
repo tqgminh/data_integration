@@ -1,22 +1,45 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Data Integration</title>
+	<title  >Data Integration</title>
 	<link rel="stylesheet" type="text/css" href="../static/index.css">
 	<script type="text/javascript" src="../static/index.js"></script>
 	<!-- <link class="jsbin" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1/themes/base/jquery-ui.css" rel="stylesheet" type="text/css" />
 	<script class="jsbin" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 	<script class="jsbin" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.0/jquery-ui.min.js"></script> -->
 	<meta charset=utf-8 />
+	<style>
+		#customers {
+			font-family: Arial, Helvetica, sans-serif;
+			border-collapse: collapse;
+			width: 100%;
+		}
+		#customers td, #customers th {
+			border: 1px solid #ddd;
+			padding: 5px;
+		}
+		
+		#customers tr:nth-child(even){background-color: #f2f2f2;}
+		
+		#customers tr:hover {background-color: #ddd;}
+		
+		#customers th {
+			padding-top: 5px;
+			padding-bottom: 5px;
+			text-align: left;
+			background-color: #04AA6D;
+			color: white;
+		}
+	</style>
 </head>
 <body>
 	<head>
 		<div class="header">
-			<span class="title">Các bản ghi tương ứng</span>
+			<h3>Các bản ghi tương ứng</h3>
 		</div>
 	</head>
 	<div class="display">
-		<table>
+		<table id="customers">
 			<tr>
 				<th>Tên điện thoại</th>
                 <th>Giá</th>
