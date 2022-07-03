@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Data Integration</title>
+	<link rel="stylesheet" type="text/css" href="../static/index.css">
+	<script type="text/javascript" src="../static/index.js"></script>
+	<!-- <link class="jsbin" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1/themes/base/jquery-ui.css" rel="stylesheet" type="text/css" />
+	<script class="jsbin" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+	<script class="jsbin" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.0/jquery-ui.min.js"></script> -->
+	<meta charset=utf-8 />
+</head>
+<body>
+	<head>
+		<div class="header">
+			<span class="title">Các bản ghi tương ứng</span>
+		</div>
+	</head>
+	<div class="display">
+		<table>
+			<tr>
+				<th>Tên điện thoại</th>
+                <th>Giá</th>
+				<th>Kích thước màn hình</th>
+				<th>Công nghệ màn hình</th>
+				<th>CPU</th>
+				<th>RAM</th>
+				<th>Bộ nhớ trong</th>
+				<th>Pin</th>
+				<th>Thẻ SIM</th>
+                <th>Cửa hàng</th>
+			</tr>
+			{% for index, row in df.iterrows(): %}
+			<tr class='clickable-row' data-href="{{ url_for('record', variable=row['id']) }}" method = POST>
+				<td>{{ row['ten'] }}</td>
+                <td>{{ row['gia'] }}</td>
+				<td>{{ row['kich_thuoc_man_hinh'] }}</td>
+				<td>{{ row['cong_nghe_man_hinh'] }}</td>
+				<td>{{ row['cpu'] }}</td>
+				<td>{{ row['ram'] }}</td>
+				<td>{{ row['bo_nho_trong'] }}</td>
+				<td>{{ row['pin'] }}</td>
+				<td>{{ row['sim'] }}</td>
+                <td>{{ row['cua_hang'] }}</td>
+			</tr>
+			{% endfor %}
+		</table>
+	</div>
+	
+</body>
+</html>
