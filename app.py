@@ -74,6 +74,7 @@ def result():
 @app.route("/record/<variable>", methods=["GET", "POST"])
 def record(variable):
     schema_id = int(variable)
+    name = final_df[final_df['id']==schema_id]['ten'].tolist()[0]
 
     cps_id = cps_map[cps_map['schema_id']==schema_id]['src_id'].tolist()
     res_cps_df = cps_df.loc[cps_df['id'].isin(cps_id)]
@@ -100,7 +101,7 @@ def record(variable):
     res_dmx_df['cua_hang'] = "Điện máy xanh"
 
     res_df = pd.concat([res_tgdd_df, res_cps_df, res_tiki_df, res_vt_df, res_ddv_df, res_dmx_df])
-    return render_template("record.html", df=res_df)
+    return render_template("record.html", name=name, df=res_df)
 
 
 if __name__ == "__main__":
