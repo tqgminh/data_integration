@@ -1,9 +1,19 @@
-# data_integration
-# run web
-1. Tạo database test trong mongodb,
-2. Vào thư mục web và chạy câu lệnh sau trong terminal:
-  npm i,
-  Sau đó
-  npm run start:dev,
-  Sau khi chạy xong server, vào database test đã tạo trước đó và import file json vào bảng apps
-  Sau khi chạy xong server thì run file html, để hiện thị dữ liệu thì ấn nút "Tìm kiếm" trên giao diện
+# Tích hợp dữ liệu điện thoại di động
+
+Project tích hợp dữ liệu điện thoại từ 6 nguồn Thế giới di động, CellphoneS, Điện máy xanh, Di động Việt, Viettel Store, Tiki.
+
+# Cách chạy chương trình
+
+Chương trình chạy trên môi trường Python 3.
+
+Cài đặt các thư viện cần thiết:
+
+```
+pip install -r requirements.txt
+```
+
+Trỏ đường dẫn tới thư mục chứa project và chạy lệnh:
+
+```
+python app.py
+```

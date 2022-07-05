@@ -1,1 +1,3 @@
-pyenchant
+flask
+pandas
+numpy
